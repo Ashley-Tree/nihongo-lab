@@ -45,6 +45,9 @@ export function validateFullBackup(value: unknown): asserts value is FullBackup 
 export async function restoreFullBackup(value: unknown, mode: RestoreMode): Promise<void> {
   validateFullBackup(value)
   const backup = value as FullBackup
+  if (mode === 'replace' && TABLE_NAMES.some(name => !Array.isArray(backup.tables[name]))) {
+    throw new Error('此备份缺少当前版本的数据表，不能使用替换恢复。请选择合并恢复或导出最新版完整备份。')
+  }
   const tables = TABLE_NAMES.map(name => db.table(name))
   await db.transaction('rw', tables, async () => {
     if (mode === 'replace') {

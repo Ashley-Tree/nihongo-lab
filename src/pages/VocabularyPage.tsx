@@ -1,10 +1,10 @@
 
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { db } from '../db/database'
+import JapaneseSpeechPanel from '../components/JapaneseSpeechPanel'
 import { getAllVocabulary, type VocabularyItem } from '../services/vocabularyService'
 import {
   Search,
-  Volume2,
   Bookmark,
   ChevronLeft,
   ChevronRight,
@@ -194,69 +194,6 @@ const toggleMastered = async (id: number) => {
   
 
   
-const playAudio = async (text: string) => {
-    if (!('speechSynthesis' in window)) {
-      alert('当前浏览器不支持语音播放，请使用最新版 Chrome。')
-      return
-    }
-  
-    const synth = window.speechSynthesis
-  
-    // 获取浏览器语音列表
-    let voices = synth.getVoices()
-  
-    // 某些浏览器需要等待语音列表加载
-    if (voices.length === 0) {
-      voices = await new Promise<SpeechSynthesisVoice[]>(resolve => {
-        const timer = window.setTimeout(() => {
-          resolve(synth.getVoices())
-        }, 2000)
-  
-        synth.addEventListener(
-          'voiceschanged',
-          () => {
-            window.clearTimeout(timer)
-            resolve(synth.getVoices())
-          },
-          { once: true }
-        )
-      })
-    }
-  
-    // 查找日语语音
-    const japaneseVoice = voices.find(
-      voice => voice.lang.toLowerCase() === 'ja-jp'
-    ) || voices.find(
-      voice => voice.lang.toLowerCase().startsWith('ja')
-    )
-  
-    if (!japaneseVoice) {
-      console.warn('当前浏览器没有可用的日语语音。', voices)
-  
-      alert(
-        '没有找到日语语音包！\n\n请检查 Windows 的日语语音设置，安装日语语音后再试。'
-      )
-      return
-    }
-  
-    // 停止之前的播放
-    synth.cancel()
-  
-    const utterance = new SpeechSynthesisUtterance(text)
-  
-    utterance.voice = japaneseVoice
-    utterance.lang = japaneseVoice.lang
-    utterance.rate = 0.85
-    utterance.pitch = 1
-    utterance.volume = 1
-  
-    utterance.onerror = event => {
-      console.error('日语语音播放失败：', event.error)
-    }
-  
-    synth.speak(utterance)
-  }
-  
 
   return (
     <div className="mx-auto max-w-[1200px] space-y-7">
@@ -444,16 +381,9 @@ const playAudio = async (text: string) => {
                   <p className="mt-5 text-lg tracking-[3px] text-[#81917D]">
                     {currentWord.kana}
                   </p>
-                  <button
-                    onClick={event => {
-                      event.stopPropagation()
-                      playAudio(currentWord.kana)
-                    }}
-                    className="mt-7 flex items-center gap-2 rounded-full bg-white px-5 py-3 text-xs text-[#66836D] shadow-sm transition hover:shadow"
-                  >
-                    <Volume2 size={17} />
-                    播放发音
-                  </button>
+                  <div className="mt-5 w-full max-w-md" onClick={event => event.stopPropagation()}>
+                    <JapaneseSpeechPanel text={currentWord.kana || currentWord.japanese} />
+                  </div>
                   <p className="absolute bottom-5 text-[10px] text-[#A0A99B]">
                     点击卡片查看中文释义
                   </p>
