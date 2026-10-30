@@ -1,3 +1,4 @@
+import n5Batch01 from '../data/imports/n5_import_batch_01.json'
 import { useCallback, useEffect, useMemo, useRef, useState, type ChangeEvent, type FormEvent } from 'react'
 import { Search, Plus, Pencil, Trash2, X, Save, RotateCcw, Download, Upload, RotateCw, FileJson } from 'lucide-react'
 import { words as initialWords } from '../data/vocabulary'
@@ -155,6 +156,7 @@ export default function VocabularyManagerPage() {
         <h2 className="font-medium">导入、导出与备份</h2>
         <p className="text-xs leading-6 text-[#858B82]">普通 JSON/CSV 词库可导入；“完整备份”另含已收藏、已掌握和删除记录。请勿把完整备份当成普通词库导入。</p>
         <div className="flex flex-wrap gap-2">
+          <button onClick={() => void act(async () => { const result = await importVocabulary(n5Batch01 as unknown as VocabularyInput[], 'skip'); return `内置 N5 第一批：新增 ${result.added}，跳过 ${result.skipped}` })} disabled={busy} className="rounded-xl border border-[#819A7D] px-3 py-2 text-xs text-[#66836D]">导入内置 N5 50 词</button>
           <button onClick={() => importRef.current?.click()} disabled={busy} className="rounded-xl border px-3 py-2 text-xs"><Upload size={15} className="mr-1 inline"/>导入 JSON/CSV</button>
           <button onClick={() => exportWords('json')} className="rounded-xl border px-3 py-2 text-xs"><FileJson size={15} className="mr-1 inline"/>导出词库 JSON</button>
           <button onClick={() => exportWords('csv')} className="rounded-xl border px-3 py-2 text-xs"><Download size={15} className="mr-1 inline"/>导出词库 CSV</button>

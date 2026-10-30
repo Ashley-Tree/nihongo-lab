@@ -24,10 +24,30 @@ export interface DeletedVocabulary {
   deletedAt: number
 }
 
+export interface ReviewSchedule {
+  wordId: number
+  dueAt: number
+  intervalDays: number
+  ease: number
+  repetitions: number
+  lapses: number
+  lastReviewedAt: number
+}
+
+export interface ReviewLog {
+  id?: number
+  wordId: number
+  rating: 0 | 1 | 2 | 3
+  reviewedAt: number
+  nextDueAt: number
+}
+
 class NihongoDatabase extends Dexie {
   vocabularyProgress!: Table<VocabularyProgress, number>
   customVocabulary!: Table<CustomVocabulary, number>
   deletedVocabulary!: Table<DeletedVocabulary, number>
+  reviewSchedules!: Table<ReviewSchedule, number>
+  reviewLogs!: Table<ReviewLog, number>
 
   constructor() {
     super('NihongoLabDB')
@@ -39,6 +59,13 @@ class NihongoDatabase extends Dexie {
       vocabularyProgress: 'wordId, mastered, favorite, updatedAt',
       customVocabulary: 'id, level, japanese, kana, updatedAt',
       deletedVocabulary: 'id, deletedAt',
+    })
+    this.version(3).stores({
+      vocabularyProgress: 'wordId, mastered, favorite, updatedAt',
+      customVocabulary: 'id, level, japanese, kana, updatedAt',
+      deletedVocabulary: 'id, deletedAt',
+      reviewSchedules: 'wordId, dueAt, lastReviewedAt',
+      reviewLogs: '++id, wordId, reviewedAt, rating',
     })
   }
 }

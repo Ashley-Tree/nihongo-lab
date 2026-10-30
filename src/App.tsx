@@ -2,6 +2,7 @@ import { useState } from "react";
 import VocabularyPage from "./pages/VocabularyPage";
 import VocabularyServiceTest from "./dev/VocabularyServiceTest";
 import VocabularyManagerPage from "./pages/VocabularyManagerPage";
+import ReviewPage from './pages/ReviewPage'
 import {
   HashRouter,
   Routes,
@@ -325,7 +326,7 @@ function AppRoutes() {
         />
         <Route path="/vocabulary-test" element={<VocabularyServiceTest />} />
         <Route path="/vocabulary-manager" element={<VocabularyManagerPage />} />
-        
+        <Route path="/review" element={<ReviewPage />} />
       </Route>
     </Routes>
   );

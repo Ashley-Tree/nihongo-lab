@@ -107,13 +107,13 @@ useEffect(() => {
 
       return matchesLevel && matchesKeyword && matchesFavorite
     })
-  }, [level, keyword, showFavorites, favorites])
+  }, [words, level, keyword, showFavorites, favorites])
 
   const safeIndex = index >= filteredWords.length ? 0 : index
   const currentWord = filteredWords[safeIndex]
 
   const masteredCount = mastered.length
-  const progress = Math.round(masteredCount / words.length * 100)
+  const progress = words.length ? Math.round(masteredCount / words.length * 100) : 0
 
   const changeLevel = (value: string) => {
     setLevel(value)
