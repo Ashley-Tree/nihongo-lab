@@ -10,6 +10,7 @@ import ListeningPage from "./pages/ListeningPage";
 import MockExamPage from "./pages/MockExamPage";
 import StudyReportPage from "./pages/StudyReportPage";
 import UnifiedReviewPage from "./pages/UnifiedReviewPage";
+import DataManagerPage from "./pages/DataManagerPage";
 import {
   HashRouter,
   Routes,
@@ -36,6 +37,8 @@ import {
   CalendarDays,
   Check,
   PenLine,
+  FolderUp,
+  Database,
 } from "lucide-react";
 import StudyPages from "./pages/StudyPages";
 
@@ -50,6 +53,16 @@ const navigation = [
   // { name: "学习报告", path: "/reports", icon: ChartNoAxesCombined },
   { name: "全站智能复习", path: "/review-center", icon: Brain },
   { name: "学习报告", path: "/report", icon: BarChart3 },
+  {
+    name: "词库管理",
+    path: "/vocabulary-manager",
+    icon: FolderUp,
+  },
+  {
+    name: "数据管理",
+    path: "/data-manager",
+    icon: Database,
+  },
 ];
 
 const tasks = [
@@ -218,11 +231,11 @@ function Layout() {
       )}
 
       <aside
-        className={`fixed inset-y-0 left-0 z-50 flex w-[260px] flex-col border-r border-[#ECEDE7] bg-white px-5 py-7 transition-transform duration-300 lg:translate-x-0 ${
+        className={`fixed inset-y-0 left-0 z-50 flex h-dvh w-[260px] flex-col overflow-hidden border-r border-[#ECEDE7] bg-white px-5 py-5 transition-transform duration-300 lg:translate-x-0 ${
           mobileMenu ? "translate-x-0" : "-translate-x-full"
         }`}
       >
-        <div className="mb-10 flex items-center justify-between">
+        <div className="mb-5 flex shrink-0 items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-[#E8EFE7] text-[#66836D]">
               <BookOpen size={22} />
@@ -242,11 +255,11 @@ function Layout() {
           </button>
         </div>
 
-        <p className="mb-3 px-3 text-[11px] tracking-[2px] text-[#A4A79F]">
+        <p className="mb-3 shrink-0 px-3 text-[11px] tracking-[2px] text-[#A4A79F]">
           LEARNING MENU
         </p>
 
-        <nav className="flex flex-1 flex-col gap-1">
+        <nav className="min-h-0 flex-1 space-y-1 overflow-x-hidden overflow-y-auto overscroll-contain pr-1 [scrollbar-width:thin]">
           {navigation.map((item) => {
             const Icon = item.icon;
             return (
@@ -270,7 +283,7 @@ function Layout() {
           })}
         </nav>
 
-        <div className="rounded-2xl bg-[#F6F5EF] p-4">
+        <div className="mt-3 shrink-0 rounded-2xl bg-[#F6F5EF] p-3">
           <p className="text-xs font-medium text-[#8B795E]">Keep learning</p>
           <p className="mt-2 text-sm">毎日少しずつ。</p>
           <p className="mt-1 text-xs leading-5 text-[#929087]">
@@ -278,7 +291,7 @@ function Layout() {
           </p>
         </div>
 
-        <button className="mt-5 flex items-center gap-3 px-3 py-2 text-sm text-[#858A82]">
+        <button className="mt-2 flex shrink-0 items-center gap-3 px-3 py-2 text-sm text-[#858A82]">
           <Settings size={18} />
           设置
         </button>
@@ -344,6 +357,7 @@ function AppRoutes() {
         <Route path="/mock-exam" element={<MockExamPage />} />
         <Route path="/report" element={<StudyReportPage />} />
         <Route path="/review-center" element={<UnifiedReviewPage />} />
+        <Route path="/data-manager" element={<DataManagerPage />} />
       </Route>
     </Routes>
   );
