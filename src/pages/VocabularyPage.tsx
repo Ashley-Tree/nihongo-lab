@@ -1,553 +1,165 @@
-
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
+import { BookOpen, Search, Star, CheckCircle2, Play, Minus, Plus, Eye, GraduationCap } from 'lucide-react'
 import { db } from '../db/database'
-import JapaneseSpeechPanel from '../components/JapaneseSpeechPanel'
 import { getAllVocabulary, type VocabularyItem } from '../services/vocabularyService'
-import {
-  Search,
-  Bookmark,
-  ChevronLeft,
-  ChevronRight,
-  RotateCw,
-  Check,
-  X,
-  Shuffle,
-  BookOpen,
-  Star,
-  Layers,
-  CircleHelp,
-} from 'lucide-react'
+import { getTodayVocabularyPlan, saveTodayVocabularyPlan } from '../services/vocabularyPlanService'
 
-const levels = ['全部', 'N5', 'N4', 'N3', 'N2', 'N1']
+const levels = ['全部', 'N5', 'N4', 'N3', 'N2', 'N1'] as const
+type ViewMode = 'browse' | 'study'
 
 export default function VocabularyPage() {
-  const cardRef = useRef<HTMLDivElement>(null)
+  const navigate = useNavigate()
   const [words, setWords] = useState<VocabularyItem[]>([])
-  const [wordsLoading, setWordsLoading] = useState(true)
-  const [wordsError, setWordsError] = useState('')
-
-  const [level, setLevel] = useState('全部')
+  const [level, setLevel] = useState<(typeof levels)[number]>('全部')
   const [keyword, setKeyword] = useState('')
-  const [index, setIndex] = useState(0)
-  const [flipped, setFlipped] = useState(false)
+  const [mode, setMode] = useState<ViewMode>('browse')
+  const [revealedWordIds, setRevealedWordIds] = useState<number[]>([])
+  const [targetCount, setTargetCount] = useState(20)
   const [favorites, setFavorites] = useState<number[]>([])
   const [mastered, setMastered] = useState<number[]>([])
-  const [dataLoaded, setDataLoaded] = useState(false)
-  const [dbError, setDbError] = useState('')
-  const [showFavorites, setShowFavorites] = useState(false)
-  const [studyMode, setStudyMode] = useState(true)
-
-  
-useEffect(() => {
-    let alive = true
-    async function loadWords() {
-      try {
-        const data = await getAllVocabulary()
-        if (alive) { setWords(data); setWordsError(''); setWordsLoading(false) }
-      } catch (err) {
-        console.error('读取词库失败：', err)
-        if (alive) { setWordsError('词库读取失败，请检查数据库'); setWordsLoading(false) }
-      }
-    }
-    void loadWords()
-    const onChange = () => { void loadWords() }
-    window.addEventListener('nihongo-vocabulary-changed', onChange)
-    window.addEventListener('focus', onChange)
-    return () => {
-      alive = false
-      window.removeEventListener('nihongo-vocabulary-changed', onChange)
-      window.removeEventListener('focus', onChange)
-    }
-  }, [])
+  const [onlyFavorites, setOnlyFavorites] = useState(false)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState('')
+  const [todayCompleted, setTodayCompleted] = useState(0)
+  const [starting, setStarting] = useState(false)
 
   useEffect(() => {
     let active = true
-  
-    async function loadProgress() {
+    async function load() {
       try {
-        const records = await db.vocabularyProgress.toArray()
-  
+        const [allWords, records, plan] = await Promise.all([
+          getAllVocabulary(), db.vocabularyProgress.toArray(), getTodayVocabularyPlan(),
+        ])
         if (!active) return
-  
-        setFavorites(
-          records.filter(item => item.favorite).map(item => item.wordId)
-        )
-  
-        setMastered(
-          records.filter(item => item.mastered).map(item => item.wordId)
-        )
-  
-        setDataLoaded(true)
-      } catch (error) {
-        console.error('读取学习记录失败：', error)
-  
-        if (active) {
-          setDbError('无法读取本地学习记录，请检查浏览器存储权限。')
+        setWords(allWords)
+        setFavorites(records.filter(item => item.favorite).map(item => item.wordId))
+        setMastered(records.filter(item => item.mastered).map(item => item.wordId))
+        if (plan) {
+          setTargetCount(plan.targetCount)
+          setLevel(plan.level)
+          setTodayCompleted(plan.completedIds.length)
         }
-      }
+      } catch (err) {
+        console.error(err)
+        if (active) setError('读取词库或学习记录失败，请刷新页面重试。')
+      } finally { if (active) setLoading(false) }
     }
-  
-    loadProgress()
-  
-    return () => {
-      active = false
-    }
+    void load()
+    const onChanged = () => { void load() }
+    window.addEventListener('nihongo-vocabulary-changed', onChanged)
+    return () => { active = false; window.removeEventListener('nihongo-vocabulary-changed', onChanged) }
   }, [])
-  
 
-  const filteredWords = useMemo(() => {
-    return words.filter(word => {
-      const matchesLevel = level === '全部' || word.level === level
-      const matchesKeyword =
-        word.japanese.includes(keyword.trim()) ||
-        word.kana.includes(keyword.trim()) ||
-        word.meaning.includes(keyword.trim())
+  const filtered = useMemo(() => {
+    const q = keyword.trim().toLocaleLowerCase()
+    return words.filter(word =>
+      (level === '全部' || word.level === level) &&
+      (!onlyFavorites || favorites.includes(word.id)) &&
+      (!q || [word.japanese, word.kana, word.meaning, word.romaji ?? ''].some(value => value.toLocaleLowerCase().includes(q))),
+    )
+  }, [words, level, keyword, favorites, onlyFavorites])
 
-      const matchesFavorite = !showFavorites || favorites.includes(word.id)
-
-      return matchesLevel && matchesKeyword && matchesFavorite
-    })
-  }, [words, level, keyword, showFavorites, favorites])
-
-  const safeIndex = index >= filteredWords.length ? 0 : index
-  const currentWord = filteredWords[safeIndex]
-
-  const masteredCount = mastered.length
-  const progress = words.length ? Math.round(masteredCount / words.length * 100) : 0
-
-  const changeLevel = (value: string) => {
-    setLevel(value)
-    setIndex(0)
-    setFlipped(false)
+  function changeMode(next: ViewMode) {
+    setMode(next)
+    setRevealedWordIds([])
   }
 
-  const nextWord = () => {
-    if (!filteredWords.length) return
-    setIndex(current => (current + 1) % filteredWords.length)
-    setFlipped(false)
+  function toggleReveal(id: number) {
+    setRevealedWordIds(old => old.includes(id) ? old.filter(item => item !== id) : [...old, id])
   }
 
-  const previousWord = () => {
-    if (!filteredWords.length) return
-    setIndex(current => (current - 1 + filteredWords.length) % filteredWords.length)
-    setFlipped(false)
-  }
+  const todayCount = words.filter(word => level === '全部' || word.level === level).length
 
-  
-const toggleFavorite = async (id: number) => {
-    if (!dataLoaded || dbError) return
-  
+  async function startLearning() {
+    if (!words.length) return
+    setStarting(true); setError('')
     try {
-      const newFavorite = !favorites.includes(id)
-  
-      await db.transaction('rw', db.vocabularyProgress, async () => {
-        const previous = await db.vocabularyProgress.get(id)
-  
-        await db.vocabularyProgress.put({
-          wordId: id,
-          favorite: newFavorite,
-          mastered: previous?.mastered ?? false,
-          updatedAt: Date.now(),
-        })
-      })
-  
-      setFavorites(current =>
-        newFavorite
-          ? [...new Set([...current, id])]
-          : current.filter(item => item !== id)
-      )
-    } catch (error) {
-      console.error('保存收藏状态失败：', error)
-      setDbError('保存收藏状态失败，请检查浏览器存储权限。')
-    }
+      const plan = await saveTodayVocabularyPlan(words, targetCount, level, mastered)
+      if (!plan.wordIds.length) { setError('当前等级没有可安排的词汇，请更换等级或导入词库。'); return }
+      navigate('/vocabulary/study')
+    } catch (err) {
+      console.error(err); setError('保存今日学习计划失败，请检查浏览器存储权限。')
+    } finally { setStarting(false) }
   }
-  
-
-  
-const toggleMastered = async (id: number) => {
-    if (!dataLoaded || dbError) return
-  
-    try {
-      const newMastered = !mastered.includes(id)
-  
-      await db.transaction('rw', db.vocabularyProgress, async () => {
-        const previous = await db.vocabularyProgress.get(id)
-  
-        await db.vocabularyProgress.put({
-          wordId: id,
-          mastered: newMastered,
-          favorite: previous?.favorite ?? false,
-          updatedAt: Date.now(),
-        })
-      })
-  
-      setMastered(current =>
-        newMastered
-          ? [...new Set([...current, id])]
-          : current.filter(item => item !== id)
-      )
-    } catch (error) {
-      console.error('保存掌握状态失败：', error)
-      setDbError('保存掌握状态失败，请检查浏览器存储权限。')
-    }
-  }
-  
-
-  
 
   return (
-    <div className="mx-auto max-w-[1200px] space-y-7">
+    <div className="mx-auto max-w-[1200px] space-y-6 pb-12">
+      <section className="flex flex-wrap items-end justify-between gap-4">
+        <div><p className="text-[10px] tracking-[2px] text-[#9A9D95]">VOCABULARY CENTER</p><h1 className="mt-2 text-2xl font-semibold sm:text-3xl">词汇学习</h1><p className="mt-2 text-sm text-[#858B82]">先制定每日目标，再进入独立学习界面记忆单词。</p></div>
+        <div className="flex items-center gap-2 rounded-xl bg-[#EAF0E8] px-4 py-3 text-sm text-[#66836D]"><BookOpen size={18}/> 共 {words.length.toLocaleString()} 个词汇</div>
+      </section>
+      {error && <div role="alert" className="rounded-xl bg-[#F9EDEA] p-3 text-sm text-[#A5685E]">{error}</div>}
+      {loading && <p className="text-sm text-[#92978E]">正在加载词库...</p>}
 
-        
-{!dataLoaded && !dbError && (
-  <div className="rounded-xl bg-[#EAF0E8] px-4 py-3 text-sm text-[#66836D]">
-    正在读取本地学习记录，请稍候...
-  </div>
-)}
-
-{dbError && (
-  <div
-    role="alert"
-    className="rounded-xl bg-[#F9EDEA] px-4 py-3 text-sm text-[#A5685E]"
-  >
-    {dbError}
-  </div>
-)}
-
-
-      {wordsLoading && <p className="text-sm text-[#92978E]">正在加载词库...</p>}
-      {wordsError && <p role="alert" className="text-sm text-red-600">{wordsError}</p>}
-      {/* 标题区域 */}
-      <section>
-        <p className="mb-2 text-[10px] tracking-[2px] text-[#9A9D95]">
-          VOCABULARY LEARNING
-        </p>
-        <div className="flex flex-wrap items-center justify-between gap-4">
-          <div>
-            <h1 className="text-2xl font-semibold sm:text-3xl">
-              词汇学习
-            </h1>
-            <p className="mt-2 text-sm text-[#858B82]">
-              每天积累新单词，让日语表达更加自然。
-            </p>
+      <section className="rounded-2xl border border-[#ECEDE7] bg-white p-5 sm:p-6">
+        <div className="mb-4 flex flex-wrap items-center justify-between gap-3"><div><p className="text-[10px] tracking-[2px] text-[#9A9D95]">DAILY GOAL</p><h2 className="mt-1 text-lg font-semibold">我的每日学习计划</h2></div><span className="rounded-lg bg-[#F1F3ED] px-3 py-1.5 text-xs text-[#71836F]">今日已完成 {todayCompleted} 个</span></div>
+        <div className="grid gap-5 md:grid-cols-[1fr_auto] md:items-end">
+          <div className="space-y-4">
+            <div><label htmlFor="daily-level" className="mb-2 block text-xs text-[#858B82]">学习等级</label><select id="daily-level" value={level} onChange={e => setLevel(e.target.value as (typeof levels)[number])} className="w-full rounded-xl border border-[#ECEDE7] bg-white px-3 py-3 text-sm md:max-w-xs">{levels.map(item => <option key={item} value={item}>{item === '全部' ? '全部等级' : item}</option>)}</select></div>
+            <div><label htmlFor="daily-count" className="mb-2 block text-xs text-[#858B82]">每天学习多少个单词？（1～200）</label><div className="flex max-w-xs items-center gap-2"><button type="button" aria-label="减少每日单词数" onClick={() => setTargetCount(value => Math.max(1, value - 1))} className="rounded-xl border p-3"><Minus size={16}/></button><input id="daily-count" type="number" min={1} max={200} value={targetCount} onChange={e => setTargetCount(Math.min(200, Math.max(1, Number(e.target.value) || 1)))} className="w-full rounded-xl border border-[#ECEDE7] px-3 py-3 text-center text-lg font-semibold"/><button type="button" aria-label="增加每日单词数" onClick={() => setTargetCount(value => Math.min(200, value + 1))} className="rounded-xl border p-3"><Plus size={16}/></button></div></div>
+            <p className="text-xs text-[#A0A39B]">当前筛选等级共有 {todayCount} 个词汇；优先安排尚未掌握的单词。</p>
           </div>
-          <div className="flex items-center gap-2 rounded-xl bg-[#EAF0E8] px-4 py-3 text-[#66836D]">
-            <BookOpen size={18} />
-            <span className="text-xs font-medium">JLPT N5 — N1</span>
-          </div>
+          <button onClick={() => void startLearning()} disabled={loading || starting || !words.length} className="inline-flex min-h-14 items-center justify-center gap-2 rounded-xl bg-[#66836D] px-7 py-4 text-sm font-semibold text-white transition hover:bg-[#56745D] disabled:opacity-50"><Play size={17} fill="currentColor"/>{starting ? '正在准备...' : '去学习'}</button>
         </div>
       </section>
 
-      {/* 统计卡片 */}
-      <section className="grid grid-cols-3 gap-3">
-        <div className="rounded-2xl border border-[#ECEDE7] bg-white p-4 sm:p-5">
-          <Layers size={19} className="mb-3 text-[#819781]" />
-          <p className="text-xl font-semibold">{words.length}</p>
-          <p className="mt-1 text-[10px] text-[#92978E] sm:text-xs">当前词汇</p>
-        </div>
-
-        <div className="rounded-2xl border border-[#ECEDE7] bg-white p-4 sm:p-5">
-          <Check size={19} className="mb-3 text-[#819781]" />
-          <p className="text-xl font-semibold">{masteredCount}</p>
-          <p className="mt-1 text-[10px] text-[#92978E] sm:text-xs">已掌握</p>
-        </div>
-
-        <div className="rounded-2xl border border-[#ECEDE7] bg-white p-4 sm:p-5">
-          <Star size={19} className="mb-3 text-[#B69A65]" />
-          <p className="text-xl font-semibold">{favorites.length}</p>
-          <p className="mt-1 text-[10px] text-[#92978E] sm:text-xs">我的收藏</p>
-        </div>
-      </section>
-
-      {/* 学习进度 */}
-      <section className="rounded-2xl border border-[#ECEDE7] bg-white p-5">
-        <div className="mb-3 flex items-center justify-between">
-          <span className="text-sm font-medium">整体掌握进度</span>
-          <span className="text-sm font-semibold text-[#66836D]">{progress}%</span>
-        </div>
-        <div className="h-2 overflow-hidden rounded-full bg-[#EEF0EA]">
-          <div
-            className="h-full rounded-full bg-[#819A7D] transition-all"
-            style={{ width: `${progress}%` }}
-          />
-        </div>
-        <p className="mt-2 text-[10px] text-[#A0A39B]">
-          已掌握 {masteredCount} / {words.length} 个单词
-        </p>
-      </section>
-
-      {/* 筛选区域 */}
       <section className="space-y-4">
-        <div className="flex flex-wrap items-center justify-between gap-3">
-          <div>
-            <h2 className="font-semibold">选择学习等级</h2>
-            <p className="mt-1 text-xs text-[#A0A39B]">根据 JLPT 等级筛选单词</p>
+        <div className="flex flex-wrap items-center justify-between gap-3"><div><h2 className="font-semibold">词汇列表</h2><p className="mt-1 text-xs text-[#A0A39B]">首页负责浏览、搜索和筛选；记忆卡片在独立学习页面。</p></div><div className="inline-flex rounded-xl border border-[#ECEDE7] bg-white p-1"><button onClick={() => changeMode('browse')} className={`inline-flex items-center gap-2 rounded-lg px-3 py-2 text-xs ${mode === 'browse' ? 'bg-[#EAF0E8] text-[#526D57]' : 'text-[#858B82]'}`}><Eye size={14}/>浏览模式</button><button onClick={() => changeMode('study')} className={`inline-flex items-center gap-2 rounded-lg px-3 py-2 text-xs ${mode === 'study' ? 'bg-[#EAF0E8] text-[#526D57]' : 'text-[#858B82]'}`}><GraduationCap size={14}/>学习模式</button></div></div>
+        <div className="flex flex-wrap gap-2">{levels.map(item => <button key={item} onClick={() => setLevel(item)} className={`rounded-xl px-4 py-2.5 text-xs ${level === item ? 'bg-[#66836D] text-white' : 'border border-[#ECEDE7] bg-white text-[#858B82]'}`}>{item}</button>)}<button onClick={() => setOnlyFavorites(value => !value)} className={`inline-flex items-center gap-1 rounded-xl px-3 py-2.5 text-xs ${onlyFavorites ? 'bg-[#F3EDE3] text-[#98794E]' : 'border border-[#ECEDE7] bg-white text-[#858B82]'}`}><Star size={13}/>只看收藏</button></div>
+        <div className="flex items-center gap-3 rounded-xl border border-[#ECEDE7] bg-white px-4 py-3"><Search size={18} className="shrink-0 text-[#A0A39B]"/><input value={keyword} onChange={e => setKeyword(e.target.value)} placeholder="搜索日语、假名、罗马音或释义..." className="w-full bg-transparent text-sm outline-none"/>{keyword && <button onClick={() => setKeyword('')} className="text-xs text-[#92978E]">清除</button>}</div>
+        <div className="overflow-hidden rounded-2xl border border-[#ECEDE7] bg-white">
+          <div className="flex items-center justify-between border-b border-[#F0F0EB] px-4 py-3 text-xs text-[#92978E]">
+            <span>共 {filtered.length.toLocaleString()} 个单词</span>
+            <span>{mode === 'browse' ? '浏览模式 · 显示释义' : '学习模式 · 点击单词查看/隐藏释义'}</span>
           </div>
-          <button
-            onClick={() => {
-              setShowFavorites(!showFavorites)
-              setIndex(0)
-              setFlipped(false)
-            }}
-            className={`flex items-center gap-2 rounded-xl px-3 py-2 text-xs transition ${
-              showFavorites
-                ? 'bg-[#F3EDE3] text-[#98794E]'
-                : 'border border-[#ECEDE7] bg-white text-[#858B82]'
-            }`}
-          >
-            <Bookmark size={15} />
-            只看收藏
-          </button>
-        </div>
-
-        <div className="flex flex-wrap gap-2">
-          {levels.map(item => (
-            <button
-              key={item}
-              onClick={() => changeLevel(item)}
-              className={`rounded-xl px-5 py-2.5 text-xs font-medium transition ${
-                level === item
-                  ? 'bg-[#66836D] text-white'
-                  : 'border border-[#ECEDE7] bg-white text-[#858B82] hover:bg-[#F3F5EF]'
-              }`}
-            >
-              {item}
-            </button>
-          ))}
-        </div>
-
-        <div className="flex items-center gap-3 rounded-xl border border-[#ECEDE7] bg-white px-4 py-3">
-          <Search size={18} className="shrink-0 text-[#A0A39B]" />
-          <input
-            value={keyword}
-            onChange={event => {
-              setKeyword(event.target.value)
-              setIndex(0)
-              setFlipped(false)
-            }}
-            placeholder="搜索日语单词、假名或中文释义..."
-            className="w-full bg-transparent text-sm outline-none placeholder:text-[#B0B3AB]"
-          />
-          {keyword && (
-            <button onClick={() => setKeyword('')} className="text-[#A0A39B]">
-              <X size={17} />
-            </button>
+          {filtered.length === 0 ? (
+            <p className="p-8 text-center text-sm text-[#92978E]">没有找到符合条件的单词。</p>
+          ) : (
+            <div className="divide-y divide-[#F0F0EB]">
+              {filtered.map(word => {
+                const revealed = mode === 'browse' || revealedWordIds.includes(word.id)
+                const contents = (
+                  <>
+                    <div className="min-w-0 flex-1">
+                      <div className="flex flex-wrap items-center gap-2">
+                        <span className="font-semibold">{word.japanese}</span>
+                        <span className="text-xs text-[#899487]">{word.kana}</span>
+                        {word.romaji && <span className="text-[11px] text-[#A0A39B]">{word.romaji}</span>}
+                        {favorites.includes(word.id) && <Star size={13} className="fill-[#B69A65] text-[#B69A65]"/>}
+                        {mastered.includes(word.id) && <CheckCircle2 size={14} className="text-[#66836D]"/>}
+                      </div>
+                      {revealed ? (
+                        <>
+                          <p className="mt-1 text-xs text-[#858B82]">{word.meaning}</p>
+                          {word.pitchAccent !== undefined && word.pitchAccent !== null && <p className="mt-1 text-[11px] text-[#899487]">音调：{word.pitchAccent} · {word.pitchPattern || '音调类型待补充'}</p>}
+                        </>
+                      ) : <p className="mt-1 text-xs text-[#A0A39B]">点击查看释义</p>}
+                    </div>
+                    <span className="shrink-0 rounded-md bg-[#F1F3ED] px-2 py-1 text-[10px] text-[#789079]">{word.level}</span>
+                  </>
+                )
+                return mode === 'study' ? (
+                  <button
+                    key={word.id}
+                    type="button"
+                    aria-expanded={revealed}
+                    aria-label={`${word.japanese}，${revealed ? '点击隐藏释义' : '点击显示释义'}`}
+                    onClick={() => toggleReveal(word.id)}
+                    className="flex w-full items-center justify-between gap-3 px-4 py-3 text-left transition hover:bg-[#F8FAF6] focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#66836D]"
+                  >
+                    {contents}
+                  </button>
+                ) : (
+                  <div key={word.id} className="flex items-center justify-between gap-3 px-4 py-3">
+                    {contents}
+                  </div>
+                )
+              })}
+            </div>
           )}
         </div>
       </section>
-
-      {/* 学习模式 */}
-      <section
-        ref={cardRef}
-        id="vocabulary-card"
-        className="rounded-[24px] border border-[#ECEDE7] bg-white p-5 sm:p-8 scroll-mt-24"
-      >
-        <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
-          <div>
-            <p className="mb-1 text-[10px] tracking-[2px] text-[#A0A39B]">
-              FLASHCARD STUDY
-            </p>
-            <h2 className="text-lg font-semibold">单词记忆卡片</h2>
-          </div>
-          <button
-            onClick={() => setStudyMode(!studyMode)}
-            className="flex items-center gap-2 rounded-xl bg-[#F4F5F0] px-3 py-2 text-xs text-[#71836F]"
-          >
-            <Shuffle size={15} />
-            {studyMode ? '学习模式' : '浏览模式'}
-          </button>
-        </div>
-
-        {currentWord ? (
-          <>
-            <div
-              onClick={() => setFlipped(!flipped)}
-              className="group relative flex min-h-[320px] cursor-pointer flex-col items-center justify-center overflow-hidden rounded-[20px] bg-[#F4F6F1] px-5 py-8 text-center transition hover:bg-[#EEF2EA] sm:min-h-[370px]"
-            >
-              <div className="absolute right-5 top-5">
-                <span className="rounded-lg bg-white px-3 py-1.5 text-[10px] font-medium text-[#81917D]">
-                  {currentWord.level}
-                </span>
-              </div>
-
-              {!flipped ? (
-                <>
-                  <p className="mb-6 text-[10px] tracking-[3px] text-[#A0A99A]">
-                    JAPANESE WORD
-                  </p>
-                  <h3 className="text-5xl font-semibold tracking-widest text-[#394A3D] sm:text-6xl">
-                    {currentWord.japanese}
-                  </h3>
-                  <p className="mt-5 text-lg tracking-[3px] text-[#81917D]">
-                    {currentWord.kana}
-                  </p>
-                  <div className="mt-5 w-full max-w-md" onClick={event => event.stopPropagation()}>
-                    <JapaneseSpeechPanel text={currentWord.kana || currentWord.japanese} />
-                  </div>
-                  <p className="absolute bottom-5 text-[10px] text-[#A0A99B]">
-                    点击卡片查看中文释义
-                  </p>
-                </>
-              ) : (
-                <>
-                  <p className="mb-5 text-[10px] tracking-[3px] text-[#A0A99A]">
-                    MEANING & EXAMPLE
-                  </p>
-                  <h3 className="text-3xl font-semibold text-[#526D57]">
-                    {currentWord.meaning}
-                  </h3>
-                  <p className="mt-3 text-sm text-[#899487]">
-                    {currentWord.type}
-                  </p>
-                  <div className="mt-7 max-w-lg rounded-xl bg-white p-5">
-                    <p className="text-base font-medium text-[#46574A]">
-                      {currentWord.example}
-                    </p>
-                    <p className="mt-3 text-xs text-[#92978E]">
-                      {currentWord.exampleMeaning}
-                    </p>
-                  </div>
-                  <p className="absolute bottom-5 text-[10px] text-[#A0A99B]">
-                    点击卡片返回单词正面
-                  </p>
-                </>
-              )}
-            </div>
-
-            <div className="mt-5 flex items-center justify-between gap-2">
-              <button
-                onClick={previousWord}
-                disabled={filteredWords.length <= 1}
-                className="flex items-center gap-1 rounded-xl border border-[#ECEDE7] px-3 py-3 text-xs text-[#858B82] hover:bg-[#F5F6F2] disabled:opacity-30"
-              >
-                <ChevronLeft size={17} />
-                <span className="hidden sm:inline">上一个</span>
-              </button>
-
-              <span className="text-xs text-[#92978E]">
-                {safeIndex + 1} / {filteredWords.length}
-              </span>
-
-              <button
-                onClick={nextWord}
-                disabled={filteredWords.length <= 1}
-                className="flex items-center gap-1 rounded-xl border border-[#ECEDE7] px-3 py-3 text-xs text-[#858B82] hover:bg-[#F5F6F2] disabled:opacity-30"
-              >
-                <span className="hidden sm:inline">下一个</span>
-                <ChevronRight size={17} />
-              </button>
-            </div>
-
-            <div className="mt-5 grid grid-cols-2 gap-3">
-              <button
-                onClick={() => toggleMastered(currentWord.id)}
-                disabled={!dataLoaded || Boolean(dbError)}
-                className={`flex items-center justify-center gap-2 rounded-xl py-3 text-xs font-medium transition ${
-                  mastered.includes(currentWord.id)
-                    ? 'bg-[#66836D] text-white'
-                    : 'border border-[#DCE5D9] bg-[#F0F4EE] text-[#66836D]'
-                }`}
-              >
-                <Check size={16} />
-                {mastered.includes(currentWord.id) ? '已掌握 · 点击撤销' : '标记为已掌握'}
-              </button>
-
-              <button
-                onClick={() => toggleFavorite(currentWord.id)}
-                disabled={!dataLoaded || Boolean(dbError)}
-                className={`flex items-center justify-center gap-2 rounded-xl py-3 text-xs font-medium transition ${
-                  favorites.includes(currentWord.id)
-                    ? 'bg-[#F3EDE3] text-[#98794E]'
-                    : 'border border-[#ECEDE7] bg-white text-[#858B82]'
-                }`}
-              >
-                <Bookmark size={16} />
-                {favorites.includes(currentWord.id) ? '已收藏' : '加入收藏'}
-              </button>
-            </div>
-          </>
-        ) : (
-          <div className="flex min-h-[300px] flex-col items-center justify-center text-center">
-            <CircleHelp size={36} className="mb-4 text-[#B3B9AE]" />
-            <p className="font-medium">没有找到符合条件的单词</p>
-            <p className="mt-2 text-xs text-[#A0A39B]">
-              请尝试其他等级或关键词
-            </p>
-            <button
-              onClick={() => {
-                setLevel('全部')
-                setKeyword('')
-                setShowFavorites(false)
-                setIndex(0)
-              }}
-              className="mt-5 rounded-xl bg-[#66836D] px-5 py-3 text-xs text-white"
-            >
-              清除筛选
-            </button>
-          </div>
-        )}
-      </section>
-
-      {/* 单词列表 */}
-      <section className="rounded-2xl border border-[#ECEDE7] bg-white p-5 sm:p-6">
-        <div className="mb-5 flex items-center justify-between">
-          <div>
-            <h2 className="font-semibold">当前单词列表</h2>
-            <p className="mt-1 text-xs text-[#A0A39B]">
-              共 {filteredWords.length} 个单词
-            </p>
-          </div>
-          <BookOpen size={20} className="text-[#819781]" />
-        </div>
-
-        <div className="divide-y divide-[#F0F0EB]">
-          {filteredWords.map(word => (
-            <button
-              key={word.id}
-              onClick={() => {
-                setIndex(filteredWords.findIndex(item => item.id === word.id))
-                setFlipped(false)
-                setStudyMode(true)
-              
-                requestAnimationFrame(() => {
-                  cardRef.current?.scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'start',
-                  })
-                })
-              }}
-              className="flex w-full items-center justify-between gap-3 py-4 text-left hover:bg-[#FAFAF7]"
-            >
-              <div className="min-w-0">
-                <div className="flex flex-wrap items-center gap-2">
-                  <span className="text-base font-semibold">{word.japanese}</span>
-                  <span className="text-xs text-[#899487]">{word.kana}</span>
-                  {favorites.includes(word.id) && (
-                    <Star size={13} className="fill-[#B69A65] text-[#B69A65]" />
-                  )}
-                </div>
-                <p className="mt-1 text-xs text-[#92978E]">{word.meaning}</p>
-              </div>
-              <div className="flex shrink-0 items-center gap-2">
-                <span className="rounded-md bg-[#F1F3ED] px-2 py-1 text-[10px] text-[#789079]">
-                  {word.level}
-                </span>
-                {mastered.includes(word.id) && (
-                  <Check size={16} className="text-[#66836D]" />
-                )}
-              </div>
-            </button>
-          ))}
-        </div>
-      </section>
-
-      <div className="flex items-start gap-3 rounded-xl bg-[#F3F5EF] p-4">
-        <RotateCw size={17} className="mt-0.5 shrink-0 text-[#789079]" />
-        <p className="text-xs leading-6 text-[#858B82]">
-          词汇来自初始 JSON 与个人 IndexedDB 词库；收藏和掌握记录保存在当前浏览器。
-          可前往词库管理中心添加、编辑和导入。语音功能暂缓修复。
-        </p>
-      </div>
     </div>
   )
 }
