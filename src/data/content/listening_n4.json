@@ -1,0 +1,502 @@
+[
+  {
+    "id": "n4-listening-001",
+    "level": "N4",
+    "title": "旅行の変更",
+    "scene_zh": "旅行安排变更",
+    "script_ja": "女：土曜日の旅行、朝八時に駅でいいですか。男：天気予報では午前中雨だそうです。午後に出発しませんか。女：では、一時にしましょう。",
+    "prompt_zh": "他们改到几点出发？",
+    "options": [
+      "八点",
+      "十点",
+      "一点",
+      "三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "两人决定下午一点出发。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-002",
+    "level": "N4",
+    "title": "アルバイトの面接",
+    "scene_zh": "兼职面试",
+    "script_ja": "店長：週に何日働けますか。女：月曜日と水曜日、それから土曜日です。店長：土曜日は午後からでもいいですか。女：はい、大丈夫です。",
+    "prompt_zh": "女方哪几天可以工作？",
+    "options": [
+      "周一、周三、周六",
+      "周二、周四、周六",
+      "每天",
+      "只有周末"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "女方说周一、周三和周六可以工作。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-003",
+    "level": "N4",
+    "title": "忘れ物の連絡",
+    "scene_zh": "遗失物通知",
+    "script_ja": "男：昨日の会議室に資料を忘れたようです。女：机の上に青いファイルがありました。受付に預けておきましたよ。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "手机",
+      "蓝色文件夹",
+      "雨伞",
+      "钥匙"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方发现并保管了蓝色文件夹。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-004",
+    "level": "N4",
+    "title": "料理教室",
+    "scene_zh": "料理课程",
+    "script_ja": "先生：今日は野菜カレーを作ります。まず玉ねぎを切ってください。その後、鍋で肉と一緒に炒めます。",
+    "prompt_zh": "首先要做什么？",
+    "options": [
+      "炒肉",
+      "切洋葱",
+      "煮米饭",
+      "放咖喱块"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "老师说首先切洋葱。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-005",
+    "level": "N4",
+    "title": "電車の遅れ",
+    "scene_zh": "电车晚点",
+    "script_ja": "駅員：事故のため、二番線の電車は十五分遅れています。急ぐ方は三番線の電車をご利用ください。",
+    "prompt_zh": "二号线晚点多久？",
+    "options": [
+      "五分钟",
+      "十分钟",
+      "十五分钟",
+      "二十分钟"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "广播说明晚点十五分钟。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-006",
+    "level": "N4",
+    "title": "健康診断",
+    "scene_zh": "健康检查",
+    "script_ja": "医者：最近、よく眠れていますか。男：仕事が忙しくて、夜遅くまで起きています。医者：寝る前にスマートフォンを見るのをやめてみてください。",
+    "prompt_zh": "医生建议男方做什么？",
+    "options": [
+      "多喝咖啡",
+      "睡前不要看手机",
+      "减少运动",
+      "晚饭后工作"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "医生建议睡前停止看手机。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-007",
+    "level": "N4",
+    "title": "会議の場所",
+    "scene_zh": "会议地点",
+    "script_ja": "女：会議室は三階でしたよね。男：変更になりました。今日は一階の大きい部屋です。女：分かりました。",
+    "prompt_zh": "会议改在哪里？",
+    "options": [
+      "二楼小会议室",
+      "三楼",
+      "一楼大会议室",
+      "大厅外面"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说改到一楼的大房间。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-008",
+    "level": "N4",
+    "title": "引っ越しの手伝い",
+    "scene_zh": "搬家帮忙",
+    "script_ja": "男：日曜日の引っ越しを手伝ってくれませんか。女：午前中は無理ですが、午後なら行けます。男：では、二時に来てください。",
+    "prompt_zh": "女方什么时候去帮忙？",
+    "options": [
+      "周日上午",
+      "周日下午两点",
+      "周六下午",
+      "周一晚上"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方下午两点去。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-009",
+    "level": "N4",
+    "title": "日本語教室",
+    "scene_zh": "日语课程报名",
+    "script_ja": "受付：初級クラスは火曜日と木曜日です。中級クラスは月曜日と金曜日です。男：私は中級なので、月曜日に来ます。",
+    "prompt_zh": "男方星期几上课？",
+    "options": [
+      "星期一",
+      "星期二",
+      "星期四",
+      "星期日"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "中级课安排在周一和周五，男方选择周一。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-010",
+    "level": "N4",
+    "title": "買い物の相談",
+    "scene_zh": "购物建议",
+    "script_ja": "女：このコートは少し高いですね。男：でも、軽くて暖かいですよ。女：そうですね。長く使えそうだから、これにします。",
+    "prompt_zh": "女方为什么决定买这件外套？",
+    "options": [
+      "颜色便宜",
+      "轻而且暖和",
+      "朋友推荐",
+      "尺寸最大"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她认为外套轻便保暖，可以长期使用。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-011",
+    "level": "N4",
+    "title": "旅行先の天気",
+    "scene_zh": "旅行天气",
+    "script_ja": "男：明日の山は寒いでしょうか。女：朝は五度ぐらいだそうです。上着を持って行ったほうがいいですよ。",
+    "prompt_zh": "女方建议男方带什么？",
+    "options": [
+      "雨鞋",
+      "外套",
+      "泳衣",
+      "太阳镜"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "因为早上较冷，建议带外套。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-012",
+    "level": "N4",
+    "title": "図書館の利用",
+    "scene_zh": "图书馆使用",
+    "script_ja": "女：このパソコンは誰でも使えますか。男：学生なら使えます。ただし、一人一時間までです。",
+    "prompt_zh": "学生一次最多能使用多久？",
+    "options": [
+      "半小时",
+      "一小时",
+      "两小时",
+      "三小时"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "工作人员说每人最多一小时。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-013",
+    "level": "N4",
+    "title": "電話の伝言",
+    "scene_zh": "电话留言",
+    "script_ja": "女：山田さんに伝えてください。明日の打ち合わせは十時ではなく、十時半に始まります。男：分かりました。伝えておきます。",
+    "prompt_zh": "会议几点开始？",
+    "options": [
+      "九点半",
+      "十点",
+      "十点半",
+      "十一点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "女方通知改为十点半。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-014",
+    "level": "N4",
+    "title": "忘年会",
+    "scene_zh": "聚会安排",
+    "script_ja": "男：忘年会は駅前の店に決まりました。開始は午後六時です。女：仕事が終わってから行くので、少し遅れるかもしれません。",
+    "prompt_zh": "聚会几点开始？",
+    "options": [
+      "五点",
+      "六点",
+      "七点",
+      "八点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方说聚会下午六点开始。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-015",
+    "level": "N4",
+    "title": "新しい仕事",
+    "scene_zh": "工作培训",
+    "script_ja": "上司：最初の一週間は先輩と一緒に仕事をしてください。分からないことがあれば、その場で聞いてください。",
+    "prompt_zh": "新人第一周怎样工作？",
+    "options": [
+      "独自工作",
+      "和前辈一起工作",
+      "在家工作",
+      "只参加会议"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "上司要求第一周跟前辈一起工作。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-016",
+    "level": "N4",
+    "title": "スポーツ大会",
+    "scene_zh": "运动会",
+    "script_ja": "女：リレーは何時からですか。男：午前十時の予定でしたが、雨で十一時に変わりました。",
+    "prompt_zh": "接力赛改到几点？",
+    "options": [
+      "九点",
+      "十点",
+      "十一点",
+      "十二点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "因为下雨，改为十一点。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-017",
+    "level": "N4",
+    "title": "レストランの予約",
+    "scene_zh": "餐厅预约",
+    "script_ja": "店員：ご予約は何名様ですか。男：四人です。店員：窓側のお席はいっぱいですが、入口の近くならご用意できます。",
+    "prompt_zh": "餐厅能提供什么座位？",
+    "options": [
+      "窗边座位",
+      "入口附近座位",
+      "室外座位",
+      "包间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "窗边满了，只能安排入口附近。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-018",
+    "level": "N4",
+    "title": "勉強方法",
+    "scene_zh": "学习方法",
+    "script_ja": "男：漢字を覚えるのが難しいです。女：書くだけでなく、短い文を作って使ってみると覚えやすいですよ。",
+    "prompt_zh": "女方建议怎样记汉字？",
+    "options": [
+      "只听发音",
+      "写短句并实际使用",
+      "不复习",
+      "只看中文"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议通过造短句来使用汉字。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-019",
+    "level": "N4",
+    "title": "駅への道",
+    "scene_zh": "问路",
+    "script_ja": "女：市役所へ行きたいのですが。男：このバスに乗って三つ目で降りてください。市役所はバス停の向かいです。",
+    "prompt_zh": "应该在哪一站下车？",
+    "options": [
+      "第二站",
+      "第三站",
+      "第四站",
+      "终点站"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方说在第三站下车。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n4-listening-020",
+    "level": "N4",
+    "title": "休みの連絡",
+    "scene_zh": "请假联系",
+    "script_ja": "男：熱があるので、今日は会社を休ませてください。女：分かりました。病院へ行って、ゆっくり休んでください。",
+    "prompt_zh": "男方为什么请假？",
+    "options": [
+      "要搬家",
+      "发烧了",
+      "要旅行",
+      "家里来客人"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方说自己发烧了。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  }
+]

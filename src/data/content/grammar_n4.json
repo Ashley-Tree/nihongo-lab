@@ -1,0 +1,222 @@
+[
+  {
+    "id": "n4-zhg-001",
+    "level": "N4",
+    "pattern": "V たことがある",
+    "meaning_zh": "曾经做过……",
+    "formation_zh": "动词た形 + ことがある",
+    "usage_zh": "表示截至现在有过某种经历，常与「一度」「何度も」等搭配。",
+    "examples": [
+      {
+        "ja": "日本へ行ったことがあります。",
+        "zh": "我去过日本。"
+      }
+    ],
+    "contrast_pattern": "V たことがない",
+    "contrast_notes_zh": "不要与单纯过去时混淆；重点是“有过这种经历”。",
+    "tags": [
+      "经验"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-002",
+    "level": "N4",
+    "pattern": "普通形 + と思います",
+    "meaning_zh": "我认为……；我想……",
+    "formation_zh": "普通形 + と思います",
+    "usage_zh": "表达说话人的判断、意见或推测。名词和な形容词的现在肯定形前通常接「だ」。",
+    "examples": [
+      {
+        "ja": "この映画はおもしろいと思います。",
+        "zh": "我觉得这部电影很有趣。"
+      }
+    ],
+    "contrast_pattern": "普通形 + と言います",
+    "contrast_notes_zh": "「と思います」表达自己的想法；「と言います」用于转述说法。",
+    "tags": [
+      "引用/判断"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-003",
+    "level": "N4",
+    "pattern": "普通形 + ので",
+    "meaning_zh": "因为……；由于……",
+    "formation_zh": "普通形 + ので；名词/な形容词 + な + ので",
+    "usage_zh": "说明原因或理由，语气通常较柔和、客观。",
+    "examples": [
+      {
+        "ja": "雨が降っているので、出かけません。",
+        "zh": "因为正在下雨，所以不出门。"
+      }
+    ],
+    "contrast_pattern": "普通形 + から",
+    "contrast_notes_zh": "「ので」较委婉；「から」主观理由感更明显。",
+    "tags": [
+      "原因"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-004",
+    "level": "N4",
+    "pattern": "V つもりです",
+    "meaning_zh": "打算……",
+    "formation_zh": "动词辞书形／ない形 + つもりです",
+    "usage_zh": "表达说话人已有的意图或计划。",
+    "examples": [
+      {
+        "ja": "来年、日本へ留学するつもりです。",
+        "zh": "我打算明年去日本留学。"
+      }
+    ],
+    "contrast_pattern": "V 予定です",
+    "contrast_notes_zh": "「つもり」侧重个人意图；「予定」侧重安排或计划表。",
+    "tags": [
+      "计划"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-005",
+    "level": "N4",
+    "pattern": "可能形",
+    "meaning_zh": "能够……；可以……",
+    "formation_zh": "五段动词：う段→え段 + る；一段：去る + られる；する→できる；来る→来られる",
+    "usage_zh": "表示能力或客观可能性。可能动词的对象常用「が」，也可见「を」。",
+    "examples": [
+      {
+        "ja": "私は少し日本語が話せます。",
+        "zh": "我会说一点日语。"
+      }
+    ],
+    "contrast_pattern": "V ことができる",
+    "contrast_notes_zh": "可能形更简洁；「ことができる」较明确、结构更完整。",
+    "tags": [
+      "可能"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-006",
+    "level": "N4",
+    "pattern": "V ば",
+    "meaning_zh": "如果……就……",
+    "formation_zh": "五段：う段→え段 + ば；一段：去る + れば；する→すれば；来る→来れば",
+    "usage_zh": "表示条件。常用于一般条件、建议或条件成立后的结果。",
+    "examples": [
+      {
+        "ja": "時間があれば、手伝います。",
+        "zh": "如果有时间，我就帮忙。"
+      }
+    ],
+    "contrast_pattern": "V たら",
+    "contrast_notes_zh": "「ば」常表达一般条件；「たら」适用范围更广，也可表示先后发生。",
+    "tags": [
+      "条件"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-007",
+    "level": "N4",
+    "pattern": "V たら",
+    "meaning_zh": "如果……；……之后",
+    "formation_zh": "动词た形 + ら",
+    "usage_zh": "可表示假设条件，也可表示某事完成后发生另一动作。",
+    "examples": [
+      {
+        "ja": "家に帰ったら、電話してください。",
+        "zh": "到家后请给我打电话。"
+      }
+    ],
+    "contrast_pattern": "V ば",
+    "contrast_notes_zh": "「たら」可用于具体一次性的先后顺序；「ば」通常不直接表达单纯先后。",
+    "tags": [
+      "条件/时间"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-008",
+    "level": "N4",
+    "pattern": "V ながら",
+    "meaning_zh": "一边……一边……",
+    "formation_zh": "动词ます形去ます + ながら",
+    "usage_zh": "表示同一主体同时进行两个动作，后项通常是主要动作。",
+    "examples": [
+      {
+        "ja": "音楽を聞きながら勉強します。",
+        "zh": "一边听音乐一边学习。"
+      }
+    ],
+    "contrast_pattern": "V て、V",
+    "contrast_notes_zh": "「ながら」强调同一主体同时进行；て形连接不一定表示同时。",
+    "tags": [
+      "同时"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-009",
+    "level": "N4",
+    "pattern": "V てしまう",
+    "meaning_zh": "……完了；不小心……",
+    "formation_zh": "动词て形 + しまう",
+    "usage_zh": "可表示动作彻底完成，也可表示遗憾、意外或不希望发生的结果。",
+    "examples": [
+      {
+        "ja": "財布を忘れてしまいました。",
+        "zh": "我不小心把钱包忘了。"
+      }
+    ],
+    "contrast_pattern": "V ておく",
+    "contrast_notes_zh": "「てしまう」强调完成或遗憾；「ておく」表示事先做好准备。",
+    "tags": [
+      "结果/遗憾"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n4-zhg-010",
+    "level": "N4",
+    "pattern": "V そうです（样态）",
+    "meaning_zh": "看起来……；好像要……",
+    "formation_zh": "动词ます形去ます + そう；い形容词去い + そう；な形容词词干 + そう",
+    "usage_zh": "根据眼前迹象作出样态判断。否定形式和「いい／ない」有特殊变化。",
+    "examples": [
+      {
+        "ja": "このケーキはおいしそうです。",
+        "zh": "这个蛋糕看起来很好吃。"
+      }
+    ],
+    "contrast_pattern": "普通形 + そうです（传闻）",
+    "contrast_notes_zh": "样态「そう」看外观迹象；传闻「そう」接普通形，表示听说。",
+    "tags": [
+      "推测"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  }
+]

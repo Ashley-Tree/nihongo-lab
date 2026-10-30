@@ -1,0 +1,502 @@
+[
+  {
+    "id": "n5-listening-001",
+    "level": "N5",
+    "title": "待ち合わせ",
+    "scene_zh": "朋友约见",
+    "script_ja": "男：明日、何時に駅で会いますか。女：十時はどうですか。男：すみません、十時半でもいいですか。女：はい。じゃ、駅の前で十時半に。",
+    "prompt_zh": "他们几点见面？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "最后双方确定十点半在车站前见面。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-002",
+    "level": "N5",
+    "title": "買い物",
+    "scene_zh": "超市购物",
+    "script_ja": "店員：いらっしゃいませ。女：このりんごを三つください。店員：はい。ほかに何か。女：牛乳も一本お願いします。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个和牛奶一瓶",
+      "苹果一瓶和牛奶三个",
+      "面包和牛奶",
+      "苹果两个和水"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "客人买了三个苹果和一瓶牛奶。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-003",
+    "level": "N5",
+    "title": "天気",
+    "scene_zh": "朋友谈天气",
+    "script_ja": "女：今日は寒いですね。男：そうですね。朝は雪も降りましたよ。女：えっ、私は見ませんでした。",
+    "prompt_zh": "早上下了什么？",
+    "options": [
+      "雨",
+      "雪",
+      "风",
+      "冰雹"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方说早上下了雪。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-004",
+    "level": "N5",
+    "title": "学校",
+    "scene_zh": "询问上课时间",
+    "script_ja": "男：日本語の授業は何時からですか。女：九時からです。でも、先生は八時半に来ます。男：分かりました。",
+    "prompt_zh": "日语课几点开始？",
+    "options": [
+      "八点",
+      "八点半",
+      "九点",
+      "九点半"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "女方明确说课程九点开始。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-005",
+    "level": "N5",
+    "title": "家族",
+    "scene_zh": "介绍家人",
+    "script_ja": "女：写真を見てもいいですか。男：はい。これは父で、これは母です。女：妹さんもいますか。男：ええ、後ろにいます。",
+    "prompt_zh": "照片里还有谁？",
+    "options": [
+      "哥哥",
+      "妹妹",
+      "老师",
+      "朋友"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方说妹妹在后面。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-006",
+    "level": "N5",
+    "title": "昼ご飯",
+    "scene_zh": "午餐安排",
+    "script_ja": "男：昼ご飯を食べに行きませんか。女：いいですね。何を食べますか。男：駅の近くでうどんはどうですか。女：賛成です。",
+    "prompt_zh": "他们打算吃什么？",
+    "options": [
+      "寿司",
+      "咖喱",
+      "乌冬面",
+      "汉堡"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方提议吃乌冬面，女方同意。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-007",
+    "level": "N5",
+    "title": "忘れ物",
+    "scene_zh": "寻找雨伞",
+    "script_ja": "女：すみません、ここに傘がありませんでしたか。男：黒い傘ですか。女：はい。男：受付に届いていましたよ。",
+    "prompt_zh": "雨伞在哪里？",
+    "options": [
+      "教室",
+      "车站外",
+      "前台",
+      "商店"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说黑伞被送到了前台。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-008",
+    "level": "N5",
+    "title": "電話",
+    "scene_zh": "电话留言",
+    "script_ja": "男：もしもし、田中さんはいらっしゃいますか。女：今、出かけています。男：では、午後六時ごろまた電話します。",
+    "prompt_zh": "男方什么时候再打电话？",
+    "options": [
+      "中午",
+      "下午三点",
+      "下午六点左右",
+      "晚上九点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说下午六点左右再打。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-009",
+    "level": "N5",
+    "title": "休日",
+    "scene_zh": "周末计划",
+    "script_ja": "女：日曜日は何をしますか。男：午前中は部屋を掃除します。午後は友達とサッカーをします。",
+    "prompt_zh": "男方下午做什么？",
+    "options": [
+      "打扫房间",
+      "踢足球",
+      "看电影",
+      "购物"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方说下午和朋友踢足球。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-010",
+    "level": "N5",
+    "title": "駅",
+    "scene_zh": "问路",
+    "script_ja": "女：すみません、図書館へ行きたいんですが。男：この道をまっすぐ行って、二つ目の角を右に曲がってください。",
+    "prompt_zh": "应该在哪里右转？",
+    "options": [
+      "第一个路口",
+      "第二个路口",
+      "第三个路口",
+      "车站前"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方指示在第二个路口右转。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-011",
+    "level": "N5",
+    "title": "病院",
+    "scene_zh": "预约时间",
+    "script_ja": "受付：ご予約は何時ですか。男：午後二時です。受付：今日は少し混んでいますので、二時半ごろになります。",
+    "prompt_zh": "预计几点看诊？",
+    "options": [
+      "两点",
+      "两点十五分",
+      "两点半左右",
+      "三点半"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "前台告知大约两点半。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-012",
+    "level": "N5",
+    "title": "喫茶店",
+    "scene_zh": "点饮料",
+    "script_ja": "店員：お飲み物はいかがですか。女：紅茶をお願いします。店員： sıcakいものと冷たいものがあります。女：冷たいほうで。",
+    "prompt_zh": "客人点了什么？",
+    "options": [
+      "热咖啡",
+      "冰红茶",
+      "热红茶",
+      "冰牛奶"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "客人选择了冷的红茶。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-013",
+    "level": "N5",
+    "title": "旅行",
+    "scene_zh": "出发交通",
+    "script_ja": "男：京都まで何で行きますか。女：新幹線で行きます。バスより早いですから。",
+    "prompt_zh": "他们乘什么去京都？",
+    "options": [
+      "飞机",
+      "公交车",
+      "新干线",
+      "出租车"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "女方说乘新干线。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-014",
+    "level": "N5",
+    "title": "時間",
+    "scene_zh": "确认时间",
+    "script_ja": "女：今、何時ですか。男：九時十分です。女：映画は九時半からですね。男：ええ、あと二十分あります。",
+    "prompt_zh": "电影几点开始？",
+    "options": [
+      "九点",
+      "九点十分",
+      "九点半",
+      "十点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "女方确认电影九点半开始。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-015",
+    "level": "N5",
+    "title": "プレゼント",
+    "scene_zh": "生日礼物",
+    "script_ja": "男：お母さんに何を買いましたか。女：花を買いました。父はケーキを買うそうです。",
+    "prompt_zh": "女方买了什么？",
+    "options": [
+      "蛋糕",
+      "花",
+      "书",
+      "围巾"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方说自己买了花。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-016",
+    "level": "N5",
+    "title": "仕事",
+    "scene_zh": "上班安排",
+    "script_ja": "女：明日は会社へ行きますか。男：いいえ、家で仕事をします。会議もオンラインです。",
+    "prompt_zh": "男方明天在哪里工作？",
+    "options": [
+      "公司",
+      "家里",
+      "学校",
+      "咖啡店"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方说明明天在家工作。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-017",
+    "level": "N5",
+    "title": "天気予報",
+    "scene_zh": "天气预报",
+    "script_ja": "アナウンサー：明日の午前中は晴れますが、午後から雨になるでしょう。外出する方は傘をお持ちください。",
+    "prompt_zh": "明天下午天气怎样？",
+    "options": [
+      "晴天",
+      "下雨",
+      "下雪",
+      "大风"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "预报说下午开始下雨。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-018",
+    "level": "N5",
+    "title": "図書館",
+    "scene_zh": "借书规则",
+    "script_ja": "女：この本は何日借りられますか。男：二週間です。返す日は来月の五日ですよ。",
+    "prompt_zh": "可以借多久？",
+    "options": [
+      "一周",
+      "两周",
+      "三周",
+      "一个月"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "工作人员说可以借两周。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-019",
+    "level": "N5",
+    "title": "スポーツ",
+    "scene_zh": "运动安排",
+    "script_ja": "男：テニスをしませんか。女：今日は雨ですから、体育館でバドミントンをしましょう。",
+    "prompt_zh": "他们最后做什么运动？",
+    "options": [
+      "网球",
+      "足球",
+      "羽毛球",
+      "游泳"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "因为下雨，改为在体育馆打羽毛球。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n5-listening-020",
+    "level": "N5",
+    "title": "帰宅",
+    "scene_zh": "回家时间",
+    "script_ja": "母：今日は何時に帰りますか。子：部活があるので、七時ごろになります。母：分かった。夕食を取っておくね。",
+    "prompt_zh": "孩子大约几点回家？",
+    "options": [
+      "五点",
+      "六点",
+      "七点",
+      "八点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "孩子说大约七点回家。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  }
+]

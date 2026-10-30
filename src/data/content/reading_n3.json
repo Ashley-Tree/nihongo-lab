@@ -1,0 +1,402 @@
+[
+  {
+    "id": "n3-reading-001",
+    "level": "N3",
+    "title": "地域の清掃活動",
+    "passage_ja": "この町では毎月第一日曜日に、住民が公園や川の周りを掃除している。参加者は年々増え、活動の後には交流会も開かれるようになった。",
+    "prompt_zh": "清扫活动之后还会做什么？",
+    "options": [
+      "举行交流会",
+      "关闭公园",
+      "举办考试",
+      "修建车站"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "活动后会举行交流会。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-002",
+    "level": "N3",
+    "title": "在宅勤務の工夫",
+    "passage_ja": "在宅勤務は通勤時間を減らせる一方、仕事と私生活の区別が難しくなることがある。そのため、仕事を始める時間と終える時間を決め、休憩も意識して取るようにしている。",
+    "prompt_zh": "作者怎样避免工作与生活混在一起？",
+    "options": [
+      "不休息",
+      "固定工作开始和结束时间",
+      "每天去办公室",
+      "减少睡眠"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "作者会规定工作起止时间并主动休息。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-003",
+    "level": "N3",
+    "title": "情報の確かさ",
+    "passage_ja": "インターネットには便利な情報が多いが、古い内容や誤った情報も残っている。情報を利用する際は、発信元と更新日を確認し、必要なら別の資料とも比べるべきだ。",
+    "prompt_zh": "使用网络信息时作者建议确认什么？",
+    "options": [
+      "网页颜色",
+      "发信来源和更新时间",
+      "浏览次数",
+      "广告数量"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "应确认来源和更新时间，并与其他资料比较。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-004",
+    "level": "N3",
+    "title": "読書の方法",
+    "passage_ja": "日本語の本を読むとき、知らない言葉をすべて辞書で調べると時間がかかる。まず文全体から意味を推測し、何度も出てくる言葉だけを調べる方法も効果的だ。",
+    "prompt_zh": "作者建议怎样处理生词？",
+    "options": [
+      "全部跳过",
+      "每个词立即查字典",
+      "先根据上下文推测，再查重要词",
+      "只背汉字"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "建议先推测，再查反复出现的重要词。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-005",
+    "level": "N3",
+    "title": "公共交通",
+    "passage_ja": "地方では人口減少によりバスの利用者が少なくなっている。しかし、高齢者や車を運転しない人にとって、バスは買い物や通院に欠かせない。地域の実情に合った運行方法が求められている。",
+    "prompt_zh": "为什么仍然需要地方公交？",
+    "options": [
+      "方便游客拍照",
+      "对不驾车居民的生活很重要",
+      "可以减少道路",
+      "因为没有火车司机"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "公交对老人和不驾车者购物、就医很重要。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-006",
+    "level": "N3",
+    "title": "会議の進め方",
+    "passage_ja": "会議で意見が出ない場合、参加者に順番に発言を求めるだけでは十分でないことがある。事前に議題を共有し、考える時間を設けることで、具体的な意見が出やすくなる。",
+    "prompt_zh": "作者认为怎样更容易得到具体意见？",
+    "options": [
+      "不提前通知议题",
+      "事先共享议题并留出思考时间",
+      "缩短所有会议",
+      "只让负责人发言"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "提前共享议题并给予思考时间。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-007",
+    "level": "N3",
+    "title": "食品ロス",
+    "passage_ja": "スーパーでは、売れ残った食品を減らすため、閉店前に値引きを行う店が増えている。消費者にとっては安く買える利点があるが、必要な量だけ購入する意識も大切だ。",
+    "prompt_zh": "作者认为减少食品浪费还需要什么？",
+    "options": [
+      "只买打折品",
+      "消费者按需购买",
+      "增加包装",
+      "延长营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "消费者也应有按需购买的意识。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-008",
+    "level": "N3",
+    "title": "運動を続ける",
+    "passage_ja": "健康のために運動を始めても、最初から高い目標を立てると続かないことがある。短い時間でも毎日続け、慣れてから少しずつ量を増やすほうが習慣になりやすい。",
+    "prompt_zh": "作者建议怎样开始运动？",
+    "options": [
+      "一开始设很高目标",
+      "先短时间持续，再逐渐增加",
+      "每月只运动一次",
+      "只在周末运动"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "从短时间开始，坚持后再逐步增加。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-009",
+    "level": "N3",
+    "title": "町の観光",
+    "passage_ja": "観光客が増えると地域の店が活気づく一方、交通の混雑やごみの問題も起こる。住民の生活を守りながら観光を続けるには、訪問者に地域のルールを伝える工夫が必要だ。",
+    "prompt_zh": "作者建议采取什么措施？",
+    "options": [
+      "限制所有商店营业",
+      "向游客说明当地规则",
+      "停止公共交通",
+      "增加垃圾而不处理"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "需要向游客传达当地规则。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-010",
+    "level": "N3",
+    "title": "働く人の学び",
+    "passage_ja": "仕事に必要な知識は、学校を卒業した時点で身につくとは限らない。技術や社会の変化に対応するため、働きながら学び直す機会を持つことが重要になっている。",
+    "prompt_zh": "作者为什么认为工作后仍要学习？",
+    "options": [
+      "为了减少工作",
+      "适应技术和社会变化",
+      "为了避免交流",
+      "因为学校没有课程"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "持续学习有助于适应技术和社会变化。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-011",
+    "level": "N3",
+    "title": "地域の防災",
+    "passage_ja": "大きな災害が起きたとき、行政の支援がすぐに届くとは限らない。普段から近所の人と連絡を取り合い、避難場所や連絡方法を確認しておくことが重要だ。",
+    "prompt_zh": "灾害前应该做什么？",
+    "options": [
+      "等待灾害发生",
+      "确认避难地点和联络方式",
+      "不认识邻居",
+      "关闭手机"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "平时要确认避难地点和联系方式。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-012",
+    "level": "N3",
+    "title": "言葉の使い分け",
+    "passage_ja": "同じ意味に見える言葉でも、使う相手や場面によって自然な表現は異なる。辞書の意味だけで判断せず、例文や実際の会話を通じて使い方を確認するとよい。",
+    "prompt_zh": "作者建议怎样学习词语用法？",
+    "options": [
+      "只记中文意思",
+      "结合例句和实际会话",
+      "避免听力练习",
+      "只背单词表"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "通过例句和实际会话确认用法。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-013",
+    "level": "N3",
+    "title": "睡眠と集中力",
+    "passage_ja": "睡眠時間を削って勉強すれば、その分だけ学習が進むとは限らない。睡眠不足になると集中力が下がり、覚えた内容を思い出しにくくなることもある。",
+    "prompt_zh": "文章指出睡眠不足可能造成什么？",
+    "options": [
+      "集中力下降",
+      "记忆力一定提高",
+      "学习时间增加",
+      "身体不需要休息"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "睡眠不足会降低集中力，也可能影响回忆。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-014",
+    "level": "N3",
+    "title": "新しい制度",
+    "passage_ja": "会社は来月から在宅勤務の制度を変更する。利用できる日数は増えるが、チーム内で予定を共有し、必要な日は出社することが条件となる。",
+    "prompt_zh": "新制度的条件是什么？",
+    "options": [
+      "每天必须在家",
+      "团队共享计划，必要时到公司",
+      "不能使用电脑",
+      "只能周末工作"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "需要共享安排，必要时出勤。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-015",
+    "level": "N3",
+    "title": "古い建物の保存",
+    "passage_ja": "古い建物を残すには、修理にかかる費用だけでなく、そこで暮らす人の安全も考えなければならない。外観を守ることと、現在の生活に合う設備を整えることの両立が課題だ。",
+    "prompt_zh": "保存老建筑时要兼顾什么？",
+    "options": [
+      "只保留外观",
+      "历史外观与居民安全、生活设备",
+      "只考虑游客",
+      "全部拆除重建"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "需要兼顾外观保护和安全、现代生活需求。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-016",
+    "level": "N3",
+    "title": "買い物の変化",
+    "passage_ja": "オンラインで買い物をする人が増えたが、商品を実際に見てから選びたい人もいる。そのため、店で確認してネットで購入するなど、複数の方法を組み合わせる人もいる。",
+    "prompt_zh": "文章说明消费者怎样购物？",
+    "options": [
+      "所有人只在实体店买",
+      "所有人只在网上买",
+      "根据需要结合不同方式",
+      "不再购买商品"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "有人结合实体店确认和网上购买。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-017",
+    "level": "N3",
+    "title": "ボランティア",
+    "passage_ja": "災害の後、遠くから多くの人が支援に来ることがある。しかし、現地で必要な物や作業は時間とともに変わるため、支援する側は現地の情報を確認してから行動する必要がある。",
+    "prompt_zh": "支援者行动前应该做什么？",
+    "options": [
+      "自己决定物资",
+      "确认当地最新需求",
+      "不与当地联系",
+      "只带旧物品"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "需要先确认当地实际需求。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-018",
+    "level": "N3",
+    "title": "学校の発表",
+    "passage_ja": "発表が苦手な学生にとって、原稿をすべて覚えることは大きな負担になる。要点を短くまとめたメモを使い、聞き手の反応を見ながら話す練習も役立つ。",
+    "prompt_zh": "作者建议怎样准备发表？",
+    "options": [
+      "背下所有原稿",
+      "用要点笔记并观察听众",
+      "不做练习",
+      "只读屏幕"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议用要点笔记并练习观察听众。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-019",
+    "level": "N3",
+    "title": "地域の図書館",
+    "passage_ja": "図書館は本を借りる場所としてだけでなく、学習会や子ども向けの活動を行う場所にもなっている。世代の異なる人が集まることで、地域の交流を生み出す役割も期待されている。",
+    "prompt_zh": "文章认为图书馆还有什么作用？",
+    "options": [
+      "只储存旧书",
+      "促进社区交流",
+      "代替医院",
+      "限制儿童活动"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "图书馆也能成为促进社区交流的场所。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n3-reading-020",
+    "level": "N3",
+    "title": "仕事の評価",
+    "passage_ja": "仕事の成果を数字だけで評価すると、目に見えにくい協力や長期的な改善が見落とされる場合がある。公平な評価には、結果だけでなく、過程や周囲への貢献も見る必要がある。",
+    "prompt_zh": "作者认为评价工作时还应看什么？",
+    "options": [
+      "只看销售数字",
+      "过程和对周围的贡献",
+      "员工年龄",
+      "出勤时的服装"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "应考虑过程和对团队的贡献。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  }
+]

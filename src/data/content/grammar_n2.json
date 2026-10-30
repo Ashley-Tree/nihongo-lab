@@ -1,0 +1,222 @@
+[
+  {
+    "id": "n2-zhg-001",
+    "level": "N2",
+    "pattern": "～に違いない",
+    "meaning_zh": "一定……；肯定……",
+    "formation_zh": "普通形 + に違いない；名词／な形容词词干 + に違いない",
+    "usage_zh": "说话人根据较强依据作出确信程度很高的推断。",
+    "examples": [
+      {
+        "ja": "電気がついているから、まだ家にいるに違いない。",
+        "zh": "灯还亮着，所以他一定还在家。"
+      }
+    ],
+    "contrast_pattern": "～かもしれない",
+    "contrast_notes_zh": "「に違いない」确信度高；「かもしれない」只表示可能。",
+    "tags": [
+      "推断"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-002",
+    "level": "N2",
+    "pattern": "～はずだ",
+    "meaning_zh": "按理应该……；应该会……",
+    "formation_zh": "动词／い形容词普通形 + はず；な形容词 + なはず；名词 + のはず",
+    "usage_zh": "根据已知事实、计划或常识判断某事理应成立。",
+    "examples": [
+      {
+        "ja": "彼はもう着いたはずです。",
+        "zh": "他按理应该已经到了。"
+      }
+    ],
+    "contrast_pattern": "～べきだ",
+    "contrast_notes_zh": "「はず」是基于依据的判断；「べき」表达义务或规范。",
+    "tags": [
+      "判断"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-003",
+    "level": "N2",
+    "pattern": "～ものの",
+    "meaning_zh": "虽然……但是……",
+    "formation_zh": "普通形 + ものの；名词／な形容词 + であるものの",
+    "usage_zh": "表示前项成立，但后项出现与预期不同或形成对照的情况，偏书面。",
+    "examples": [
+      {
+        "ja": "資格は取ったものの、まだ仕事に生かせていません。",
+        "zh": "虽然取得了资格，但还没能在工作中发挥作用。"
+      }
+    ],
+    "contrast_pattern": "～けれども",
+    "contrast_notes_zh": "「ものの」书面色彩较强，常用于让步后的落差。",
+    "tags": [
+      "逆接"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-004",
+    "level": "N2",
+    "pattern": "～にもかかわらず",
+    "meaning_zh": "尽管……却……",
+    "formation_zh": "名词 + にもかかわらず；普通形 + にもかかわらず",
+    "usage_zh": "表示后项与前项通常应有的结果相反，语气较正式。",
+    "examples": [
+      {
+        "ja": "雨にもかかわらず、多くの人が集まりました。",
+        "zh": "尽管下雨，还是聚集了很多人。"
+      }
+    ],
+    "contrast_pattern": "～のに",
+    "contrast_notes_zh": "「にもかかわらず」更正式，常突出违反预期的结果。",
+    "tags": [
+      "逆接"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-005",
+    "level": "N2",
+    "pattern": "～に関して",
+    "meaning_zh": "关于……；就……而言",
+    "formation_zh": "名词 + に関して／に関する + 名词",
+    "usage_zh": "指出讨论、调查或说明的主题，常用于正式场合。",
+    "examples": [
+      {
+        "ja": "環境問題に関して意見を交換しました。",
+        "zh": "我们就环境问题交换了意见。"
+      }
+    ],
+    "contrast_pattern": "～について",
+    "contrast_notes_zh": "「に関して」较正式；「について」适用范围更广、更日常。",
+    "tags": [
+      "主题"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-006",
+    "level": "N2",
+    "pattern": "～をめぐって",
+    "meaning_zh": "围绕……；关于……产生争论",
+    "formation_zh": "名词 + をめぐって／をめぐる + 名词",
+    "usage_zh": "常用于围绕某个问题、利益或议题发生讨论、对立或争议。",
+    "examples": [
+      {
+        "ja": "新しい計画をめぐって、意見が分かれています。",
+        "zh": "围绕新计划，大家意见不一。"
+      }
+    ],
+    "contrast_pattern": "～について",
+    "contrast_notes_zh": "「をめぐって」常暗示多方观点、争论或利益关系。",
+    "tags": [
+      "主题/争议"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-007",
+    "level": "N2",
+    "pattern": "～に応じて",
+    "meaning_zh": "根据……；按照……相应地",
+    "formation_zh": "名词 + に応じて／に応じた + 名词",
+    "usage_zh": "表示后项根据前项的变化、要求或情况作出相应调整。",
+    "examples": [
+      {
+        "ja": "経験に応じて、仕事の内容が変わります。",
+        "zh": "工作内容会根据经验而变化。"
+      }
+    ],
+    "contrast_pattern": "～によって",
+    "contrast_notes_zh": "「に応じて」强调相应调整；「によって」可表示方法、原因、差异等多种关系。",
+    "tags": [
+      "对应"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-008",
+    "level": "N2",
+    "pattern": "～に限らず",
+    "meaning_zh": "不限于……；不仅……",
+    "formation_zh": "名词 + に限らず",
+    "usage_zh": "表示范围不局限于前项，后项还包括其他对象。",
+    "examples": [
+      {
+        "ja": "この店は学生に限らず、社会人にも人気があります。",
+        "zh": "这家店不仅受学生欢迎，也受上班族欢迎。"
+      }
+    ],
+    "contrast_pattern": "～だけでなく",
+    "contrast_notes_zh": "「に限らず」强调范围不限；「だけでなく」强调追加。",
+    "tags": [
+      "范围"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-009",
+    "level": "N2",
+    "pattern": "～わけではない",
+    "meaning_zh": "并不是……；并非一定……",
+    "formation_zh": "普通形 + わけではない；名词／な形容词 + というわけではない",
+    "usage_zh": "部分否定或纠正过度概括，表示不能简单得出某结论。",
+    "examples": [
+      {
+        "ja": "日本語が嫌いなわけではありません。",
+        "zh": "我并不是讨厌日语。"
+      }
+    ],
+    "contrast_pattern": "～わけがない",
+    "contrast_notes_zh": "「わけではない」部分否定；「わけがない」表示不可能。",
+    "tags": [
+      "否定/限定"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n2-zhg-010",
+    "level": "N2",
+    "pattern": "～どころか",
+    "meaning_zh": "岂止……；别说……反而……",
+    "formation_zh": "普通形 + どころか；名词 + どころか",
+    "usage_zh": "表示实际情况远超或与预期相反，常带强调。",
+    "examples": [
+      {
+        "ja": "休むどころか、昼ご飯を食べる時間もありません。",
+        "zh": "别说休息了，连吃午饭的时间都没有。"
+      }
+    ],
+    "contrast_pattern": "～ばかりか",
+    "contrast_notes_zh": "「どころか」常带反预期、程度反差；「ばかりか」偏递进追加。",
+    "tags": [
+      "强调/递进"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  }
+]

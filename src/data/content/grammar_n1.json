@@ -1,0 +1,222 @@
+[
+  {
+    "id": "n1-zhg-001",
+    "level": "N1",
+    "pattern": "～を禁じ得ない",
+    "meaning_zh": "不禁……；禁不住……",
+    "formation_zh": "名词 + を禁じ得ない",
+    "usage_zh": "较正式的书面表达，表示某种情感难以抑制，常与「驚き」「怒り」「同情」等搭配。",
+    "examples": [
+      {
+        "ja": "その知らせを聞いて、驚きを禁じ得なかった。",
+        "zh": "听到那个消息，我不禁感到震惊。"
+      }
+    ],
+    "contrast_pattern": "～ずにはいられない",
+    "contrast_notes_zh": "「を禁じ得ない」常接情感名词，书面色彩浓；「ずにはいられない」接动词。",
+    "tags": [
+      "书面表达"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-002",
+    "level": "N1",
+    "pattern": "～にたえる／にたえない",
+    "meaning_zh": "值得……；不堪……",
+    "formation_zh": "名词 + にたえる／にたえない；动词辞书形 + にたえる",
+    "usage_zh": "「にたえる」表示值得承受、值得一看/一听；「にたえない」常表示不堪、难以忍受。",
+    "examples": [
+      {
+        "ja": "この作品は鑑賞にたえる。",
+        "zh": "这部作品值得欣赏。"
+      }
+    ],
+    "contrast_pattern": "～に値する",
+    "contrast_notes_zh": "「にたえる」可强调经得起评价或观看；具体搭配需查证语境。",
+    "tags": [
+      "评价"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-003",
+    "level": "N1",
+    "pattern": "～を余儀なくされる",
+    "meaning_zh": "被迫……；不得不……",
+    "formation_zh": "名词 + を余儀なくされる",
+    "usage_zh": "正式书面表达，表示由于外部原因而不得不接受某种结果。",
+    "examples": [
+      {
+        "ja": "大雨のため、試合の中止を余儀なくされた。",
+        "zh": "由于暴雨，比赛被迫取消。"
+      }
+    ],
+    "contrast_pattern": "～ざるを得ない",
+    "contrast_notes_zh": "「を余儀なくされる」强调外部因素迫使；「ざるを得ない」强调不得不采取行动。",
+    "tags": [
+      "被动/不得已"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-004",
+    "level": "N1",
+    "pattern": "～を皮切りに",
+    "meaning_zh": "以……为开端；从……开始",
+    "formation_zh": "名词 + を皮切りに（して）",
+    "usage_zh": "表示某事件成为一系列活动或变化的起点。",
+    "examples": [
+      {
+        "ja": "東京公演を皮切りに、全国ツアーが始まった。",
+        "zh": "以东京公演为开端，全国巡演开始了。"
+      }
+    ],
+    "contrast_pattern": "～をはじめ",
+    "contrast_notes_zh": "「を皮切りに」强调后续展开的起点；「をはじめ」列举代表性对象。",
+    "tags": [
+      "起点"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-005",
+    "level": "N1",
+    "pattern": "～ならでは",
+    "meaning_zh": "只有……才有的；独具……特色",
+    "formation_zh": "名词 + ならでは（の） + 名词",
+    "usage_zh": "强调某人、某地或某事物独有的特色或价值。",
+    "examples": [
+      {
+        "ja": "これは京都ならではの風景です。",
+        "zh": "这是京都独有的风景。"
+      }
+    ],
+    "contrast_pattern": "～に限る",
+    "contrast_notes_zh": "「ならでは」强调独特性；「に限る」常表示最好、最合适。",
+    "tags": [
+      "限定/特色"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-006",
+    "level": "N1",
+    "pattern": "～と相まって",
+    "meaning_zh": "与……相结合；再加上……",
+    "formation_zh": "名词 + と相まって",
+    "usage_zh": "表示两个因素相互作用，共同产生某种效果，常见于书面评论。",
+    "examples": [
+      {
+        "ja": "美しい映像と音楽が相まって、感動的な作品になった。",
+        "zh": "优美的画面与音乐相得益彰，成就了一部感人的作品。"
+      }
+    ],
+    "contrast_pattern": "～に加えて",
+    "contrast_notes_zh": "「と相まって」强调因素相互作用；「に加えて」只是追加。",
+    "tags": [
+      "关联"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-007",
+    "level": "N1",
+    "pattern": "～をものともせず",
+    "meaning_zh": "不畏……；不顾……",
+    "formation_zh": "名词 + をものともせず",
+    "usage_zh": "表示不把困难、障碍或批评当回事，仍然采取行动。",
+    "examples": [
+      {
+        "ja": "彼は周囲の反対をものともせず、研究を続けた。",
+        "zh": "他不顾周围的反对，继续研究。"
+      }
+    ],
+    "contrast_pattern": "～にもかかわらず",
+    "contrast_notes_zh": "前者强调克服、不畏惧；后者只是让步陈述。",
+    "tags": [
+      "态度/让步"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-008",
+    "level": "N1",
+    "pattern": "～といえども",
+    "meaning_zh": "即使是……也……；虽说……",
+    "formation_zh": "名词 + といえども",
+    "usage_zh": "较正式的让步表达，指出即便具备某身份或条件，也不能例外。",
+    "examples": [
+      {
+        "ja": "専門家といえども、すべてを知っているわけではない。",
+        "zh": "即使是专家，也不可能什么都知道。"
+      }
+    ],
+    "contrast_pattern": "～であっても",
+    "contrast_notes_zh": "「といえども」书面色彩更强，常用于强调例外限制。",
+    "tags": [
+      "让步"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-009",
+    "level": "N1",
+    "pattern": "～に即して",
+    "meaning_zh": "按照……；依据……",
+    "formation_zh": "名词 + に即して／に即した + 名词",
+    "usage_zh": "表示以事实、规则、实际情况或原则为依据。",
+    "examples": [
+      {
+        "ja": "現状に即して、計画を見直す必要がある。",
+        "zh": "有必要根据现状重新审视计划。"
+      }
+    ],
+    "contrast_pattern": "～に基づいて",
+    "contrast_notes_zh": "「に即して」强调贴合实际情况；「に基づいて」强调以某依据为基础。",
+    "tags": [
+      "依据"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n1-zhg-010",
+    "level": "N1",
+    "pattern": "～をおいてほかにない",
+    "meaning_zh": "除此之外别无……；只有……最合适",
+    "formation_zh": "名词 + をおいてほかにない",
+    "usage_zh": "强调某人或某事物是唯一合适的选择，常用于强烈评价。",
+    "examples": [
+      {
+        "ja": "この仕事を任せられる人は、彼をおいてほかにいない。",
+        "zh": "能胜任这项工作的人，除了他别无他人。"
+      }
+    ],
+    "contrast_pattern": "～しかない",
+    "contrast_notes_zh": "前者强调唯一合适的人/物；「しかない」表达除此之外没有选择。",
+    "tags": [
+      "强调/限定"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  }
+]

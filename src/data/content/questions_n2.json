@@ -1,0 +1,5906 @@
+[
+  {
+    "id": "n2-reading-035",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-036",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「顕著」的读音是什么？",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「顕著」在本题词语中读作けんちょ，意思是显著。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-072",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「把握」の意味を選びなさい。",
+    "options": [
+      "掌握",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-008",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「負担」の意味を選びなさい。",
+    "options": [
+      "负担",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-011",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」に最も近い意味はどれですか。",
+    "options": [
+      "维持",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-040",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-008",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-029",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-038",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-027",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-072",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-062",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-047",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-017",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-029",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-038",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-049",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」の意味として正しいものはどれですか。",
+    "options": [
+      "依据",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-019",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-024",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「促進」的读音是什么？",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「促進」在本题词语中读作そくしん，意思是促进。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-010",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-025",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-016",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-017",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」の意味として正しいものはどれですか。",
+    "options": [
+      "前景；预测",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-073",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」の意味として正しいものはどれですか。",
+    "options": [
+      "担忧",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-011",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-055",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-019",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」に最も近い意味はどれですか。",
+    "options": [
+      "依据",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-022",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-018",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-009",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「一斉」的读音是什么？",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一斉」在本题词语中读作いっせい，意思是一齐。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-008",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「根拠」的读音是什么？",
+    "options": [
+      "こんきょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「根拠」在本题词语中读作こんきょ，意思是依据。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-026",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-027",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「負担」的读音是什么？",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「負担」在本题词语中读作ふたん，意思是负担。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-025",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-056",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-023",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「懸念」的读音是什么？",
+    "options": [
+      "けねん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「懸念」在本题词语中读作けねん，意思是担忧。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-014",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「促進」の読み方はどれですか。",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-067",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」に最も近い意味はどれですか。",
+    "options": [
+      "前景；预测",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-051",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」に最も近い意味はどれですか。",
+    "options": [
+      "维持",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-068",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「負担」の意味を選びなさい。",
+    "options": [
+      "负担",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-014",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「促進」的读音是什么？",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「促進」在本题词语中读作そくしん，意思是促进。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-056",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「顕著」の意味を選びなさい。",
+    "options": [
+      "显著",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-075",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」に最も近い意味はどれですか。",
+    "options": [
+      "妥当",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-021",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」の意味として正しいものはどれですか。",
+    "options": [
+      "维持",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-023",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-036",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「顕著」の意味を選びなさい。",
+    "options": [
+      "显著",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-069",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」の意味として正しいものはどれですか。",
+    "options": [
+      "依据",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-037",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」の意味として正しいものはどれですか。",
+    "options": [
+      "前景；预测",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-025",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-059",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」に最も近い意味はどれですか。",
+    "options": [
+      "依据",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-026",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-078",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「負担」の読み方はどれですか。",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-080",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-015",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-051",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-057",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-006",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-046",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-067",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-043",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」に最も近い意味はどれですか。",
+    "options": [
+      "担忧",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-015",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」に最も近い意味はどれですか。",
+    "options": [
+      "妥当",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-033",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「懸念」的读音是什么？",
+    "options": [
+      "けねん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「懸念」在本题词语中读作けねん，意思是担忧。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-073",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-066",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-029",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-004",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-032",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-014",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-009",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-047",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」に最も近い意味はどれですか。",
+    "options": [
+      "前景；预测",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-007",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」に最も近い意味はどれですか。",
+    "options": [
+      "前景；预测",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-061",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」の意味として正しいものはどれですか。",
+    "options": [
+      "维持",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-045",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-032",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-031",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「維持」的读音是什么？",
+    "options": [
+      "いじ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「維持」在本题词语中读作いじ，意思是维持。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-004",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「促進」の意味を選びなさい。",
+    "options": [
+      "促进",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-023",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-021",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-030",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「見通し」的读音是什么？",
+    "options": [
+      "みとおし",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「見通し」在本题词语中读作みとおし，意思是前景。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-018",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「根拠」的读音是什么？",
+    "options": [
+      "こんきょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「根拠」在本题词语中读作こんきょ，意思是依据。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-027",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-005",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-001",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-021",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-053",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」の意味として正しいものはどれですか。",
+    "options": [
+      "担忧",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-032",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「把握」的读音是什么？",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「把握」在本题词语中读作はあく，意思是掌握。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-034",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「促進」の読み方はどれですか。",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-018",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-023",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」に最も近い意味はどれですか。",
+    "options": [
+      "担忧",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-042",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「把握」の読み方はどれですか。",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-076",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-031",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-018",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-001",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「維持」的读音是什么？",
+    "options": [
+      "いじ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「維持」在本题词语中读作いじ，意思是维持。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-020",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-003",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」に最も近い意味はどれですか。",
+    "options": [
+      "担忧",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-010",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-060",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「一斉」の意味を選びなさい。",
+    "options": [
+      "一齐",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-034",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-020",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「一斉」の意味を選びなさい。",
+    "options": [
+      "一齐",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-007",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-005",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-028",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-028",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-028",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-040",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「見通し」的读音是什么？",
+    "options": [
+      "みとおし",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「見通し」在本题词语中读作みとおし，意思是前景。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-079",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」に最も近い意味はどれですか。",
+    "options": [
+      "依据",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-037",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「負担」的读音是什么？",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「負担」在本题词语中读作ふたん，意思是负担。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-014",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-029",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」の意味として正しいものはどれですか。",
+    "options": [
+      "依据",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-031",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-001",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-004",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「促進」的读音是什么？",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「促進」在本题词语中读作そくしん，意思是促进。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-074",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-009",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-004",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-049",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-012",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「把握」の意味を選びなさい。",
+    "options": [
+      "掌握",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-034",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-022",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「把握」的读音是什么？",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「把握」在本题词语中读作はあく，意思是掌握。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-040",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「一斉」の意味を選びなさい。",
+    "options": [
+      "一齐",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-029",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-009",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」の意味として正しいものはどれですか。",
+    "options": [
+      "依据",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-014",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-003",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-034",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「促進」的读音是什么？",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「促進」在本题词语中读作そくしん，意思是促进。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-070",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「一斉」の読み方はどれですか。",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-050",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「一斉」の読み方はどれですか。",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-016",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「顕著」的读音是什么？",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「顕著」在本题词语中读作けんちょ，意思是显著。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-008",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-007",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-010",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「一斉」の読み方はどれですか。",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-076",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「顕著」の意味を選びなさい。",
+    "options": [
+      "显著",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-080",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「一斉」の意味を選びなさい。",
+    "options": [
+      "一齐",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-011",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「維持」的读音是什么？",
+    "options": [
+      "いじ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「維持」在本题词语中读作いじ，意思是维持。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-003",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-015",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-065",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-003",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-022",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-002",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-012",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-077",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-063",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」に最も近い意味はどれですか。",
+    "options": [
+      "担忧",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-004",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-042",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-033",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-006",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-021",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「維持」的读音是什么？",
+    "options": [
+      "いじ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「維持」在本题词语中读作いじ，意思是维持。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-011",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-028",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-010",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-020",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-005",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「妥当」的读音是什么？",
+    "options": [
+      "だとう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「妥当」在本题词语中读作だとう，意思是妥当。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-054",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「促進」の読み方はどれですか。",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-019",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-055",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」に最も近い意味はどれですか。",
+    "options": [
+      "妥当",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-013",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「懸念」的读音是什么？",
+    "options": [
+      "けねん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「懸念」在本题词语中读作けねん，意思是担忧。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-077",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」の意味として正しいものはどれですか。",
+    "options": [
+      "前景；预测",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-007",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-030",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-028",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「負担」の意味を選びなさい。",
+    "options": [
+      "负担",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-012",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-002",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-059",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-006",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-022",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「把握」の読み方はどれですか。",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-020",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-013",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-032",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「把握」の意味を選びなさい。",
+    "options": [
+      "掌握",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-024",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「促進」の意味を選びなさい。",
+    "options": [
+      "促进",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-071",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-019",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-061",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-001",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-015",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-046",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「顕著」の読み方はどれですか。",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-027",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-011",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-012",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「把握」的读音是什么？",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「把握」在本题词语中读作はあく，意思是掌握。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-068",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-074",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「促進」の読み方はどれですか。",
+    "options": [
+      "そくしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-015",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-002",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-002",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-006",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「顕著」の読み方はどれですか。",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-048",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-044",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「促進」の意味を選びなさい。",
+    "options": [
+      "促进",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-017",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-021",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-064",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-052",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「把握」の意味を選びなさい。",
+    "options": [
+      "掌握",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-003",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「懸念」的读音是什么？",
+    "options": [
+      "けねん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「懸念」在本题词语中读作けねん，意思是担忧。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-052",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-071",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」に最も近い意味はどれですか。",
+    "options": [
+      "维持",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-044",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-021",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-006",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「顕著」的读音是什么？",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「顕著」在本题词语中读作けんちょ，意思是显著。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-039",
+    "level": "N2",
+    "type": "reading",
+    "title": "情報社会",
+    "passage_ja": "情報が大量に流通する現代では、情報を早く得るだけでなく信頼性を判断する力が求められる。根拠を確認せず共有すれば誤解を広げかねない。",
+    "prompt_zh": "文章重点是什么？",
+    "options": [
+      "信息越快越好",
+      "判断信息可靠性",
+      "不用网络",
+      "只看广告"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "确认来源和依据，判断可信度。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-027",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-065",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」の意味として正しいものはどれですか。",
+    "options": [
+      "妥当",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-058",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「負担」の読み方はどれですか。",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-029",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「一斉」的读音是什么？",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一斉」在本题词语中读作いっせい，意思是一齐。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-075",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-013",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」の意味として正しいものはどれですか。",
+    "options": [
+      "担忧",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-024",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-016",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-001",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」の意味として正しいものはどれですか。",
+    "options": [
+      "维持",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-062",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「把握」の読み方はどれですか。",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-058",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-019",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-078",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-010",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「見通し」的读音是什么？",
+    "options": [
+      "みとおし",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「見通し」在本题词语中读作みとおし，意思是前景。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-038",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「負担」の読み方はどれですか。",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-024",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-023",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-025",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」の意味として正しいものはどれですか。",
+    "options": [
+      "妥当",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-001",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-030",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-030",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-050",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "成功する（　）ない。",
+    "options": [
+      "に違い",
+      "かもしれ",
+      "わけで",
+      "どころ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に違いない」表示确信度高的推断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-019",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「一斉」的读音是什么？",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一斉」在本题词语中读作いっせい，意思是一齐。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-039",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「一斉」的读音是什么？",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一斉」在本题词语中读作いっせい，意思是一齐。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-048",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「負担」の意味を選びなさい。",
+    "options": [
+      "负担",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-028",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「根拠」的读音是什么？",
+    "options": [
+      "こんきょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「根拠」在本题词语中读作こんきょ，意思是依据。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-002",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「把握」的读音是什么？",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「把握」在本题词语中读作はあく，意思是掌握。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-045",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」の意味として正しいものはどれですか。",
+    "options": [
+      "妥当",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-007",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-025",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「妥当」的读音是什么？",
+    "options": [
+      "だとう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「妥当」在本题词语中读作だとう，意思是妥当。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-018",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「負担」の読み方はどれですか。",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "負担（ふたん）表示“负担”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-015",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「妥当」的读音是什么？",
+    "options": [
+      "だとう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「妥当」在本题词语中读作だとう，意思是妥当。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-013",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-023",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-039",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-005",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-035",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」に最も近い意味はどれですか。",
+    "options": [
+      "妥当",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-017",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-008",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-022",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-002",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「把握」の読み方はどれですか。",
+    "options": [
+      "はあく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "把握（はあく）表示“掌握”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-008",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-033",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「懸念」の意味として正しいものはどれですか。",
+    "options": [
+      "担忧",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "懸念（けねん）表示“担忧”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-016",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-041",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」の意味として正しいものはどれですか。",
+    "options": [
+      "维持",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-013",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-038",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「根拠」的读音是什么？",
+    "options": [
+      "こんきょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「根拠」在本题词语中读作こんきょ，意思是依据。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-011",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-037",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-014",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-016",
+    "level": "N2",
+    "type": "listening",
+    "title": "計画の見直し",
+    "script_ja": "女：今月完成の予定でしたね。男：調査結果から追加確認が必要です。完成時期を二週間延ばしたいと思います。",
+    "prompt_zh": "男方建议怎样调整？",
+    "options": [
+      "提前两周",
+      "延后两周",
+      "取消调查",
+      "预算减半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议延后约两周。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-003",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-026",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-017",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「負担」的读音是什么？",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「負担」在本题词语中读作ふたん，意思是负担。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-026",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「顕著」的读音是什么？",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「顕著」在本题词语中读作けんちょ，意思是显著。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-036",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-026",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-025",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-035",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「妥当」的读音是什么？",
+    "options": [
+      "だとう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「妥当」在本题词语中读作だとう，意思是妥当。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-063",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-005",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「妥当」の意味として正しいものはどれですか。",
+    "options": [
+      "妥当",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "妥当（だとう）表示“妥当”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-031",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「維持」に最も近い意味はどれですか。",
+    "options": [
+      "维持",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "維持（いじ）表示“维持”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-022",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-009",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-016",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「顕著」の意味を選びなさい。",
+    "options": [
+      "显著",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-009",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-026",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「顕著」の読み方はどれですか。",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-070",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-005",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-057",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」の意味として正しいものはどれですか。",
+    "options": [
+      "前景；预测",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-054",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-053",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-007",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「負担」的读音是什么？",
+    "options": [
+      "ふたん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「負担」在本题词语中读作ふたん，意思是负担。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-012",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-kanji-020",
+    "level": "N2",
+    "type": "kanji_reading",
+    "prompt_ja": "「見通し」的读音是什么？",
+    "options": [
+      "みとおし",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「見通し」在本题词语中读作みとおし，意思是前景。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-030",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「一斉」の読み方はどれですか。",
+    "options": [
+      "いっせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "一斉（いっせい）表示“一齐”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-006",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-035",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-037",
+    "level": "N2",
+    "type": "reading",
+    "title": "地域交通",
+    "passage_ja": "高齢化が進む地域では公共交通の維持が課題だ。利用者が減る一方、車を運転できない住民にはバスが重要である。自治体は需要を把握し運行方法を見直す必要がある。",
+    "prompt_zh": "自治体首先应做什么？",
+    "options": [
+      "取消公交",
+      "掌握实际需求",
+      "提高票价",
+      "增加私家车"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先掌握需求，再审视运营方式。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-040",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "雨（　）、多くの人が集まった。",
+    "options": [
+      "にもかかわらず",
+      "に応じて",
+      "に限って",
+      "をもとに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「にもかかわらず」表示尽管。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-039",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「根拠」に最も近い意味はどれですか。",
+    "options": [
+      "依据",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "根拠（こんきょ）表示“依据”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-043",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "資格は取った（　）、経験は少ない。",
+    "options": [
+      "ものの",
+      "ところで",
+      "ばかりか",
+      "どころか"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ものの」表示让步和落差。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-064",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「促進」の意味を選びなさい。",
+    "options": [
+      "促进",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "促進（そくしん）表示“促进”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-079",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "この問題（　）専門家に相談した。",
+    "options": [
+      "に関して",
+      "をものともせず",
+      "に違いない",
+      "と相まって"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に関して」表示关于某主题。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-066",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「顕著」の読み方はどれですか。",
+    "options": [
+      "けんちょ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "顕著（けんちょ）表示“显著”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-024",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-ordering-013",
+    "level": "N2",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-vocab-027",
+    "level": "N2",
+    "type": "vocabulary",
+    "prompt_ja": "「見通し」に最も近い意味はどれですか。",
+    "options": [
+      "前景；预测",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "見通し（みとおし）表示“前景；预测”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-036",
+    "level": "N2",
+    "type": "reading",
+    "title": "観光と地域",
+    "passage_ja": "観光客の増加は地域経済に利益をもたらす一方、交通混雑やごみも増やす。持続可能な観光には住民生活への影響も考慮すべきだ。",
+    "prompt_zh": "发展观光还应考虑什么？",
+    "options": [
+      "游客数量 בלבד",
+      "居民生活影响",
+      "增加商店",
+      "缩短营业时间"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "考虑对居民生活的影响。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-033",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-017",
+    "level": "N2",
+    "type": "listening",
+    "title": "評価方法",
+    "script_ja": "男：売上だけで評価するのは適切でしょうか。女：顧客満足度や長期的効果も把握するため複数の指標を使うべきです。",
+    "prompt_zh": "女方主张什么？",
+    "options": [
+      "只看销售额",
+      "多个评价指标",
+      "取消评价",
+      "只看人数"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议组合多个指标。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-041",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "彼は到着した（　）です。",
+    "options": [
+      "はず",
+      "べき",
+      "わけが",
+      "ものの"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「はずだ」表示根据依据的判断。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-020",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-069",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "嫌いな（　）ありません。",
+    "options": [
+      "わけでは",
+      "わけが",
+      "はずが",
+      "ものでは"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「わけではない」表示部分否定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-010",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-004",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-024",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-listening-012",
+    "level": "N2",
+    "type": "listening",
+    "title": "会場変更",
+    "script_ja": "女：参加者が予想より多くなりました。男：それなら隣の大きい会議室に変更しましょう。",
+    "prompt_zh": "更换会场的原因？",
+    "options": [
+      "设备坏了",
+      "参加者比预想多",
+      "交通不便",
+      "费用太高"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "参加人数超过预期。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-060",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "経験（　）、仕事の内容が変わる。",
+    "options": [
+      "に応じて",
+      "に関して",
+      "をめぐって",
+      "に限らず"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「に応じて」表示相应变化。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-grammar-030",
+    "level": "N2",
+    "type": "grammar_choice",
+    "prompt_ja": "新制度（　）、意見が分かれている。",
+    "options": [
+      "をめぐって",
+      "に応じて",
+      "に限らず",
+      "を通じて"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「をめぐって」用于围绕议题讨论。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n2-reading-018",
+    "level": "N2",
+    "type": "reading",
+    "title": "働く環境",
+    "passage_ja": "柔軟な勤務制度は事情に応じた働き方を可能にする。しかし導入だけでは十分でない。業務の進め方や評価方法も見直さなければ不公平感が生まれる。",
+    "prompt_zh": "作者对灵活工作制度的看法？",
+    "options": [
+      "制度本身解决一切",
+      "还需调整工作和评价方式",
+      "立即废除",
+      "只适合管理者"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度和评价方式应一并调整。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N2",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "n3-zhg-001",
+    "level": "N3",
+    "pattern": "V／い形／な形／N + ようになる",
+    "meaning_zh": "变得……；逐渐能够……",
+    "formation_zh": "动词辞书形／ない形 + ようになる；名词・な形容词 + になる",
+    "usage_zh": "表示状态、能力或习惯发生变化，常强调变化后的结果。",
+    "examples": [
+      {
+        "ja": "毎日練習して、漢字が読めるようになりました。",
+        "zh": "每天练习后，变得能读汉字了。"
+      }
+    ],
+    "contrast_pattern": "V ようにする",
+    "contrast_notes_zh": "「ようになる」描述变化结果；「ようにする」描述主动努力或习惯。",
+    "tags": [
+      "变化"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-002",
+    "level": "N3",
+    "pattern": "V／い形／な形／N + ようにする",
+    "meaning_zh": "尽量做到……；设法……",
+    "formation_zh": "动词辞书形／ない形 + ようにする",
+    "usage_zh": "表示有意识地努力形成某种习惯或避免某事。",
+    "examples": [
+      {
+        "ja": "毎日、日本語のニュースを聞くようにしています。",
+        "zh": "我尽量每天听日语新闻。"
+      }
+    ],
+    "contrast_pattern": "V ようになる",
+    "contrast_notes_zh": "「ようにしている」常表示持续坚持的做法；「ようになる」表示状态变化。",
+    "tags": [
+      "习惯"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-003",
+    "level": "N3",
+    "pattern": "普通形 + らしい",
+    "meaning_zh": "似乎……；听说……；有……典型特征",
+    "formation_zh": "普通形 + らしい；名词 + らしい",
+    "usage_zh": "可表示传闻推测，也可表示具有某种典型特征；需结合语境判断。",
+    "examples": [
+      {
+        "ja": "明日は雨らしいです。",
+        "zh": "听说明天好像会下雨。"
+      }
+    ],
+    "contrast_pattern": "普通形 + そうだ",
+    "contrast_notes_zh": "「らしい」常带间接信息或推断；传闻「そうだ」较像转述消息来源。",
+    "tags": [
+      "推测/传闻"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-004",
+    "level": "N3",
+    "pattern": "普通形 + みたいだ",
+    "meaning_zh": "好像……；像……一样",
+    "formation_zh": "普通形 + みたいだ；名词 + みたいだ",
+    "usage_zh": "较口语地表达推测、比喻或相似性。",
+    "examples": [
+      {
+        "ja": "あの人は先生みたいです。",
+        "zh": "那个人好像是老师。"
+      }
+    ],
+    "contrast_pattern": "普通形 + ようだ",
+    "contrast_notes_zh": "「みたい」较口语；「よう」较正式，书面语中更常见。",
+    "tags": [
+      "推测/比喻"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-005",
+    "level": "N3",
+    "pattern": "V てくる",
+    "meaning_zh": "……起来；……而来",
+    "formation_zh": "动词て形 + くる",
+    "usage_zh": "表示变化从过去到现在逐渐出现，或动作朝说话人所在方向移动。",
+    "examples": [
+      {
+        "ja": "日本語が少し分かってきました。",
+        "zh": "渐渐开始懂一点日语了。"
+      }
+    ],
+    "contrast_pattern": "V ていく",
+    "contrast_notes_zh": "「てくる」常指变化到现在；「ていく」常指从现在向未来发展。",
+    "tags": [
+      "变化/方向"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-006",
+    "level": "N3",
+    "pattern": "V ていく",
+    "meaning_zh": "继续……下去；……而去",
+    "formation_zh": "动词て形 + いく",
+    "usage_zh": "表示从现在向未来持续变化，或动作远离说话人。",
+    "examples": [
+      {
+        "ja": "これからも勉強を続けていきます。",
+        "zh": "今后也会继续学习下去。"
+      }
+    ],
+    "contrast_pattern": "V てくる",
+    "contrast_notes_zh": "区分时间方向：发展到现在用「てくる」，从现在往后用「ていく」。",
+    "tags": [
+      "变化/方向"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-007",
+    "level": "N3",
+    "pattern": "～おかげで",
+    "meaning_zh": "多亏……；托……的福",
+    "formation_zh": "名词 + の + おかげで；普通形 + おかげで",
+    "usage_zh": "表示带来好结果的原因，通常含感谢或积极评价。",
+    "examples": [
+      {
+        "ja": "先生のおかげで、合格できました。",
+        "zh": "多亏老师，我才能合格。"
+      }
+    ],
+    "contrast_pattern": "～せいで",
+    "contrast_notes_zh": "「おかげで」通常引出好结果；「せいで」通常归因于不好的结果。",
+    "tags": [
+      "原因/评价"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-008",
+    "level": "N3",
+    "pattern": "～せいで",
+    "meaning_zh": "都怪……；因为……（导致不良结果）",
+    "formation_zh": "名词 + の + せいで；普通形 + せいで",
+    "usage_zh": "把不理想的结果归因于某人或某事，带有负面评价。",
+    "examples": [
+      {
+        "ja": "寝不足のせいで、授業に集中できません。",
+        "zh": "因为睡眠不足，上课无法集中注意力。"
+      }
+    ],
+    "contrast_pattern": "～おかげで",
+    "contrast_notes_zh": "注意语气较负面，不宜用于中性原因说明。",
+    "tags": [
+      "原因/评价"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-009",
+    "level": "N3",
+    "pattern": "～ことにする",
+    "meaning_zh": "决定……",
+    "formation_zh": "动词辞书形／ない形 + ことにする",
+    "usage_zh": "表示说话人自己作出的决定。",
+    "examples": [
+      {
+        "ja": "毎朝三十分歩くことにしました。",
+        "zh": "我决定每天早上走三十分钟。"
+      }
+    ],
+    "contrast_pattern": "～ことになる",
+    "contrast_notes_zh": "「ことにする」是自己决定；「ことになる」表示决定结果或外部安排。",
+    "tags": [
+      "决定"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n3-zhg-010",
+    "level": "N3",
+    "pattern": "～ことになる",
+    "meaning_zh": "决定为……；结果变成……",
+    "formation_zh": "动词辞书形／ない形 + ことになる",
+    "usage_zh": "表示由组织、他人或客观情况形成的决定，也可表示某种结果。",
+    "examples": [
+      {
+        "ja": "来月から大阪で働くことになりました。",
+        "zh": "已经决定从下个月开始在大阪工作。"
+      }
+    ],
+    "contrast_pattern": "～ことにする",
+    "contrast_notes_zh": "重点不是说话人主动决定，而是决定或安排的形成。",
+    "tags": [
+      "决定/结果"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  }
+]

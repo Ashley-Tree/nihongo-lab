@@ -1,0 +1,402 @@
+[
+  {
+    "id": "n4-reading-001",
+    "level": "N4",
+    "title": "旅行の準備",
+    "passage_ja": "来週、友達と京都へ行くことになりました。ホテルは予約しましたが、新幹線の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没做什么？",
+    "options": [
+      "预约酒店",
+      "买新干线车票",
+      "决定目的地",
+      "联系朋友"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "车票还没有买。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-002",
+    "level": "N4",
+    "title": "日本語の勉強会",
+    "passage_ja": "町の国際交流センターで、毎週水曜日に日本語の勉強会が開かれています。参加費は無料で、初めての人も参加できます。",
+    "prompt_zh": "勉強会什么时候举行？",
+    "options": [
+      "每周一",
+      "每周三",
+      "每周五",
+      "每天"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「毎週水曜日」とあります。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-003",
+    "level": "N4",
+    "title": "忘れた傘",
+    "passage_ja": "駅を出たとき、雨が降っていることに気づきました。朝、傘を持って出るつもりでしたが、玄関に置いたままでした。",
+    "prompt_zh": "作者为什么没有伞？",
+    "options": [
+      "伞坏了",
+      "把伞忘在家里",
+      "借给朋友了",
+      "在车站丢了"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "伞还放在家门口。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-004",
+    "level": "N4",
+    "title": "引っ越し",
+    "passage_ja": "田中さんは来月、会社の近くに引っ越します。今の家から会社まで一時間かかりますが、新しい家からは歩いて十五分で着くそうです。",
+    "prompt_zh": "搬家后到公司需要多久？",
+    "options": [
+      "十五分钟步行",
+      "半小时",
+      "一小时",
+      "两小时"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新家到公司步行十五分钟。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-005",
+    "level": "N4",
+    "title": "料理教室",
+    "passage_ja": "料理教室では、最初に先生が作り方を説明します。その後、参加者が二人ずつ組になって料理を作ります。使った道具は最後に洗います。",
+    "prompt_zh": "参加者怎样分组？",
+    "options": [
+      "三人一组",
+      "两人一组",
+      "单独制作",
+      "四人一组"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「二人ずつ組になって」とあります。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-006",
+    "level": "N4",
+    "title": "健康のために",
+    "passage_ja": "医者に運動するように言われたので、私は毎朝三十分歩くことにしました。最初は疲れましたが、最近は歩くのが楽しくなってきました。",
+    "prompt_zh": "作者为什么开始走路？",
+    "options": [
+      "朋友邀请",
+      "医生建议运动",
+      "为了比赛",
+      "公司要求"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "医生建议作者运动。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-007",
+    "level": "N4",
+    "title": "図書館の新しい規則",
+    "passage_ja": "この図書館では、借りた本を二週間以内に返さなければなりません。期限を過ぎると、次の本を借りることができません。",
+    "prompt_zh": "超过还书期限会怎样？",
+    "options": [
+      "交很多钱",
+      "不能再借下一本书",
+      "图书馆会关门",
+      "书会被没收"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "逾期后不能借下一本书。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-008",
+    "level": "N4",
+    "title": "アルバイト",
+    "passage_ja": "私は週末、レストランでアルバイトをしています。仕事は忙しいですが、いろいろな人と話せるので、よい経験になっています。",
+    "prompt_zh": "作者觉得这份兼职怎么样？",
+    "options": [
+      "完全没有意义",
+      "虽然忙但很有收获",
+      "工资太低所以辞职",
+      "不喜欢和人说话"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "作者认为能与各种人交流，是很好的经验。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-009",
+    "level": "N4",
+    "title": "電車の遅れ",
+    "passage_ja": "事故のため電車が二十分遅れました。駅員は、急いでいる人は別の路線を利用してくださいと案内していました。",
+    "prompt_zh": "电车晚点多久？",
+    "options": [
+      "十分钟",
+      "十五分钟",
+      "二十分钟",
+      "三十分钟"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "「二十分遅れました」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-010",
+    "level": "N4",
+    "title": "プレゼント",
+    "passage_ja": "母の誕生日に何をあげるか迷いました。母は最近料理を始めたので、私は使いやすい包丁を買うことにしました。",
+    "prompt_zh": "作者决定送什么？",
+    "options": [
+      "围巾",
+      "书",
+      "菜刀",
+      "花"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "作者决定买一把好用的菜刀。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-011",
+    "level": "N4",
+    "title": "町の祭り",
+    "passage_ja": "今年の祭りは雨で一日延期されました。新しい日は来週の日曜日です。屋台は予定どおり出ますが、花火は中止になりました。",
+    "prompt_zh": "祭典中止了什么？",
+    "options": [
+      "所有摊位",
+      "游行",
+      "烟花",
+      "舞蹈表演"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "烟花取消了。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-012",
+    "level": "N4",
+    "title": "仕事の連絡",
+    "passage_ja": "会議の時間が午後三時から四時に変更になりました。参加する人は、今日中にメールで返事をしてください。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "下午两点",
+      "下午三点",
+      "下午四点",
+      "下午五点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "时间改为下午四点。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-013",
+    "level": "N4",
+    "title": "新しい自転車",
+    "passage_ja": "駅まで歩くと二十五分かかるので、自転車を買いました。これからは十分ぐらいで駅に着けるようになると思います。",
+    "prompt_zh": "买自行车的主要原因是什么？",
+    "options": [
+      "喜欢运动",
+      "缩短去车站的时间",
+      "旧车坏了",
+      "朋友也买了"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "作者希望缩短去车站的时间。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-014",
+    "level": "N4",
+    "title": "日本の家",
+    "passage_ja": "日本の家に入るときは、玄関で靴を脱ぎます。部屋の中では、スリッパを使うことがありますが、畳の部屋では脱ぐのが普通です。",
+    "prompt_zh": "进入榻榻米房间时通常怎样做？",
+    "options": [
+      "穿鞋",
+      "穿运动鞋",
+      "脱掉拖鞋",
+      "换袜子颜色"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "榻榻米房间通常要脱掉拖鞋。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-015",
+    "level": "N4",
+    "title": "雨の日の試合",
+    "passage_ja": "サッカーの試合は雨でも行う予定でした。しかし、風が強くなったため、安全を考えて中止することになりました。",
+    "prompt_zh": "比赛为什么取消？",
+    "options": [
+      "球员人数不足",
+      "风变强，考虑安全",
+      "球场太小",
+      "观众太少"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "因为风大，为了安全而取消。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-016",
+    "level": "N4",
+    "title": "新しい店",
+    "passage_ja": "駅の近くにできたパン屋は、朝七時から開いています。人気のパンは午前中に売り切れることが多いので、早めに行ったほうがいいそうです。",
+    "prompt_zh": "想买热门面包，最好什么时候去？",
+    "options": [
+      "晚上",
+      "下午",
+      "早点去",
+      "星期日"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "热门面包常在上午卖完，建议早点去。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-017",
+    "level": "N4",
+    "title": "ホームステイ",
+    "passage_ja": "留学生のリーさんは、日本の家庭に一か月ホームステイします。食事の準備を手伝いながら、家族と日本語で話す練習をしています。",
+    "prompt_zh": "李同学通过什么练习日语？",
+    "options": [
+      "只看电视",
+      "帮忙准备饭菜并和家人交谈",
+      "每天写考试",
+      "参加运动会"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "他一边帮忙准备饭菜，一边和家人用日语交流。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-018",
+    "level": "N4",
+    "title": "忘れ物のお知らせ",
+    "passage_ja": "昨日、二階の会議室に黒い傘が一本残っていました。心当たりのある方は、受付まで取りに来てください。",
+    "prompt_zh": "失物是什么？",
+    "options": [
+      "黑色钱包",
+      "黑色雨伞",
+      "蓝色雨伞",
+      "文件夹"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "通知说有一把黑色雨伞。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-019",
+    "level": "N4",
+    "title": "休日の過ごし方",
+    "passage_ja": "以前は休日になると昼まで寝ていましたが、最近は朝早く起きて近所を散歩しています。午後は家で映画を見ることが多いです。",
+    "prompt_zh": "作者最近早上做什么？",
+    "options": [
+      "睡到中午",
+      "散步",
+      "看电影",
+      "打扫办公室"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "最近早上会去附近散步。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n4-reading-020",
+    "level": "N4",
+    "title": "留守番",
+    "passage_ja": "両親が出かけている間、私は弟の面倒を見ることになりました。弟と宿題をした後、一緒に夕食を作りました。",
+    "prompt_zh": "作者在父母外出时做什么？",
+    "options": [
+      "去朋友家",
+      "照顾弟弟",
+      "独自旅行",
+      "去上班"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "作者负责照顾弟弟。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  }
+]

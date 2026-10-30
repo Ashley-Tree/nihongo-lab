@@ -1,0 +1,222 @@
+[
+  {
+    "id": "n5-zhg-001",
+    "level": "N5",
+    "pattern": "N は N です",
+    "meaning_zh": "……是……",
+    "formation_zh": "名词1 + は + 名词2 + です",
+    "usage_zh": "用于礼貌地说明身份、属性、职业或判断。主题助词「は」读作 wa。",
+    "examples": [
+      {
+        "ja": "私は学生です。",
+        "zh": "我是学生。"
+      }
+    ],
+    "contrast_pattern": "N は N ではありません",
+    "contrast_notes_zh": "「は」标记谈论主题；不要把「です」理解为中文的独立动词“是”。",
+    "tags": [
+      "名词句"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-002",
+    "level": "N5",
+    "pattern": "N は N ではありません",
+    "meaning_zh": "……不是……",
+    "formation_zh": "名词1 + は + 名词2 + ではありません",
+    "usage_zh": "「です」的礼貌否定形式。口语中常说「じゃありません」。",
+    "examples": [
+      {
+        "ja": "田中さんは先生ではありません。",
+        "zh": "田中先生不是老师。"
+      }
+    ],
+    "contrast_pattern": "N は N です",
+    "contrast_notes_zh": "「ではありません」用于礼貌否定；「じゃないです」也常见于口语。",
+    "tags": [
+      "否定"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-003",
+    "level": "N5",
+    "pattern": "N の N",
+    "meaning_zh": "……的……；……所属/类别的……",
+    "formation_zh": "名词1 + の + 名词2",
+    "usage_zh": "连接两个名词，可表示所属、属性、内容或类别。具体关系由语境决定。",
+    "examples": [
+      {
+        "ja": "これは私の本です。",
+        "zh": "这是我的书。"
+      }
+    ],
+    "contrast_pattern": "N も N",
+    "contrast_notes_zh": "不要把「の」一律翻译成“的”，应根据两个名词的关系理解。",
+    "tags": [
+      "助词"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-004",
+    "level": "N5",
+    "pattern": "N も",
+    "meaning_zh": "也……",
+    "formation_zh": "名词 + も",
+    "usage_zh": "表示前述情况同样适用于当前对象，常译为“也”。",
+    "examples": [
+      {
+        "ja": "私も日本語を勉強します。",
+        "zh": "我也学习日语。"
+      }
+    ],
+    "contrast_pattern": "N は N",
+    "contrast_notes_zh": "同一位置通常根据语义选择「は」或「も」，避免机械叠加。",
+    "tags": [
+      "助词"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-005",
+    "level": "N5",
+    "pattern": "N を V",
+    "meaning_zh": "对……做动作",
+    "formation_zh": "名词（直接宾语）+ を + 他动词",
+    "usage_zh": "「を」标记他动词的直接宾语，读作 o。",
+    "examples": [
+      {
+        "ja": "毎朝パンを食べます。",
+        "zh": "每天早上吃面包。"
+      }
+    ],
+    "contrast_pattern": "N が V",
+    "contrast_notes_zh": "「を」通常标记动作对象；「が」常标记主语或自动词主体。",
+    "tags": [
+      "助词"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-006",
+    "level": "N5",
+    "pattern": "地点 に／へ 行きます",
+    "meaning_zh": "去……；朝……移动",
+    "formation_zh": "地点 + に／へ + 行く・来る・帰る",
+    "usage_zh": "「に」标记到达点，「へ」强调方向。很多移动语境中两者都可使用。",
+    "examples": [
+      {
+        "ja": "日曜日に図書館へ行きます。",
+        "zh": "星期天去图书馆。"
+      }
+    ],
+    "contrast_pattern": "地点で V",
+    "contrast_notes_zh": "移动目的地用「に／へ」；动作发生地点通常用「で」。",
+    "tags": [
+      "移动"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-007",
+    "level": "N5",
+    "pattern": "地点 で V",
+    "meaning_zh": "在……做……",
+    "formation_zh": "地点 + で + 动作动词",
+    "usage_zh": "「で」表示动作、事件发生的场所，也可表示手段或工具。",
+    "examples": [
+      {
+        "ja": "図書館で本を読みます。",
+        "zh": "在图书馆读书。"
+      }
+    ],
+    "contrast_pattern": "地点にいます／あります",
+    "contrast_notes_zh": "动作发生地点用「で」；存在位置通常用「に」。",
+    "tags": [
+      "助词"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-008",
+    "level": "N5",
+    "pattern": "V てください",
+    "meaning_zh": "请做……",
+    "formation_zh": "动词て形 + ください",
+    "usage_zh": "礼貌地请求对方做某事。语气通常比直接命令柔和。",
+    "examples": [
+      {
+        "ja": "ここに名前を書いてください。",
+        "zh": "请在这里写名字。"
+      }
+    ],
+    "contrast_pattern": "V てもいいです",
+    "contrast_notes_zh": "「てください」是请求对方做；不是询问是否允许自己做。",
+    "tags": [
+      "请求"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-009",
+    "level": "N5",
+    "pattern": "V てもいいです",
+    "meaning_zh": "可以做……",
+    "formation_zh": "动词て形 + もいいです",
+    "usage_zh": "表示许可。疑问形式「てもいいですか」用于征求许可。",
+    "examples": [
+      {
+        "ja": "ここで写真を撮ってもいいですか。",
+        "zh": "可以在这里拍照吗？"
+      }
+    ],
+    "contrast_pattern": "V てはいけません",
+    "contrast_notes_zh": "「てもいい」表示允许；「てはいけない」表示禁止。",
+    "tags": [
+      "许可"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  },
+  {
+    "id": "n5-zhg-010",
+    "level": "N5",
+    "pattern": "V たいです",
+    "meaning_zh": "想做……",
+    "formation_zh": "动词ます形去ます + たいです",
+    "usage_zh": "表达说话人自己的愿望。宾语助词常可用「を」，也可能用「が」。",
+    "examples": [
+      {
+        "ja": "日本へ行きたいです。",
+        "zh": "我想去日本。"
+      }
+    ],
+    "contrast_pattern": "V つもりです",
+    "contrast_notes_zh": "「たい」强调愿望；「つもり」强调打算或意图。",
+    "tags": [
+      "愿望"
+    ],
+    "source": "Nihongo Lab 原创教学整理；JLPT等级为参考",
+    "review_status": "draft",
+    "review_notes": "发布前需由具备日语能力的审校者核对接续、语义、语气及例句自然度。"
+  }
+]

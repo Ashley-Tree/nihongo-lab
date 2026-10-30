@@ -1,0 +1,402 @@
+[
+  {
+    "id": "n5-reading-001",
+    "level": "N5",
+    "title": "朝の習慣",
+    "passage_ja": "私は毎朝六時半に起きます。顔を洗って、パンと卵を食べます。七時半に家を出ます。",
+    "prompt_zh": "作者几点出门？",
+    "options": [
+      "六点半",
+      "七点",
+      "七点半",
+      "八点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "「七時半に家を出ます」とあります。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-002",
+    "level": "N5",
+    "title": "学校の図書館",
+    "passage_ja": "学校の図書館は月曜日から金曜日まで開いています。朝九時から午後五時までです。土曜日と日曜日は休みです。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期三",
+      "星期五",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "星期六和星期日休息。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-003",
+    "level": "N5",
+    "title": "新しい友達",
+    "passage_ja": "先週、新しい学生がクラスに来ました。名前はミラーさんです。アメリカから来ました。日本語がとても上手です。",
+    "prompt_zh": "米勒来自哪里？",
+    "options": [
+      "日本",
+      "美国",
+      "中国",
+      "英国"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「アメリカから来ました」とあります。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-004",
+    "level": "N5",
+    "title": "買い物",
+    "passage_ja": "母とスーパーへ行きました。牛乳を一本とりんごを四つ買いました。全部で八百円でした。",
+    "prompt_zh": "买了几个苹果？",
+    "options": [
+      "一个",
+      "两个",
+      "四个",
+      "八个"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "「りんごを四つ買いました」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-005",
+    "level": "N5",
+    "title": "週末の予定",
+    "passage_ja": "土曜日は友達と映画を見ます。日曜日は家で宿題をします。月曜日に日本語のテストがあります。",
+    "prompt_zh": "作者星期日做什么？",
+    "options": [
+      "看电影",
+      "做作业",
+      "去学校",
+      "买东西"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "星期日「家で宿題をします」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-006",
+    "level": "N5",
+    "title": "雨の日",
+    "passage_ja": "今日は朝から雨です。私は傘を持って学校へ行きました。帰るとき、雨はもう止んでいました。",
+    "prompt_zh": "作者回家时天气怎么样？",
+    "options": [
+      "还在下雨",
+      "雪",
+      "雨停了",
+      "晴天但很冷"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "「雨はもう止んでいました」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-007",
+    "level": "N5",
+    "title": "家族の仕事",
+    "passage_ja": "父は病院で働いています。母は学校の先生です。姉は大学生で、私は高校生です。",
+    "prompt_zh": "谁在医院工作？",
+    "options": [
+      "父亲",
+      "母亲",
+      "姐姐",
+      "作者"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「父は病院で働いています」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-008",
+    "level": "N5",
+    "title": "日本語の勉強",
+    "passage_ja": "私は毎晩三十分、日本語を勉強します。新しい言葉をノートに書いて、声に出して読みます。",
+    "prompt_zh": "作者把新单词写在哪里？",
+    "options": [
+      "书上",
+      "笔记本上",
+      "电脑上",
+      "墙上"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「ノートに書いて」とあります。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-009",
+    "level": "N5",
+    "title": "駅で",
+    "passage_ja": "駅で友達を待っています。約束の時間は午後二時です。今は一時五十分です。",
+    "prompt_zh": "约定时间是几点？",
+    "options": [
+      "一点半",
+      "一点五十分",
+      "两点",
+      "两点半"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "「約束の時間は午後二時です」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-010",
+    "level": "N5",
+    "title": "昼ご飯",
+    "passage_ja": "今日は学校の食堂でカレーを食べました。友達はうどんを食べました。食堂は学生でいっぱいでした。",
+    "prompt_zh": "作者吃了什么？",
+    "options": [
+      "うどん",
+      "カレー",
+      "パン",
+      "ラーメン"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「カレーを食べました」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-011",
+    "level": "N5",
+    "title": "私の町",
+    "passage_ja": "私の町には大きい公園があります。公園には池と小さい図書館があります。春には桜がたくさん咲きます。",
+    "prompt_zh": "公园里有什么？",
+    "options": [
+      "电影院",
+      "池塘",
+      "医院",
+      "车站"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "公园里有池塘和小图书馆。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-012",
+    "level": "N5",
+    "title": "誕生日",
+    "passage_ja": "今日は妹の誕生日です。私は花を買いました。父はケーキを作り、母は晩ご飯を準備しています。",
+    "prompt_zh": "作者买了什么？",
+    "options": [
+      "蛋糕",
+      "花",
+      "书",
+      "衣服"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「花を買いました」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-013",
+    "level": "N5",
+    "title": "電車",
+    "passage_ja": "毎朝、電車で会社へ行きます。家から駅まで歩いて十分です。電車に乗る時間は二十分です。",
+    "prompt_zh": "从家走到车站要多久？",
+    "options": [
+      "五分钟",
+      "十分钟",
+      "二十分钟",
+      "三十分钟"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「駅まで歩いて十分です」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-014",
+    "level": "N5",
+    "title": "好きな季節",
+    "passage_ja": "私は春が好きです。暖かくて、花がたくさん咲くからです。夏は暑いので、あまり好きではありません。",
+    "prompt_zh": "作者为什么喜欢春天？",
+    "options": [
+      "因为有雪",
+      "因为天气暖和、花多",
+      "因为不用上学",
+      "因为不下雨"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文章说春天暖和，而且花很多。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-015",
+    "level": "N5",
+    "title": "忘れ物",
+    "passage_ja": "学校に着いてから、家に財布を忘れたことに気づきました。昼ご飯を買うお金がありません。友達がお金を貸してくれました。",
+    "prompt_zh": "作者忘记带什么？",
+    "options": [
+      "手机",
+      "钱包",
+      "雨伞",
+      "课本"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「財布を忘れた」とあります。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-016",
+    "level": "N5",
+    "title": "旅行の写真",
+    "passage_ja": "先月、家族と海へ行きました。天気がよく、青い海がきれいでした。私は写真を二十枚撮りました。",
+    "prompt_zh": "作者拍了多少张照片？",
+    "options": [
+      "十二张",
+      "二十张",
+      "三十张",
+      "四十张"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「写真を二十枚撮りました」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-017",
+    "level": "N5",
+    "title": "病院の予約",
+    "passage_ja": "明日の午前十時に病院へ行きます。今日は予約の電話をしました。病院まではバスで十五分です。",
+    "prompt_zh": "作者什么时候去医院？",
+    "options": [
+      "今天上午",
+      "今天下午",
+      "明天上午十点",
+      "明天下午"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "「明日の午前十時」とあります。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-018",
+    "level": "N5",
+    "title": "犬の散歩",
+    "passage_ja": "毎晩、父は犬と公園を散歩します。雨の日は散歩しません。昨日は雨でしたが、今日は晴れています。",
+    "prompt_zh": "昨天为什么没有散步？",
+    "options": [
+      "狗生病了",
+      "下雨了",
+      "父亲很忙",
+      "天很热"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中说明雨天不散步，昨天下雨。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-019",
+    "level": "N5",
+    "title": "喫茶店",
+    "passage_ja": "駅の前に新しい喫茶店ができました。コーヒーは三百円で、ケーキは四百円です。私は昨日友達と行きました。",
+    "prompt_zh": "蛋糕多少钱？",
+    "options": [
+      "三百日元",
+      "四百日元",
+      "五百日元",
+      "七百日元"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「ケーキは四百円です」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  },
+  {
+    "id": "n5-reading-020",
+    "level": "N5",
+    "title": "週末の掃除",
+    "passage_ja": "日曜日の朝、家族みんなで部屋を掃除しました。兄は窓を拭き、私は床を掃きました。母は洗濯をしました。",
+    "prompt_zh": "作者做了什么？",
+    "options": [
+      "擦窗户",
+      "扫地",
+      "洗衣服",
+      "做饭"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「私は床を掃きました」。",
+    "vocabulary_notes": [],
+    "grammar_notes": [],
+    "source": "Nihongo Lab 原创阅读初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、等级适配、答案唯一性及中文解析。"
+  }
+]

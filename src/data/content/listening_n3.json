@@ -1,0 +1,502 @@
+[
+  {
+    "id": "n3-listening-001",
+    "level": "N3",
+    "title": "会議の結論",
+    "scene_zh": "会议结论",
+    "script_ja": "男：新しい案について、費用が高いという意見がありました。女：初期費用はかかりますが、長期的には作業時間を減らせます。男：では、効果を数字で確認する資料を次回までに準備しましょう。",
+    "prompt_zh": "两人决定下一步做什么？",
+    "options": [
+      "立即采用方案",
+      "准备效果数据资料",
+      "取消计划",
+      "减少员工"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出下次会议前准备效果数据。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-002",
+    "level": "N3",
+    "title": "予定変更の理由",
+    "scene_zh": "行程变更",
+    "script_ja": "女：明日の説明会に参加できますか。男：参加するつもりでしたが、急に取引先との打ち合わせが入ってしまいました。資料を後で送ってもらえますか。",
+    "prompt_zh": "男方不能参加的原因是什么？",
+    "options": [
+      "身体不舒服",
+      "临时有客户会议",
+      "忘记时间",
+      "交通停止"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方临时有客户会议。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-003",
+    "level": "N3",
+    "title": "図書館の改善",
+    "scene_zh": "图书馆改进",
+    "script_ja": "女：新しい図書館はどうですか。男：座席が増えたので勉強しやすくなりました。ただ、試験前は席が足りないことがあります。女：予約できる制度があると便利ですね。",
+    "prompt_zh": "女方提出什么建议？",
+    "options": [
+      "减少座位",
+      "实行座位预约制度",
+      "缩短开放时间",
+      "禁止考试前入馆"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方建议建立预约座位制度。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-004",
+    "level": "N3",
+    "title": "商品の返品",
+    "scene_zh": "商品退货",
+    "script_ja": "店員：こちらの商品はどうされましたか。女：説明書どおりに使いましたが、電源が入りません。店員：確認いたします。初期不良でしたら交換できます。",
+    "prompt_zh": "店员表示什么情况下可以换货？",
+    "options": [
+      "颜色不喜欢",
+      "初期故障",
+      "买错店铺",
+      "包装打开过"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "若确认是初期故障就可以更换。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-005",
+    "level": "N3",
+    "title": "地域イベント",
+    "scene_zh": "社区活动",
+    "script_ja": "男：今年の祭りは参加者が増えそうですね。女：ええ。ただ、準備する人が足りません。短時間だけ手伝える人も募集したらどうでしょう。男：それなら参加しやすくなりそうです。",
+    "prompt_zh": "女方建议怎样招募帮手？",
+    "options": [
+      "只招全职人员",
+      "也招募短时间帮忙的人",
+      "取消活动",
+      "提高参加费用"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她建议让只能短时间参与的人也能帮忙。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-006",
+    "level": "N3",
+    "title": "仕事の進め方",
+    "scene_zh": "工作流程",
+    "script_ja": "上司：この作業は毎回同じ確認をしていますね。男：はい。時間がかかっています。上司：確認項目を一覧にして、二重チェックを減らせないか検討してください。",
+    "prompt_zh": "上司要求男方做什么？",
+    "options": [
+      "增加确认次数",
+      "整理检查清单并研究减少重复检查",
+      "停止检查",
+      "更换全部员工"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "上司要求整理检查项目并减少重复检查。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-007",
+    "level": "N3",
+    "title": "健康相談",
+    "scene_zh": "健康咨询",
+    "script_ja": "女：最近、肩が痛いんです。男：長時間同じ姿勢で仕事をしていませんか。女：そうです。男：一時間に一度は立ち上がって、軽く体を動かすといいですよ。",
+    "prompt_zh": "男方建议女方怎样做？",
+    "options": [
+      "减少喝水",
+      "每小时起身活动",
+      "停止工作一周",
+      "每天跑步十公里"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议每小时站起来活动一下。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-008",
+    "level": "N3",
+    "title": "交通案内",
+    "scene_zh": "交通通知",
+    "script_ja": "アナウンス：工事のため、駅前のバス停は来週月曜日から一週間、東側に移動します。運行時刻に変更はありません。",
+    "prompt_zh": "公交站有什么变化？",
+    "options": [
+      "运行时间改变",
+      "站点临时移到东侧",
+      "公交停运一周",
+      "车站关闭"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "施工期间公交站移到东侧一周。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-009",
+    "level": "N3",
+    "title": "研修の感想",
+    "scene_zh": "培训感想",
+    "script_ja": "女：研修は役に立ちましたか。男：説明を聞くだけでなく、実際に操作できたのがよかったです。ただ、練習時間がもう少し長ければと思いました。",
+    "prompt_zh": "男方对培训有什么意见？",
+    "options": [
+      "实践环节不好",
+      "希望练习时间更长",
+      "内容太简单",
+      "不需要操作"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "他希望增加练习时间。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-010",
+    "level": "N3",
+    "title": "資料の確認",
+    "scene_zh": "资料核对",
+    "script_ja": "男：報告書の数字は確認しましたか。女：売上の部分は確認しましたが、昨年度との比較はまだです。男：提出前にそこも確認してください。",
+    "prompt_zh": "女方还没确认什么？",
+    "options": [
+      "销售额",
+      "去年同期比较",
+      "报告标题",
+      "客户名单"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她还没有核对与上一年度的比较。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-011",
+    "level": "N3",
+    "title": "旅行の選択",
+    "scene_zh": "旅行选择",
+    "script_ja": "女：海と山、どちらに行きたいですか。男：海は混みそうなので、静かな山の温泉にしたいです。女：では、電車で行ける場所を探しましょう。",
+    "prompt_zh": "男方更想去哪里？",
+    "options": [
+      "热闹的海边",
+      "安静的山间温泉",
+      "市中心购物区",
+      "主题公园"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方选择安静的山间温泉。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-012",
+    "level": "N3",
+    "title": "会場の準備",
+    "scene_zh": "会场准备",
+    "script_ja": "女：参加者は予定より二十人多くなりました。男：椅子は足りますか。女：十脚足りません。隣の部屋から借りてきます。",
+    "prompt_zh": "还缺多少把椅子？",
+    "options": [
+      "五把",
+      "十把",
+      "十五把",
+      "二十把"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方说还差十把椅子。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-013",
+    "level": "N3",
+    "title": "学習計画",
+    "scene_zh": "学习计划",
+    "script_ja": "男：試験まで一か月ですが、何から勉強すればいいでしょう。女：まず苦手な文法を整理して、毎週末に模擬問題を解くといいと思います。",
+    "prompt_zh": "女方建议男方先做什么？",
+    "options": [
+      "只背单词",
+      "整理不擅长的语法",
+      "每天听新闻",
+      "停止做模拟题"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议先整理薄弱语法。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-014",
+    "level": "N3",
+    "title": "苦情への対応",
+    "scene_zh": "投诉处理",
+    "script_ja": "客：注文した商品がまだ届きません。店員：申し訳ございません。配送状況を確認し、本日中に折り返しご連絡いたします。",
+    "prompt_zh": "店员答应做什么？",
+    "options": [
+      "立即退款",
+      "确认配送并当天回电",
+      "重新下单",
+      "让客人来店里"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "店员会确认配送情况并在当天联系。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-015",
+    "level": "N3",
+    "title": "新しい制度",
+    "scene_zh": "制度说明",
+    "script_ja": "女：来月から在宅勤務の日数が増えるそうですね。男：はい。ただし、チームで予定を共有し、週に一度は全員が出社することになりました。",
+    "prompt_zh": "新制度有什么要求？",
+    "options": [
+      "每天都在家",
+      "每周至少一次全员到公司",
+      "不必共享计划",
+      "每月开一次会"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "制度要求每周有一天全员出社。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-016",
+    "level": "N3",
+    "title": "地域の防災訓練",
+    "scene_zh": "防灾演练",
+    "script_ja": "男：日曜日の防災訓練に参加しますか。女：参加します。避難場所を知っておきたいですし、近所の人とも顔を合わせておきたいので。",
+    "prompt_zh": "女方参加演练的目的是什么？",
+    "options": [
+      "领取礼物",
+      "了解避难地点并认识邻居",
+      "参加比赛",
+      "购买防灾用品"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她希望了解避难地点并熟悉邻居。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-017",
+    "level": "N3",
+    "title": "映画の感想",
+    "scene_zh": "电影感想",
+    "script_ja": "女：昨日の映画、どうでしたか。男：映像はきれいでしたが、話の展開が少し複雑でした。もう一度見れば、意味が分かるかもしれません。",
+    "prompt_zh": "男方觉得电影怎样？",
+    "options": [
+      "画面不好",
+      "故事有点复杂",
+      "太短了",
+      "完全听不懂语言"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "他认为故事发展稍复杂。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-018",
+    "level": "N3",
+    "title": "仕事の依頼",
+    "scene_zh": "工作委托",
+    "script_ja": "上司：この資料を金曜日までにまとめてもらえますか。女：木曜日は外出予定なので、金曜の午前中までなら可能です。上司：それでお願いします。",
+    "prompt_zh": "女方何时能完成？",
+    "options": [
+      "周四上午",
+      "周五上午",
+      "周五下午",
+      "下周一"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方答应周五上午前完成。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-019",
+    "level": "N3",
+    "title": "店の営業時間",
+    "scene_zh": "营业时间",
+    "script_ja": "男：この店は何時まで開いていますか。女：平日は九時までですが、日曜日は七時に閉まります。男：今日は日曜日だから、急いだほうがいいですね。",
+    "prompt_zh": "星期日几点关门？",
+    "options": [
+      "下午五点",
+      "下午七点",
+      "晚上九点",
+      "晚上十点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方说星期日七点关门。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n3-listening-020",
+    "level": "N3",
+    "title": "相談の結果",
+    "scene_zh": "商量结果",
+    "script_ja": "女：資格試験を受けるか迷っています。男：仕事にも役立つなら、まず資料を集めてみたらどうですか。女：そうですね。費用と勉強時間を調べてから決めます。",
+    "prompt_zh": "女方接下来打算做什么？",
+    "options": [
+      "马上报名",
+      "调查费用和学习时间",
+      "放弃工作",
+      "请男方代考"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她会先调查费用和所需学习时间。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  }
+]

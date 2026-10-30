@@ -2,7 +2,14 @@ import { useState } from "react";
 import VocabularyPage from "./pages/VocabularyPage";
 import VocabularyServiceTest from "./dev/VocabularyServiceTest";
 import VocabularyManagerPage from "./pages/VocabularyManagerPage";
-import ReviewPage from './pages/ReviewPage'
+import ReviewPage from "./pages/ReviewPage";
+import GrammarPage from "./pages/GrammarPage";
+import KanjiPage from "./pages/KanjiPage";
+import ReadingPage from "./pages/ReadingPage";
+import ListeningPage from "./pages/ListeningPage";
+import MockExamPage from "./pages/MockExamPage";
+import StudyReportPage from "./pages/StudyReportPage";
+import UnifiedReviewPage from "./pages/UnifiedReviewPage";
 import {
   HashRouter,
   Routes,
@@ -17,7 +24,8 @@ import {
   Languages,
   Headphones,
   ClipboardCheck,
-  ChartNoAxesCombined,
+  Brain,
+  BarChart3,
   House,
   Menu,
   X,
@@ -38,8 +46,10 @@ const navigation = [
   { name: "汉字学习", path: "/kanji", icon: Languages },
   { name: "阅读训练", path: "/reading", icon: PenLine },
   { name: "听力训练", path: "/listening", icon: Headphones },
-  { name: "模拟考试", path: "/exam", icon: ClipboardCheck },
-  { name: "学习报告", path: "/reports", icon: ChartNoAxesCombined },
+  { name: "模拟考试", path: "/mock-exam", icon: ClipboardCheck },
+  // { name: "学习报告", path: "/reports", icon: ChartNoAxesCombined },
+  { name: "全站智能复习", path: "/review-center", icon: Brain },
+  { name: "学习报告", path: "/report", icon: BarChart3 },
 ];
 
 const tasks = [
@@ -314,11 +324,11 @@ function AppRoutes() {
       <Route element={<Layout />}>
         <Route path="/" element={<Dashboard />} />
         <Route path="/vocabulary" element={<VocabularyPage />} />
-        <Route path="/grammar" element={<StudyPages type="grammar" />} />
+        {/* <Route path="/grammar" element={<StudyPages type="grammar" />} />
         <Route path="/kanji" element={<StudyPages type="kanji" />} />
         <Route path="/reading" element={<StudyPages type="reading" />} />
-        <Route path="/listening" element={<StudyPages type="listening" />} />
-        <Route path="/exam" element={<StudyPages type="exam" />} />
+        <Route path="/listening" element={<StudyPages type="listening" />} /> */}
+        {/* <Route path="/exam" element={<StudyPages type="exam" />} /> */}
         <Route path="/reports" element={<StudyPages type="reports" />} />
         <Route
           path="*"
@@ -327,6 +337,13 @@ function AppRoutes() {
         <Route path="/vocabulary-test" element={<VocabularyServiceTest />} />
         <Route path="/vocabulary-manager" element={<VocabularyManagerPage />} />
         <Route path="/review" element={<ReviewPage />} />
+        <Route path="/grammar" element={<GrammarPage />} />
+        <Route path="/kanji" element={<KanjiPage />} />
+        <Route path="/reading" element={<ReadingPage />} />
+        <Route path="/listening" element={<ListeningPage />} />
+        <Route path="/mock-exam" element={<MockExamPage />} />
+        <Route path="/report" element={<StudyReportPage />} />
+        <Route path="/review-center" element={<UnifiedReviewPage />} />
       </Route>
     </Routes>
   );

@@ -1,0 +1,5906 @@
+[
+  {
+    "id": "n4-reading-020",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-029",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-018",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-034",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-047",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」に最も近い意味はどれですか。",
+    "options": [
+      "景色",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-002",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-031",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-070",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-020",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-047",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-028",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「説明」的读音是什么？",
+    "options": [
+      "せつめい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「説明」在本题词语中读作せつめい，意思是说明。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-015",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」に最も近い意味はどれですか。",
+    "options": [
+      "比较",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-025",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「約束」的读音是什么？",
+    "options": [
+      "やくそく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「約束」在本题词语中读作やくそく，意思是约定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-013",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-006",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「間に合う」の読み方はどれですか。",
+    "options": [
+      "まにあう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-005",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-029",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「準備」的读音是什么？",
+    "options": [
+      "じゅんび",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「準備」在本题词语中读作じゅんび，意思是准备。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-017",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-050",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「運転」の読み方はどれですか。",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-008",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-044",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「続ける」の意味を選びなさい。",
+    "options": [
+      "继续",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-009",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」の意味として正しいものはどれですか。",
+    "options": [
+      "约定",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-063",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-038",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-035",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-030",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-036",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-006",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-048",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-013",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-027",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-014",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-042",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「必要」の読み方はどれですか。",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-013",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「連絡」的读音是什么？",
+    "options": [
+      "れんらく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「連絡」在本题词语中读作れんらく，意思是联系。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-038",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「安心」の読み方はどれですか。",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-040",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「運転」の意味を選びなさい。",
+    "options": [
+      "驾驶",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-059",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-024",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-022",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-028",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-032",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-017",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「安心」的读音是什么？",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「安心」在本题词语中读作あんしん，意思是安心。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-072",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-039",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」に最も近い意味はどれですか。",
+    "options": [
+      "约定",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-007",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-010",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-078",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-010",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-011",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「経験」的读音是什么？",
+    "options": [
+      "けいけん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「経験」在本题词语中读作けいけん，意思是经验。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-010",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「相談」的读音是什么？",
+    "options": [
+      "そうだん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「相談」在本题词语中读作そうだん，意思是商量。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-030",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-027",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-026",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-041",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」の意味として正しいものはどれですか。",
+    "options": [
+      "经验",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-028",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-022",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-012",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-075",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」に最も近い意味はどれですか。",
+    "options": [
+      "比较",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-037",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-006",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-032",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「必要」的读音是什么？",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「必要」在本题词语中读作ひつよう，意思是必要。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-027",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」に最も近い意味はどれですか。",
+    "options": [
+      "景色",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-030",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「相談」的读音是什么？",
+    "options": [
+      "そうだん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「相談」在本题词语中读作そうだん，意思是商量。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-025",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-033",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-001",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「経験」的读音是什么？",
+    "options": [
+      "けいけん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「経験」在本题词语中读作けいけん，意思是经验。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-012",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「必要」の意味を選びなさい。",
+    "options": [
+      "必要",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-071",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-012",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「必要」的读音是什么？",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「必要」在本题词语中读作ひつよう，意思是必要。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-026",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-020",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-046",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「間に合う」の読み方はどれですか。",
+    "options": [
+      "まにあう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-045",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」の意味として正しいものはどれですか。",
+    "options": [
+      "比较",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-016",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「運転」的读音是什么？",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「運転」在本题词语中读作うんてん，意思是驾驶。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-065",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-051",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」に最も近い意味はどれですか。",
+    "options": [
+      "经验",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-036",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「運転」的读音是什么？",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「運転」在本题词语中读作うんてん，意思是驾驶。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-011",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-025",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-018",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-014",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-016",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-061",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」の意味として正しいものはどれですか。",
+    "options": [
+      "经验",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-056",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「間に合う」の意味を選びなさい。",
+    "options": [
+      "赶得上",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-027",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-066",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「間に合う」の読み方はどれですか。",
+    "options": [
+      "まにあう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-052",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-008",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-009",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-024",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-076",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-057",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-024",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-068",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「安心」の意味を選びなさい。",
+    "options": [
+      "安心",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-014",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-049",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-028",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-005",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」の意味として正しいものはどれですか。",
+    "options": [
+      "比较",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-021",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「経験」的读音是什么？",
+    "options": [
+      "けいけん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「経験」在本题词语中读作けいけん，意思是经验。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-015",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-002",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-004",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「景色」的读音是什么？",
+    "options": [
+      "けしき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「景色」在本题词语中读作けしき，意思是景色。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-007",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」に最も近い意味はどれですか。",
+    "options": [
+      "景色",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-008",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「説明」的读音是什么？",
+    "options": [
+      "せつめい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「説明」在本题词语中读作せつめい，意思是说明。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-001",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-028",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-031",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-019",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」に最も近い意味はどれですか。",
+    "options": [
+      "约定",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-069",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-049",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」の意味として正しいものはどれですか。",
+    "options": [
+      "约定",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-040",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-063",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」に最も近い意味はどれですか。",
+    "options": [
+      "联系",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-024",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-029",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-026",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「間に合う」の読み方はどれですか。",
+    "options": [
+      "まにあう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-062",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「必要」の読み方はどれですか。",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-068",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-007",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-008",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「安心」の意味を選びなさい。",
+    "options": [
+      "安心",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-020",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「相談」的读音是什么？",
+    "options": [
+      "そうだん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「相談」在本题词语中读作そうだん，意思是商量。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-015",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-078",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「安心」の読み方はどれですか。",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-003",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-007",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-013",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-064",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-006",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-009",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「準備」的读音是什么？",
+    "options": [
+      "じゅんび",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「準備」在本题词语中读作じゅんび，意思是准备。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-006",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「運転」的读音是什么？",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「運転」在本题词语中读作うんてん，意思是驾驶。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-019",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「準備」的读音是什么？",
+    "options": [
+      "じゅんび",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「準備」在本题词语中读作じゅんび，意思是准备。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-021",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」の意味として正しいものはどれですか。",
+    "options": [
+      "经验",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-045",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-003",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-021",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-067",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-079",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」に最も近い意味はどれですか。",
+    "options": [
+      "约定",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-018",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-001",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-019",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-024",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「景色」的读音是什么？",
+    "options": [
+      "けしき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「景色」在本题词语中读作けしき，意思是景色。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-037",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-074",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-009",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-002",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-034",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「続ける」の読み方はどれですか。",
+    "options": [
+      "つづける",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-014",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-039",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-022",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「必要」の読み方はどれですか。",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-031",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「経験」的读音是什么？",
+    "options": [
+      "けいけん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「経験」在本题词语中读作けいけん，意思是经验。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-032",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「必要」の意味を選びなさい。",
+    "options": [
+      "必要",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-011",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」に最も近い意味はどれですか。",
+    "options": [
+      "经验",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-076",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「間に合う」の意味を選びなさい。",
+    "options": [
+      "赶得上",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-026",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-021",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-029",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-020",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「運転」の意味を選びなさい。",
+    "options": [
+      "驾驶",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-009",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-033",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-007",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「安心」的读音是什么？",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「安心」在本题词语中读作あんしん，意思是安心。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-080",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「運転」の意味を選びなさい。",
+    "options": [
+      "驾驶",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-019",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-073",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」の意味として正しいものはどれですか。",
+    "options": [
+      "联系",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-033",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」の意味として正しいものはどれですか。",
+    "options": [
+      "联系",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-075",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-005",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-026",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-074",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「続ける」の読み方はどれですか。",
+    "options": [
+      "つづける",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-030",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-044",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-002",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「必要」の読み方はどれですか。",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-025",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-028",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「安心」の意味を選びなさい。",
+    "options": [
+      "安心",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-014",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「続ける」の読み方はどれですか。",
+    "options": [
+      "つづける",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-051",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-002",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-022",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-037",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」の意味として正しいものはどれですか。",
+    "options": [
+      "景色",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-055",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-077",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-015",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「約束」的读音是什么？",
+    "options": [
+      "やくそく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「約束」在本题词语中读作やくそく，意思是约定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-005",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「約束」的读音是什么？",
+    "options": [
+      "やくそく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「約束」在本题词语中读作やくそく，意思是约定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-021",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-016",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「間に合う」の意味を選びなさい。",
+    "options": [
+      "赶得上",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-071",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」に最も近い意味はどれですか。",
+    "options": [
+      "经验",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-042",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-041",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-067",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」に最も近い意味はどれですか。",
+    "options": [
+      "景色",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-057",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」の意味として正しいものはどれですか。",
+    "options": [
+      "景色",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-018",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「説明」的读音是什么？",
+    "options": [
+      "せつめい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「説明」在本题词语中读作せつめい，意思是说明。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-055",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」に最も近い意味はどれですか。",
+    "options": [
+      "比较",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-053",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-017",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-004",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-035",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-013",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」の意味として正しいものはどれですか。",
+    "options": [
+      "联系",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-060",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「運転」の意味を選びなさい。",
+    "options": [
+      "驾驶",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-052",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「必要」の意味を選びなさい。",
+    "options": [
+      "必要",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-037",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「安心」的读音是什么？",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「安心」在本题词语中读作あんしん，意思是安心。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-064",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「続ける」の意味を選びなさい。",
+    "options": [
+      "继续",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-018",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-032",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-027",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-017",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」の意味として正しいものはどれですか。",
+    "options": [
+      "景色",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-033",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「連絡」的读音是什么？",
+    "options": [
+      "れんらく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「連絡」在本题词语中读作れんらく，意思是联系。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-031",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」に最も近い意味はどれですか。",
+    "options": [
+      "经验",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-011",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-001",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「経験」の意味として正しいものはどれですか。",
+    "options": [
+      "经验",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "経験（けいけん）表示“经验”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-018",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「安心」の読み方はどれですか。",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-029",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-079",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-036",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「間に合う」の意味を選びなさい。",
+    "options": [
+      "赶得上",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "間に合う（まにあう）表示“赶得上”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-073",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-050",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-013",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-012",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-003",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-066",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-003",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」に最も近い意味はどれですか。",
+    "options": [
+      "联系",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-023",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "財布を忘れて（　）。",
+    "options": [
+      "しまいました",
+      "おきました",
+      "みました",
+      "ありました"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「てしまう」可表示遗憾。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-001",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行った（　）があります。",
+    "options": [
+      "こと",
+      "もの",
+      "ため",
+      "ところ"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "经历表达为「Vたことがある」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-019",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-026",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「運転」的读音是什么？",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「運転」在本题词语中读作うんてん，意思是驾驶。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-040",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「相談」的读音是什么？",
+    "options": [
+      "そうだん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「相談」在本题词语中读作そうだん，意思是商量。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-023",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「連絡」的读音是什么？",
+    "options": [
+      "れんらく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「連絡」在本题词语中读作れんらく，意思是联系。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-061",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "留学する（　）です。",
+    "options": [
+      "つもり",
+      "はず",
+      "わけ",
+      "ことが"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「つもりです」表示个人打算。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-014",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「景色」的读音是什么？",
+    "options": [
+      "けしき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「景色」在本题词语中读作けしき，意思是景色。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-023",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-046",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-022",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「必要」的读音是什么？",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「必要」在本题词语中读作ひつよう，意思是必要。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-004",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-062",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-027",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「安心」的读音是什么？",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「安心」在本题词语中读作あんしん，意思是安心。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-019",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-023",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-017",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-077",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「景色」の意味として正しいものはどれですか。",
+    "options": [
+      "景色",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "景色（けしき）表示“景色”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-022",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-023",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」に最も近い意味はどれですか。",
+    "options": [
+      "联系",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-054",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「続ける」の読み方はどれですか。",
+    "options": [
+      "つづける",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-054",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "音楽を聞き（　）勉強します。",
+    "options": [
+      "ながら",
+      "ても",
+      "たら",
+      "ので"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ながら」表示同时动作。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-025",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-024",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「続ける」の意味を選びなさい。",
+    "options": [
+      "继续",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-016",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-008",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-034",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「景色」的读音是什么？",
+    "options": [
+      "けしき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「景色」在本题词语中读作けしき，意思是景色。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-058",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「安心」の読み方はどれですか。",
+    "options": [
+      "あんしん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-017",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-025",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」の意味として正しいものはどれですか。",
+    "options": [
+      "比较",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-069",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」の意味として正しいものはどれですか。",
+    "options": [
+      "约定",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-029",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」の意味として正しいものはどれですか。",
+    "options": [
+      "约定",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-002",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「必要」的读音是什么？",
+    "options": [
+      "ひつよう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「必要」在本题词语中读作ひつよう，意思是必要。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-036",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-023",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-010",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「運転」の読み方はどれですか。",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-039",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「準備」的读音是什么？",
+    "options": [
+      "じゅんび",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「準備」在本题词语中读作じゅんび，意思是准备。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-043",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-006",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-005",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-003",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-004",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「続ける」の意味を選びなさい。",
+    "options": [
+      "继续",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "続ける（つづける）表示“继续”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-039",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-011",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "毎日運動する（　）しています。",
+    "options": [
+      "ように",
+      "ことを",
+      "ために",
+      "そうに"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ようにしている」表示坚持某习惯。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-053",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」の意味として正しいものはどれですか。",
+    "options": [
+      "联系",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-009",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-065",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」の意味として正しいものはどれですか。",
+    "options": [
+      "比较",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-060",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-034",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-016",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-043",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「連絡」に最も近い意味はどれですか。",
+    "options": [
+      "联系",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "連絡（れんらく）表示“联系”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-056",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-070",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「運転」の読み方はどれですか。",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-035",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「比べる」に最も近い意味はどれですか。",
+    "options": [
+      "比较",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "比べる（くらべる）表示“比较”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-038",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「説明」的读音是什么？",
+    "options": [
+      "せつめい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「説明」在本题词语中读作せつめい，意思是说明。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-008",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-058",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "時間が（　）、手伝います。",
+    "options": [
+      "あれば",
+      "あると",
+      "あって",
+      "あったらば"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ば」表示条件。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-007",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-020",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-072",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「必要」の意味を選びなさい。",
+    "options": [
+      "必要",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "必要（ひつよう）表示“必要”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-048",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「安心」の意味を選びなさい。",
+    "options": [
+      "安心",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "安心（あんしん）表示“安心”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-003",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「連絡」的读音是什么？",
+    "options": [
+      "れんらく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「連絡」在本题词语中读作れんらく，意思是联系。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-038",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-004",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-030",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「運転」の読み方はどれですか。",
+    "options": [
+      "うんてん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "運転（うんてん）表示“驾驶”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-080",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "おいし（　）ケーキです。",
+    "options": [
+      "そうな",
+      "ように",
+      "らしいに",
+      "みたいな"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "い形容词去い＋そうな，修饰名词。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-012",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-grammar-012",
+    "level": "N4",
+    "type": "grammar_choice",
+    "prompt_ja": "雨が降っている（　）、出かけません。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "まで"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「ので」表示原因。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-kanji-035",
+    "level": "N4",
+    "type": "kanji_reading",
+    "prompt_ja": "「約束」的读音是什么？",
+    "options": [
+      "やくそく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「約束」在本题词语中读作やくそく，意思是约定。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-021",
+    "level": "N4",
+    "type": "listening",
+    "title": "経験",
+    "script_ja": "女：北海道へ行ったことがありますか。男：はい、去年の冬に一度行きました。",
+    "prompt_zh": "男方去过北海道几次？",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "没有"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「一度行きました」表示一次。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-016",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-015",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-005",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-004",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-015",
+    "level": "N4",
+    "type": "reading",
+    "title": "約束",
+    "passage_ja": "友達と午後二時に会う約束をしました。しかし、電車が遅れたので、十五分遅れてしまいました。",
+    "prompt_zh": "作者为什么迟到？",
+    "options": [
+      "睡过头",
+      "电车晚点",
+      "忘记约定",
+      "迷路"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "原因是电车晚点。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-010",
+    "level": "N4",
+    "type": "listening",
+    "title": "予定変更",
+    "script_ja": "女：明日の会議は十時からですね。男：いいえ、午後一時に変わりました。女：分かりました。",
+    "prompt_zh": "会议改到几点？",
+    "options": [
+      "上午十点",
+      "中午十二点",
+      "下午一点",
+      "下午三点"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方说明改为下午一点。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-001",
+    "level": "N4",
+    "type": "reading",
+    "title": "旅行の準備",
+    "passage_ja": "来週、家族と京都へ行きます。ホテルはもう予約しました。電車の切符はまだ買っていません。明日、駅で買うつもりです。",
+    "prompt_zh": "作者还没有做什么？",
+    "options": [
+      "预约酒店",
+      "买火车票",
+      "决定目的地",
+      "准备行李"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「切符はまだ買っていません」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-040",
+    "level": "N4",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "町の図書館は先月新しくなりました。前より広くなり、勉強する机も増えました。夜八時まで開いています。",
+    "prompt_zh": "图书馆有什么变化？",
+    "options": [
+      "变小",
+      "提前关门",
+      "增加学习桌",
+      "只对学生开放"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "学习用的桌子增加了。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-listening-011",
+    "level": "N4",
+    "type": "listening",
+    "title": "忘れ物",
+    "script_ja": "男：駅に着いてから、傘を忘れたことに気づきました。女：雨が降っているのに大変ですね。",
+    "prompt_zh": "男方忘了什么？",
+    "options": [
+      "钱包",
+      "手机",
+      "雨伞",
+      "车票"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "男方忘了雨伞。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-ordering-010",
+    "level": "N4",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-vocab-059",
+    "level": "N4",
+    "type": "vocabulary",
+    "prompt_ja": "「約束」に最も近い意味はどれですか。",
+    "options": [
+      "约定",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "約束（やくそく）表示“约定”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n4-reading-030",
+    "level": "N4",
+    "type": "reading",
+    "title": "日本語の勉強",
+    "passage_ja": "私は去年から日本語を勉強しています。最初は漢字が難しかったですが、毎日読むようにしてから、少しずつ分かるようになりました。",
+    "prompt_zh": "汉字逐渐容易理解的原因？",
+    "options": [
+      "停止学习",
+      "每天阅读",
+      "只背单词",
+      "不看汉字"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "每天阅读后逐渐理解。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N4",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  }
+]

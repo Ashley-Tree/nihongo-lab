@@ -1,0 +1,5906 @@
+[
+  {
+    "id": "n5-grammar-032",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-018",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-028",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「新しい」の意味を選びなさい。",
+    "options": [
+      "新的",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-058",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「新しい」の読み方はどれですか。",
+    "options": [
+      "あたらしい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-077",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-041",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」の意味として正しいものはどれですか。",
+    "options": [
+      "学校",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-029",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「本」的读音是什么？",
+    "options": [
+      "ほん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「本」在本题词语中读作ほん，意思是书。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-074",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-080",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-009",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-021",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-053",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-043",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」に最も近い意味はどれですか。",
+    "options": [
+      "每天",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-002",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-009",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-057",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」の意味として正しいものはどれですか。",
+    "options": [
+      "安静的",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-026",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「読む」の読み方はどれですか。",
+    "options": [
+      "よむ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-074",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「昨日」の読み方はどれですか。",
+    "options": [
+      "きのう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-004",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「昨日」の意味を選びなさい。",
+    "options": [
+      "昨天",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-028",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-025",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-067",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」に最も近い意味はどれですか。",
+    "options": [
+      "安静的",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-006",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-076",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-003",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-055",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」に最も近い意味はどれですか。",
+    "options": [
+      "喝",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-049",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」の意味として正しいものはどれですか。",
+    "options": [
+      "朋友",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-048",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-036",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-017",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「日」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「日」在本题词语中读作ひ，意思是太阳。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-016",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-060",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「時間」の意味を選びなさい。",
+    "options": [
+      "时间",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-019",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-029",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-068",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-031",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-054",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-045",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」の意味として正しいものはどれですか。",
+    "options": [
+      "喝",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-027",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-021",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-020",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「時間」の意味を選びなさい。",
+    "options": [
+      "时间",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-007",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」に最も近い意味はどれですか。",
+    "options": [
+      "安静的",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-075",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-002",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-010",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-018",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-010",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「時間」の読み方はどれですか。",
+    "options": [
+      "じかん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-027",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-007",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-009",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」の意味として正しいものはどれですか。",
+    "options": [
+      "朋友",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-047",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-009",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「本」的读音是什么？",
+    "options": [
+      "ほん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「本」在本题词语中读作ほん，意思是书。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-011",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-024",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-022",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-014",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-014",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-066",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「読む」の読み方はどれですか。",
+    "options": [
+      "よむ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-066",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-040",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「時間」の意味を選びなさい。",
+    "options": [
+      "时间",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-079",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-028",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「月」的读音是什么？",
+    "options": [
+      "つき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「月」在本题词语中读作つき，意思是月亮。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-050",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-012",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-001",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-006",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-002",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-011",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-025",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-080",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「時間」の意味を選びなさい。",
+    "options": [
+      "时间",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-072",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「先生」の意味を選びなさい。",
+    "options": [
+      "老师",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-018",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「月」的读音是什么？",
+    "options": [
+      "つき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「月」在本题词语中读作つき，意思是月亮。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-030",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-001",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-034",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-019",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-069",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」の意味として正しいものはどれですか。",
+    "options": [
+      "朋友",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-033",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」の意味として正しいものはどれですか。",
+    "options": [
+      "每天",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-040",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-001",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-022",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-023",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「水」的读音是什么？",
+    "options": [
+      "みず",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「水」在本题词语中读作みず，意思是水。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-039",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-033",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-007",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-034",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-032",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-058",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-013",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-059",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」に最も近い意味はどれですか。",
+    "options": [
+      "朋友",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-003",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」に最も近い意味はどれですか。",
+    "options": [
+      "每天",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-021",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-077",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」の意味として正しいものはどれですか。",
+    "options": [
+      "安静的",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-079",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」に最も近い意味はどれですか。",
+    "options": [
+      "朋友",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-075",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」に最も近い意味はどれですか。",
+    "options": [
+      "喝",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-019",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「本」的读音是什么？",
+    "options": [
+      "ほん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「本」在本题词语中读作ほん，意思是书。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-056",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-064",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「昨日」の意味を選びなさい。",
+    "options": [
+      "昨天",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-014",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「昨日」の読み方はどれですか。",
+    "options": [
+      "きのう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-065",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-015",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-004",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-068",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「新しい」の意味を選びなさい。",
+    "options": [
+      "新的",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-003",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-010",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「学」的读音是什么？",
+    "options": [
+      "がく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「学」在本题词语中读作がく，意思是学习。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-020",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-019",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-031",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「山」的读音是什么？",
+    "options": [
+      "やま",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「山」在本题词语中读作やま，意思是山。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-010",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-071",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-003",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「水」的读音是什么？",
+    "options": [
+      "みず",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「水」在本题词语中读作みず，意思是水。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-027",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-063",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」に最も近い意味はどれですか。",
+    "options": [
+      "每天",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-005",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「木」的读音是什么？",
+    "options": [
+      "き",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「木」在本题词语中读作き，意思是树木。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-022",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「先生」の読み方はどれですか。",
+    "options": [
+      "せんせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-044",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-021",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」の意味として正しいものはどれですか。",
+    "options": [
+      "学校",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-060",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-008",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「月」的读音是什么？",
+    "options": [
+      "つき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「月」在本题词语中读作つき，意思是月亮。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-019",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-007",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-035",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-055",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-078",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「新しい」の読み方はどれですか。",
+    "options": [
+      "あたらしい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-020",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「学」的读音是什么？",
+    "options": [
+      "がく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「学」在本题词语中读作がく，意思是学习。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-078",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-036",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-011",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-016",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-012",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「川」的读音是什么？",
+    "options": [
+      "かわ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「川」在本题词语中读作かわ，意思是河流。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-027",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」に最も近い意味はどれですか。",
+    "options": [
+      "安静的",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-038",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「月」的读音是什么？",
+    "options": [
+      "つき",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「月」在本题词语中读作つき，意思是月亮。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-032",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「先生」の意味を選びなさい。",
+    "options": [
+      "老师",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-023",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-004",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-006",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「人」的读音是什么？",
+    "options": [
+      "ひと",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「人」在本题词语中读作ひと，意思是人。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-024",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-015",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「木」的读音是什么？",
+    "options": [
+      "き",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「木」在本题词语中读作き，意思是树木。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-026",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-009",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-038",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-061",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」の意味として正しいものはどれですか。",
+    "options": [
+      "学校",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-001",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「山」的读音是什么？",
+    "options": [
+      "やま",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「山」在本题词语中读作やま，意思是山。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-023",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-032",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「川」的读音是什么？",
+    "options": [
+      "かわ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「川」在本题词语中读作かわ，意思是河流。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-025",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「木」的读音是什么？",
+    "options": [
+      "き",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「木」在本题词语中读作き，意思是树木。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-052",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-017",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-035",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」に最も近い意味はどれですか。",
+    "options": [
+      "喝",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-029",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」の意味として正しいものはどれですか。",
+    "options": [
+      "朋友",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-013",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-051",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-003",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-056",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「読む」の意味を選びなさい。",
+    "options": [
+      "读",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-024",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「昨日」の意味を選びなさい。",
+    "options": [
+      "昨天",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-012",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-039",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「本」的读音是什么？",
+    "options": [
+      "ほん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「本」在本题词语中读作ほん，意思是书。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-024",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「火」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「火」在本题词语中读作ひ，意思是火。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-021",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-059",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-071",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」に最も近い意味はどれですか。",
+    "options": [
+      "学校",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-006",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「読む」の読み方はどれですか。",
+    "options": [
+      "よむ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-025",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」の意味として正しいものはどれですか。",
+    "options": [
+      "喝",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-024",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-020",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-008",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-029",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-026",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-046",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-034",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「昨日」の読み方はどれですか。",
+    "options": [
+      "きのう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-004",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-023",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-023",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-011",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」に最も近い意味はどれですか。",
+    "options": [
+      "学校",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-047",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」に最も近い意味はどれですか。",
+    "options": [
+      "安静的",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-023",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」に最も近い意味はどれですか。",
+    "options": [
+      "每天",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-073",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-038",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「新しい」の読み方はどれですか。",
+    "options": [
+      "あたらしい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-061",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-022",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-037",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-012",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「先生」の意味を選びなさい。",
+    "options": [
+      "老师",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-020",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-012",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-044",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「昨日」の意味を選びなさい。",
+    "options": [
+      "昨天",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-029",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-037",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」の意味として正しいものはどれですか。",
+    "options": [
+      "安静的",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-020",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-012",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-063",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-070",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-013",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」の意味として正しいものはどれですか。",
+    "options": [
+      "每天",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-035",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-028",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-043",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-067",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-031",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」に最も近い意味はどれですか。",
+    "options": [
+      "学校",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-004",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-050",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「時間」の読み方はどれですか。",
+    "options": [
+      "じかん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-053",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」の意味として正しいものはどれですか。",
+    "options": [
+      "每天",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-070",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「時間」の読み方はどれですか。",
+    "options": [
+      "じかん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-014",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "時間があれば",
+      "手伝う",
+      "つもりです。"
+    ],
+    "answer_text": "時間があれば手伝うつもりです。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-025",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-014",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「火」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「火」在本题词语中读作ひ，意思是火。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-017",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-011",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-026",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-030",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「時間」の読み方はどれですか。",
+    "options": [
+      "じかん",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "時間（じかん）表示“时间”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-016",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「人」的读音是什么？",
+    "options": [
+      "ひと",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「人」在本题词语中读作ひと，意思是人。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-041",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-008",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「新しい」の意味を選びなさい。",
+    "options": [
+      "新的",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-017",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「静か」の意味として正しいものはどれですか。",
+    "options": [
+      "安静的",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "静か（しずか）表示“安静的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-004",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「火」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「火」在本题词语中读作ひ，意思是火。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-021",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「山」的读音是什么？",
+    "options": [
+      "やま",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「山」在本题词语中读作やま，意思是山。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-022",
+    "level": "N5",
+    "type": "reading",
+    "title": "週末",
+    "passage_ja": "土曜日、私は友達と公園へ行きました。公園で写真を撮りました。それから、喫茶店でコーヒーを飲みました。",
+    "prompt_zh": "作者和谁去公园？",
+    "options": [
+      "老师",
+      "家人",
+      "朋友",
+      "同学"
+    ],
+    "answer_index": 2,
+    "explanation_zh": "文中写着「友達と公園へ行きました」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-015",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "名前を書い（　）ください。",
+    "options": [
+      "て",
+      "た",
+      "ます",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "请求表达使用「て形＋ください」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-034",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「火」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「火」在本题词语中读作ひ，意思是火。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-008",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-011",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「山」的读音是什么？",
+    "options": [
+      "やま",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「山」在本题词语中读作やま，意思是山。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-001",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」の意味として正しいものはどれですか。",
+    "options": [
+      "学校",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-073",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「毎日」の意味として正しいものはどれですか。",
+    "options": [
+      "每天",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "毎日（まいにち）表示“每天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-025",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-049",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-006",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-016",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「読む」の意味を選びなさい。",
+    "options": [
+      "读",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-033",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「水」的读音是什么？",
+    "options": [
+      "みず",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「水」在本题词语中读作みず，意思是水。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-016",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-001",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "私は",
+      "毎朝",
+      "日本語を",
+      "勉強します。"
+    ],
+    "answer_text": "私は毎朝日本語を勉強します。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-065",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」の意味として正しいものはどれですか。",
+    "options": [
+      "喝",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-057",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "私は学生（　）。",
+    "options": [
+      "です",
+      "ます",
+      "でしたか",
+      "ません"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词句礼貌肯定形式为「Nです」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-052",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「先生」の意味を選びなさい。",
+    "options": [
+      "老师",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-042",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「先生」の読み方はどれですか。",
+    "options": [
+      "せんせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-014",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-015",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」に最も近い意味はどれですか。",
+    "options": [
+      "喝",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-006",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-027",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-007",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「日」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「日」在本题词语中读作ひ，意思是太阳。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-035",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「木」的读音是什么？",
+    "options": [
+      "き",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「木」在本题词语中读作き，意思是树木。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-018",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-005",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-013",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「水」的读音是什么？",
+    "options": [
+      "みず",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「水」在本题词语中读作みず，意思是水。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-022",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「川」的读音是什么？",
+    "options": [
+      "かわ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「川」在本题词语中读作かわ，意思是河流。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-069",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-046",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「読む」の読み方はどれですか。",
+    "options": [
+      "よむ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-062",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-026",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「人」的读音是什么？",
+    "options": [
+      "ひと",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「人」在本题词语中读作ひと，意思是人。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-026",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-009",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-028",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "図書館（　）本を読みます。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "を"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "动作发生地点使用「で」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-029",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-010",
+    "level": "N5",
+    "type": "listening",
+    "title": "待ち合わせ",
+    "script_ja": "男：明日、何時に会いますか。女：午前十時はどうですか。男：十時半でもいいですか。女：はい、いいですよ。",
+    "prompt_zh": "他们最后约在几点？",
+    "options": [
+      "十点",
+      "十点半",
+      "十一点",
+      "十一点半"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "男方提出十点半，女方同意。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-062",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「先生」の読み方はどれですか。",
+    "options": [
+      "せんせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-076",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「読む」の意味を選びなさい。",
+    "options": [
+      "读",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-040",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-010",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-018",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-072",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-002",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「川」的读音是什么？",
+    "options": [
+      "かわ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「川」在本题词语中读作かわ，意思是河流。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-033",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-008",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-018",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「新しい」の読み方はどれですか。",
+    "options": [
+      "あたらしい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-016",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-036",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「人」的读音是什么？",
+    "options": [
+      "ひと",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「人」在本题词语中读作ひと，意思是人。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-037",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-024",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-042",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-005",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-017",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-013",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-064",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "学校（　）行きます。",
+    "options": [
+      "へ",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "移动方向可用「へ」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-013",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-040",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「学」的读音是什么？",
+    "options": [
+      "がく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「学」在本题词语中读作がく，意思是学习。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-045",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "写真を撮っ（　）いいですか。",
+    "options": [
+      "ても",
+      "たら",
+      "たり",
+      "ては"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "征求许可使用「Vて＋もいいですか」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-030",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「学」的读音是什么？",
+    "options": [
+      "がく",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「学」在本题词语中读作がく，意思是学习。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-005",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「飲む」の意味として正しいものはどれですか。",
+    "options": [
+      "喝",
+      "条件",
+      "原因",
+      "方法"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "飲む（のむ）表示“喝”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-030",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-017",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-031",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-054",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「昨日」の読み方はどれですか。",
+    "options": [
+      "きのう",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "昨日（きのう）表示“昨天”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-003",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "毎朝パン（　）食べます。",
+    "options": [
+      "を",
+      "に",
+      "へ",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "直接宾语使用「を」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-048",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「新しい」の意味を選びなさい。",
+    "options": [
+      "新的",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "新しい（あたらしい）表示“新的”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-007",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "昨日",
+      "友達と",
+      "映画を",
+      "見ました。"
+    ],
+    "answer_text": "昨日友達と映画を見ました。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-030",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-015",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-002",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "これは私（　）本です。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "名词间所属关系用「の」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-039",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」に最も近い意味はどれですか。",
+    "options": [
+      "朋友",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-005",
+    "level": "N5",
+    "type": "listening",
+    "title": "買い物",
+    "script_ja": "店員：いらっしゃいませ。男：りんごを三つください。店員：はい。男：いくらですか。",
+    "prompt_zh": "客人买了什么？",
+    "options": [
+      "苹果三个",
+      "香蕉三个",
+      "橘子三个",
+      "面包三个"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "男方说「りんごを三つください」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-grammar-038",
+    "level": "N5",
+    "type": "grammar_choice",
+    "prompt_ja": "日本へ行き（　）です。",
+    "options": [
+      "たい",
+      "ます",
+      "て",
+      "ない"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "愿望表达使用「ます形去ます＋たい」。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-030",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "この問題について",
+      "もう一度",
+      "考える",
+      "必要があります。"
+    ],
+    "answer_text": "この問題についてもう一度考える必要があります。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-051",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「学校」に最も近い意味はどれですか。",
+    "options": [
+      "学校",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "学校（がっこう）表示“学校”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-037",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「日」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「日」在本题词语中读作ひ，意思是太阳。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-ordering-008",
+    "level": "N5",
+    "type": "sentence_ordering",
+    "prompt_zh": "请将下列片段排列成自然、正确的日语句子。",
+    "tokens": [
+      "図書館で",
+      "静かに",
+      "本を",
+      "読みます。"
+    ],
+    "answer_text": "図書館で静かに本を読みます。",
+    "explanation_zh": "注意日语基本语序、修饰关系及句末谓语位置。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-kanji-027",
+    "level": "N5",
+    "type": "kanji_reading",
+    "prompt_ja": "「日」的读音是什么？",
+    "options": [
+      "ひ",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "「日」在本题词语中读作ひ，意思是太阳。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-019",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「友達」に最も近い意味はどれですか。",
+    "options": [
+      "朋友",
+      "反対の意味",
+      "無関係な意味",
+      "時間の表現"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "友達（ともだち）表示“朋友”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-002",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "「先生」の読み方はどれですか。",
+    "options": [
+      "せんせい",
+      "せいかつ",
+      "けんきゅう",
+      "じょうほう"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "先生（せんせい）表示“老师”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-005",
+    "level": "N5",
+    "type": "reading",
+    "title": "私の一日",
+    "passage_ja": "私は毎朝七時に起きます。朝ご飯を食べて、八時に学校へ行きます。午後三時に家へ帰ります。夜、日本語を勉強します。",
+    "prompt_zh": "作者几点起床？",
+    "options": [
+      "六点",
+      "七点",
+      "八点",
+      "九点"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "文中写着「七時に起きます」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-028",
+    "level": "N5",
+    "type": "reading",
+    "title": "図書館",
+    "passage_ja": "この図書館は午前九時から午後六時までです。日曜日は休みです。私は土曜日によく本を借ります。",
+    "prompt_zh": "图书馆星期几休息？",
+    "options": [
+      "星期一",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "answer_index": 3,
+    "explanation_zh": "文中写着「日曜日は休みです」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-vocab-036",
+    "level": "N5",
+    "type": "vocabulary",
+    "prompt_ja": "次の語「読む」の意味を選びなさい。",
+    "options": [
+      "读",
+      "場所",
+      "人物",
+      "数量"
+    ],
+    "answer_index": 0,
+    "explanation_zh": "読む（よむ）表示“读”。",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-reading-039",
+    "level": "N5",
+    "type": "reading",
+    "title": "家族",
+    "passage_ja": "私の家族は三人です。父と母と私です。父は会社員で、母は先生です。私は大学生です。",
+    "prompt_zh": "作者的母亲是什么职业？",
+    "options": [
+      "医生",
+      "老师",
+      "职员",
+      "学生"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "「母は先生です」。",
+    "audio_status": null,
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  },
+  {
+    "id": "n5-listening-015",
+    "level": "N5",
+    "type": "listening",
+    "title": "天気",
+    "script_ja": "女：今日は雨ですね。男：そうですね。傘を持ってきましたか。女：いいえ、持っていません。",
+    "prompt_zh": "女方带伞了吗？",
+    "options": [
+      "带了",
+      "没有带",
+      "买了两把",
+      "不知道"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "女方回答「持っていません」。",
+    "audio_status": "script_only",
+    "knowledge_ids": [],
+    "source": "Nihongo Lab 原创练习初稿",
+    "review_status": "draft",
+    "difficulty": "参考等级：N5",
+    "review_note": "自动整理的初稿；发布前需人工核对题干、答案、干扰项、自然度及等级适配。"
+  }
+]

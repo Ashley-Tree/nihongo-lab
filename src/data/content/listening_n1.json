@@ -1,0 +1,502 @@
+[
+  {
+    "id": "n1-listening-001",
+    "level": "N1",
+    "title": "方針決定の過程",
+    "scene_zh": "方针决策过程",
+    "script_ja": "男：新しい方針について、部門間で意見が分かれています。女：全員の合意を急ぐより、懸念の根拠を整理し、譲れる条件と譲れない条件を明確にしたほうが建設的です。男：そのうえで代替案を比較しましょう。",
+    "prompt_zh": "女方建议首先做什么？",
+    "options": [
+      "多数表决",
+      "整理担忧依据并明确条件",
+      "暂时停止沟通",
+      "由负责人单独决定"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "先把各方担忧及可协商条件整理清楚。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-002",
+    "level": "N1",
+    "title": "研究データの解釈",
+    "scene_zh": "研究数据解释",
+    "script_ja": "女：今回の結果は仮説を支持しているようですね。男：ただ、対象者が限られているため、別の集団にも当てはまるとは断言できません。結論では適用範囲を限定して述べるべきです。",
+    "prompt_zh": "男方提醒报告中应注意什么？",
+    "options": [
+      "扩大结论范围",
+      "明确结论适用范围的限制",
+      "删除样本说明",
+      "只呈现有利结果"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "样本有限，结论应明确适用范围。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-003",
+    "level": "N1",
+    "title": "制度の副作用",
+    "scene_zh": "制度的副作用",
+    "script_ja": "男：成果に応じた報酬制度を導入してから、個人の成績は伸びています。女：一方で、情報を共有しなくなったという声もあります。個人の成果だけでなく、協力行動も評価に含める必要がありそうです。",
+    "prompt_zh": "女方指出制度带来什么问题？",
+    "options": [
+      "个人成绩下降",
+      "团队信息共享减少",
+      "工作时间缩短",
+      "客户数量减少"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她指出员工之间的信息共享减少。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-004",
+    "level": "N1",
+    "title": "文化財の公開",
+    "scene_zh": "文化遗产开放",
+    "script_ja": "女：保存状態を考えると、展示日数を増やすのは難しいですね。男：常時公開にこだわらず、複製資料や映像を活用すれば、実物への負担を抑えながら価値を伝えられます。",
+    "prompt_zh": "男方提出什么方案？",
+    "options": [
+      "增加实物展示时间",
+      "用复制资料和影像辅助展示",
+      "停止所有介绍",
+      "将文物搬到室外"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "利用复制资料和影像减少实物损耗。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-005",
+    "level": "N1",
+    "title": "AIの利用方針",
+    "scene_zh": "AI使用方针",
+    "script_ja": "男：生成された回答は非常に自然ですが、そのまま報告書に使ってよいでしょうか。女：出典や事実関係を確認し、機密情報が含まれていないかも点検すべきです。最終的な責任は利用者にあります。",
+    "prompt_zh": "女方认为使用AI输出前应做什么？",
+    "options": [
+      "不经检查直接采用",
+      "核实来源和事实并检查机密信息",
+      "删除所有参考资料",
+      "把责任交给系统"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "需要核查事实、来源和机密信息，使用者仍负最终责任。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-006",
+    "level": "N1",
+    "title": "都市計画の評価",
+    "scene_zh": "城市规划评价",
+    "script_ja": "男：新駅の建設で周辺の地価が上がったそうです。女：経済効果はありますが、長年住む人が転居を迫られるなら、地域全体にとって望ましいとは限りません。住宅政策と合わせて評価する必要があります。",
+    "prompt_zh": "女方认为评价新车站建设还应考虑什么？",
+    "options": [
+      "只看地价",
+      "居民是否因成本上升而被迫搬迁",
+      "车站外观",
+      "游客拍照数量"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "应考虑地价上涨对原居民居住的影响。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-007",
+    "level": "N1",
+    "title": "専門家会議",
+    "scene_zh": "专家会议",
+    "script_ja": "女：専門家の意見は一致していませんね。男：不一致そのものを隠す必要はありません。どの前提が異なるのかを示せば、判断する側も不確実性を理解できます。",
+    "prompt_zh": "男方认为应如何处理专家意见分歧？",
+    "options": [
+      "隐藏分歧",
+      "说明不同意见背后的前提",
+      "只保留多数意见",
+      "推迟公布所有信息"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "应公开分歧及其前提，帮助理解不确定性。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-008",
+    "level": "N1",
+    "title": "教育改革",
+    "scene_zh": "教育改革",
+    "script_ja": "男：試験の点数だけで学力を測る方法を見直したいと思います。女：賛成ですが、評価項目を増やすだけでは教師の負担が大きくなります。授業で自然に記録できる方法を設計する必要があります。",
+    "prompt_zh": "女方支持改革的同时提出什么要求？",
+    "options": [
+      "增加教师额外工作",
+      "设计能融入日常教学的记录方法",
+      "取消所有评价",
+      "只用一次考试"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她希望评价方式融入日常教学，避免额外负担。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-009",
+    "level": "N1",
+    "title": "危機対応の検証",
+    "scene_zh": "危机应对复盘",
+    "script_ja": "男：今回の対応は結果的に間に合いましたが、連絡の遅れがありました。女：個人の判断を責めるだけでは再発防止になりません。情報がどこで止まったのか、仕組み全体を検証しましょう。",
+    "prompt_zh": "女方主张怎样防止问题再次发生？",
+    "options": [
+      "追究单个人责任",
+      "检查信息传递机制整体",
+      "不记录问题",
+      "取消应急流程"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "她认为应检查整个信息传递机制，而非只责备个人。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-010",
+    "level": "N1",
+    "title": "公共空間の合意",
+    "scene_zh": "公共空间协商",
+    "script_ja": "女：広場の利用規則をめぐって住民の意見が対立しています。男：一律の禁止事項を増やす前に、時間帯や活動内容ごとに影響を整理し、試行期間を設けて検証してはどうでしょう。",
+    "prompt_zh": "男方建议采取什么方式？",
+    "options": [
+      "立即全面禁止",
+      "按时间和活动分类试行并评估",
+      "交由单一团体决定",
+      "不再听取居民意见"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议分类整理影响，试行后再评估。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-011",
+    "level": "N1",
+    "title": "報道の見出し",
+    "scene_zh": "新闻标题",
+    "script_ja": "男：見出しは短くて印象的ですが、本文の内容を誤解させる恐れがあります。女：読者の関心を引くことと、事実を正確に伝えることの両立が必要ですね。",
+    "prompt_zh": "两人讨论的核心是什么？",
+    "options": [
+      "文章长度",
+      "吸引注意与准确传达事实的平衡",
+      "图片版权",
+      "报纸价格"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "核心是标题吸引力和事实准确性之间的平衡。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-012",
+    "level": "N1",
+    "title": "地域産業の継承",
+    "scene_zh": "地方产业传承",
+    "script_ja": "女：伝統産業の担い手が減っています。男：技術を記録するだけでは継承したことになりません。若い人が仕事として続けられる収益構造や販路を整えることも欠かせません。",
+    "prompt_zh": "男方认为传承传统产业还需要什么？",
+    "options": [
+      "只保存旧工具",
+      "建立可持续的收入和销售渠道",
+      "减少年轻人参与",
+      "停止产品创新"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "要让年轻人能以此为职业，需要收入结构和销售渠道。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-013",
+    "level": "N1",
+    "title": "データ公開の条件",
+    "scene_zh": "数据公开条件",
+    "script_ja": "男：行政データを公開すれば、民間の分析にも役立つでしょう。女：個人が特定される可能性や、データの定義が不明確な点を解消しなければ、誤用を招きかねません。",
+    "prompt_zh": "女方指出公开数据前应解决什么？",
+    "options": [
+      "数据文件太小",
+      "隐私识别风险和定义不清",
+      "下载速度",
+      "图表颜色"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "应处理个人识别风险并明确数据定义。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-014",
+    "level": "N1",
+    "title": "組織文化の変化",
+    "scene_zh": "组织文化变化",
+    "script_ja": "女：新しい価値観を掲げても、現場の行動が変わらないという指摘があります。男：評価や昇進の基準が従来のままなら、社員は実際の優先事項をそちらから読み取るでしょう。",
+    "prompt_zh": "男方认为组织文化为何难以改变？",
+    "options": [
+      "员工不喜欢口号",
+      "评价和晋升标准仍维持旧方式",
+      "办公地点变化",
+      "培训次数太多"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "实际评价和晋升机制没有改变，导致行为难以变化。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-015",
+    "level": "N1",
+    "title": "政策の説明責任",
+    "scene_zh": "政策说明责任",
+    "script_ja": "男：政策の効果が予測を下回りました。女：予測が外れたこと自体より、どの前提が崩れたのかを説明し、今後どう修正するかを示さないことが問題です。",
+    "prompt_zh": "女方认为政府应补充什么？",
+    "options": [
+      "只公布成功案例",
+      "解释预测失准原因和后续修正方案",
+      "隐藏原先目标",
+      "停止公开信息"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "应说明哪些前提不成立，以及如何修正。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-016",
+    "level": "N1",
+    "title": "長期投資の判断",
+    "scene_zh": "长期投资判断",
+    "script_ja": "女：この計画は利益が出るまで時間がかかります。男：短期収益だけで判断すれば見送ることになりますが、人材育成や技術基盤への効果も含めて評価すべきです。",
+    "prompt_zh": "男方建议投资评价考虑什么？",
+    "options": [
+      "只看当年利润",
+      "人材培养和技术基础的长期效果",
+      "项目名称",
+      "短期宣传效果"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "他建议纳入人才培养和技术基础等长期收益。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-017",
+    "level": "N1",
+    "title": "異文化間の対話",
+    "scene_zh": "跨文化对话",
+    "script_ja": "男：同じ表現でも、文化によって受け止め方が違うことがありますね。女：相手の反応をすぐに誤解と決めつけず、背景にある価値観を尋ねる姿勢が大切だと思います。",
+    "prompt_zh": "女方建议怎样面对文化差异？",
+    "options": [
+      "立即判断对错",
+      "询问对方表达背后的价值观",
+      "避免继续交流",
+      "只坚持自己的习惯"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "建议不要急于判断，而是了解对方的价值观背景。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-018",
+    "level": "N1",
+    "title": "研究費の配分",
+    "scene_zh": "研究经费分配",
+    "script_ja": "女：応募数が多い分野に予算を集中させる案が出ています。男：需要の大きさだけで配分すると、まだ小さい新領域が育たない可能性があります。短期の需要と将来性の両方を見るべきです。",
+    "prompt_zh": "男方担心什么？",
+    "options": [
+      "热门领域经费太少",
+      "新兴领域可能得不到成长机会",
+      "预算无法使用",
+      "研究人员太多"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "只按当前需求分配可能忽略新领域的发展潜力。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-019",
+    "level": "N1",
+    "title": "記録の保存",
+    "scene_zh": "记录保存",
+    "script_ja": "男：議事録を簡潔にするため、反対意見は省いてもよいでしょうか。女：決定事項だけでなく、主な反対理由も残しておけば、後から判断の経緯を検証できます。",
+    "prompt_zh": "女方认为会议记录应保留什么？",
+    "options": [
+      "所有闲谈",
+      "主要反对理由",
+      "参加者的私人信息",
+      "无关话题"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "保留主要反对理由有助于日后追溯决策过程。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  },
+  {
+    "id": "n1-listening-020",
+    "level": "N1",
+    "title": "技術と雇用",
+    "scene_zh": "技术与就业",
+    "script_ja": "女：自動化で一部の作業が不要になりますね。男：仕事が単純に減るというより、求められる役割が変わる面もあります。移行期に再訓練の機会を用意しなければ、変化に対応できない人が出るでしょう。",
+    "prompt_zh": "男方认为应对自动化变化需要什么？",
+    "options": [
+      "立即裁员",
+      "提供再培训机会",
+      "停止技术发展",
+      "减少岗位说明"
+    ],
+    "answer_index": 1,
+    "explanation_zh": "需要为员工提供转型再培训。",
+    "speakers": [],
+    "audio": {
+      "status": "not_recorded",
+      "file": null,
+      "license": null
+    },
+    "source": "Nihongo Lab 原创听力脚本初稿",
+    "review_status": "draft",
+    "review_note": "发布前需核对日语自然度、听力难度、语速适配、答案唯一性及解析。"
+  }
+]

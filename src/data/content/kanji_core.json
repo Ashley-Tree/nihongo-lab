@@ -1,0 +1,392 @@
+[
+  {
+    "id": "core-001",
+    "character": "日",
+    "level": "N5",
+    "on_readings": "ニチ・ジツ",
+    "kun_readings": "ひ・か",
+    "meaning_zh": "太阳；日",
+    "common_words": [
+      "日本（にほん）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-002",
+    "character": "月",
+    "level": "N5",
+    "on_readings": "ゲツ・ガツ",
+    "kun_readings": "つき",
+    "meaning_zh": "月亮；月份",
+    "common_words": [
+      "月曜日（げつようび）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-003",
+    "character": "火",
+    "level": "N5",
+    "on_readings": "カ",
+    "kun_readings": "ひ",
+    "meaning_zh": "火",
+    "common_words": [
+      "火曜日（かようび）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-004",
+    "character": "水",
+    "level": "N5",
+    "on_readings": "スイ",
+    "kun_readings": "みず",
+    "meaning_zh": "水",
+    "common_words": [
+      "水曜日（すいようび）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-005",
+    "character": "木",
+    "level": "N5",
+    "on_readings": "モク・ボク",
+    "kun_readings": "き",
+    "meaning_zh": "树；木",
+    "common_words": [
+      "木曜日（もくようび）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-006",
+    "character": "金",
+    "level": "N5",
+    "on_readings": "キン",
+    "kun_readings": "かね",
+    "meaning_zh": "金属；钱",
+    "common_words": [
+      "金曜日（きんようび）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-007",
+    "character": "土",
+    "level": "N5",
+    "on_readings": "ド・ト",
+    "kun_readings": "つち",
+    "meaning_zh": "土",
+    "common_words": [
+      "土曜日（どようび）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-008",
+    "character": "人",
+    "level": "N5",
+    "on_readings": "ジン・ニン",
+    "kun_readings": "ひと",
+    "meaning_zh": "人",
+    "common_words": [
+      "日本人（にほんじん）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-009",
+    "character": "山",
+    "level": "N5",
+    "on_readings": "サン",
+    "kun_readings": "やま",
+    "meaning_zh": "山",
+    "common_words": [
+      "富士山（ふじさん）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-010",
+    "character": "川",
+    "level": "N5",
+    "on_readings": "セン",
+    "kun_readings": "かわ",
+    "meaning_zh": "河流",
+    "common_words": [
+      "川（かわ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-011",
+    "character": "本",
+    "level": "N5",
+    "on_readings": "ホン",
+    "kun_readings": "もと",
+    "meaning_zh": "书；根本",
+    "common_words": [
+      "本（ほん）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-012",
+    "character": "学",
+    "level": "N5",
+    "on_readings": "ガク",
+    "kun_readings": "まなぶ",
+    "meaning_zh": "学习",
+    "common_words": [
+      "学生（がくせい）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-013",
+    "character": "生",
+    "level": "N5",
+    "on_readings": "セイ・ショウ",
+    "kun_readings": "いきる・うまれる",
+    "meaning_zh": "生命；出生",
+    "common_words": [
+      "先生（せんせい）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-014",
+    "character": "先",
+    "level": "N5",
+    "on_readings": "セン",
+    "kun_readings": "さき",
+    "meaning_zh": "先；之前",
+    "common_words": [
+      "先生（せんせい）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-015",
+    "character": "大",
+    "level": "N5",
+    "on_readings": "ダイ・タイ",
+    "kun_readings": "おおきい",
+    "meaning_zh": "大",
+    "common_words": [
+      "大学（だいがく）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-016",
+    "character": "小",
+    "level": "N5",
+    "on_readings": "ショウ",
+    "kun_readings": "ちいさい",
+    "meaning_zh": "小",
+    "common_words": [
+      "小学校（しょうがっこう）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-017",
+    "character": "中",
+    "level": "N5",
+    "on_readings": "チュウ",
+    "kun_readings": "なか",
+    "meaning_zh": "中间",
+    "common_words": [
+      "中国（ちゅうごく）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-018",
+    "character": "上",
+    "level": "N5",
+    "on_readings": "ジョウ",
+    "kun_readings": "うえ・あがる",
+    "meaning_zh": "上面",
+    "common_words": [
+      "上（うえ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-019",
+    "character": "下",
+    "level": "N5",
+    "on_readings": "カ・ゲ",
+    "kun_readings": "した・さがる",
+    "meaning_zh": "下面",
+    "common_words": [
+      "下（した）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-020",
+    "character": "一",
+    "level": "N5",
+    "on_readings": "イチ",
+    "kun_readings": "ひとつ",
+    "meaning_zh": "一",
+    "common_words": [
+      "一日（いちにち）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-021",
+    "character": "二",
+    "level": "N5",
+    "on_readings": "ニ",
+    "kun_readings": "ふたつ",
+    "meaning_zh": "二",
+    "common_words": [
+      "二人（ふたり）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-022",
+    "character": "三",
+    "level": "N5",
+    "on_readings": "サン",
+    "kun_readings": "みっつ",
+    "meaning_zh": "三",
+    "common_words": [
+      "三時（さんじ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-023",
+    "character": "四",
+    "level": "N5",
+    "on_readings": "シ",
+    "kun_readings": "よっつ・よん",
+    "meaning_zh": "四",
+    "common_words": [
+      "四月（しがつ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-024",
+    "character": "五",
+    "level": "N5",
+    "on_readings": "ゴ",
+    "kun_readings": "いつつ",
+    "meaning_zh": "五",
+    "common_words": [
+      "五日（いつか）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-025",
+    "character": "六",
+    "level": "N5",
+    "on_readings": "ロク",
+    "kun_readings": "むっつ",
+    "meaning_zh": "六",
+    "common_words": [
+      "六時（ろくじ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-026",
+    "character": "七",
+    "level": "N5",
+    "on_readings": "シチ",
+    "kun_readings": "ななつ・なな",
+    "meaning_zh": "七",
+    "common_words": [
+      "七月（しちがつ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-027",
+    "character": "八",
+    "level": "N5",
+    "on_readings": "ハチ",
+    "kun_readings": "やっつ",
+    "meaning_zh": "八",
+    "common_words": [
+      "八時（はちじ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-028",
+    "character": "九",
+    "level": "N5",
+    "on_readings": "キュウ・ク",
+    "kun_readings": "ここのつ",
+    "meaning_zh": "九",
+    "common_words": [
+      "九月（くがつ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-029",
+    "character": "十",
+    "level": "N5",
+    "on_readings": "ジュウ",
+    "kun_readings": "とお",
+    "meaning_zh": "十",
+    "common_words": [
+      "十時（じゅうじ）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  },
+  {
+    "id": "core-030",
+    "character": "時",
+    "level": "N5",
+    "on_readings": "ジ",
+    "kun_readings": "とき",
+    "meaning_zh": "时间",
+    "common_words": [
+      "時間（じかん）"
+    ],
+    "source": "Nihongo Lab 教学整理初稿",
+    "review_status": "draft"
+  }
+]
