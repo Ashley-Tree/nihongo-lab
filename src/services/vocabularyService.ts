@@ -1,5 +1,5 @@
 import { words as initialWords, type Word } from '../data/vocabulary'
-import { db, type CustomVocabulary, type DeletedVocabulary, type VocabularyProgress, type ReviewSchedule, type ReviewLog } from '../db/database'
+import { db, type CustomVocabulary, type DeletedVocabulary, type VocabularyProgress, type ReviewSchedule, type ReviewLog, type DailyVocabularyPlan } from '../db/database'
 
 export type VocabularyInput = Omit<Word, 'id'>
 export type VocabularyItem = Word & { source: 'initial' | 'custom'; modified?: boolean }
@@ -7,16 +7,18 @@ export type ImportMode = 'skip' | 'overwrite'
 export type ImportResult = { added: number; updated: number; skipped: number }
 export type Backup = {
   format: 'nihongo-lab-backup'
-  version: 1 | 2
+  version: 1 | 2 | 3
   exportedAt: string
   customVocabulary: CustomVocabulary[]
   deletedVocabulary: DeletedVocabulary[]
   vocabularyProgress: VocabularyProgress[]
   reviewSchedules?: ReviewSchedule[]
   reviewLogs?: ReviewLog[]
+  dailyVocabularyPlans?: DailyVocabularyPlan[]
 }
 
 const fields = ['japanese', 'kana', 'meaning', 'example', 'exampleMeaning', 'level', 'type'] as const
+const optionalFields = ['romaji', 'pitchPattern', 'pitchSource'] as const
 const levels = new Set(['N5', 'N4', 'N3', 'N2', 'N1'])
 const keyOf = (w: Pick<Word, 'japanese' | 'kana'>) => `${w.japanese.trim()}\u0000${w.kana.trim()}`
 export const notifyVocabularyChanged = () => window.dispatchEvent(new Event('nihongo-vocabulary-changed'))
@@ -30,7 +32,16 @@ export function validateVocabularyInput(value: unknown): VocabularyInput {
     clean[field] = item[field].trim()
   }
   if (!levels.has(clean.level)) throw new Error(`无效 JLPT 等级：${clean.level}`)
-  return clean as unknown as VocabularyInput
+  for (const field of optionalFields) {
+    const raw = item[field]
+    if (raw !== undefined && raw !== null && typeof raw !== 'string') throw new Error(`字段 ${field} 必须是字符串`)
+    clean[field] = typeof raw === 'string' ? raw.trim() : ''
+  }
+  const accent = item.pitchAccent
+  if (accent !== undefined && accent !== null && (typeof accent !== 'number' || !Number.isInteger(accent) || accent < 0 || accent > 10)) {
+    throw new Error('pitchAccent 必须是 0～10 的整数或 null')
+  }
+  return { ...clean, pitchAccent: accent === undefined ? null : accent } as unknown as VocabularyInput
 }
 
 export async function getAllVocabulary(): Promise<VocabularyItem[]> {
@@ -199,8 +210,8 @@ const escapeCSV = (value: string | number) => {
   return /[",\r\n]/.test(s) ? `"${s.replaceAll('"', '""')}"` : s
 }
 export function vocabularyToCSV(words: Word[]): string {
-  const headers = [...fields]
-  return '\uFEFF' + [headers.join(','), ...words.map(w => headers.map(h => escapeCSV(w[h])).join(','))].join('\r\n')
+  const headers = [...fields, ...optionalFields, 'pitchAccent']
+  return '\uFEFF' + [headers.join(','), ...words.map(w => headers.map(h => escapeCSV((w as unknown as Record<string, string | number | null>)[h] ?? '')).join(','))].join('\r\n')
 }
 
 export function downloadText(filename: string, content: string, mime: string) {
@@ -215,17 +226,17 @@ export function downloadText(filename: string, content: string, mime: string) {
 }
 
 export async function exportBackup(): Promise<Backup> {
-  const [customVocabulary, deletedVocabulary, vocabularyProgress, reviewSchedules, reviewLogs] = await Promise.all([
+  const [customVocabulary, deletedVocabulary, vocabularyProgress, reviewSchedules, reviewLogs, dailyVocabularyPlans] = await Promise.all([
     db.customVocabulary.toArray(), db.deletedVocabulary.toArray(), db.vocabularyProgress.toArray(),
-    db.reviewSchedules.toArray(), db.reviewLogs.toArray(),
+    db.reviewSchedules.toArray(), db.reviewLogs.toArray(), db.dailyVocabularyPlans.toArray(),
   ])
-  return { format: 'nihongo-lab-backup', version: 2, exportedAt: new Date().toISOString(), customVocabulary, deletedVocabulary, vocabularyProgress, reviewSchedules, reviewLogs }
+  return { format: 'nihongo-lab-backup', version: 3, exportedAt: new Date().toISOString(), customVocabulary, deletedVocabulary, vocabularyProgress, reviewSchedules, reviewLogs, dailyVocabularyPlans }
 }
 
 export async function restoreBackup(value: unknown): Promise<void> {
   if (!value || typeof value !== 'object') throw new Error('备份内容无效')
   const data = value as Partial<Backup>
-  if (data.format !== 'nihongo-lab-backup' || data.version !== 1 && data.version !== 2) throw new Error('不是支持的 Nihongo Lab 备份文件')
+  if (data.format !== 'nihongo-lab-backup' || data.version !== 1 && data.version !== 2 && data.version !== 3) throw new Error('不是支持的 Nihongo Lab 备份文件')
   if (!Array.isArray(data.customVocabulary) || !Array.isArray(data.deletedVocabulary) || !Array.isArray(data.vocabularyProgress)) throw new Error('备份缺少数据表')
   const custom = data.customVocabulary.map(w => {
     const input = validateVocabularyInput(w)
@@ -243,24 +254,29 @@ export async function restoreBackup(value: unknown): Promise<void> {
   const unique = <T,>(arr: T[], id: (v: T) => number) => new Set(arr.map(id)).size === arr.length
   if (!unique(custom, w => w.id) || !unique(deleted, w => w.id) || !unique(progress, w => w.wordId)) throw new Error('备份包含重复 ID')
   if (custom.length > 100000 || deleted.length > 100000 || progress.length > 100000) throw new Error('备份数据量超过限制')
-  if (data.version === 2 && (!Array.isArray(data.reviewSchedules) || !Array.isArray(data.reviewLogs))) throw new Error('备份缺少复习数据表')
+  if (data.version >= 2 && (!Array.isArray(data.reviewSchedules) || !Array.isArray(data.reviewLogs))) throw new Error('备份缺少复习数据表')
   const schedules = (data.reviewSchedules ?? []).map(w => {
     if (!w || !Number.isSafeInteger(w.wordId) || w.wordId <= 0 || !Number.isFinite(w.dueAt) || !Number.isFinite(w.intervalDays) || !Number.isFinite(w.ease) || !Number.isSafeInteger(w.repetitions) || !Number.isSafeInteger(w.lapses) || !Number.isFinite(w.lastReviewedAt)) throw new Error('复习计划数据无效')
     return w
+  })
+  const dailyPlans = (data.dailyVocabularyPlans ?? []).map(plan => {
+    if (!plan || typeof plan.date !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(plan.date) || !Number.isSafeInteger(plan.targetCount) || plan.targetCount < 1 || !Array.isArray(plan.wordIds) || !Array.isArray(plan.completedIds) || !Number.isFinite(plan.updatedAt)) throw new Error('每日词汇计划数据无效')
+    return plan
   })
   const logs = (data.reviewLogs ?? []).map(w => {
     if (!w || !Number.isSafeInteger(w.id) || (w.id ?? 0) <= 0 || !Number.isSafeInteger(w.wordId) || w.wordId <= 0 || ![0,1,2,3].includes(w.rating) || !Number.isFinite(w.reviewedAt) || !Number.isFinite(w.nextDueAt)) throw new Error('复习历史数据无效')
     return w
   })
   if (!unique(schedules, w => w.wordId) || !unique(logs, w => w.id ?? 0)) throw new Error('复习记录包含重复编号')
-  if (schedules.length > 100000 || logs.length > 500000) throw new Error('复习记录超出数量限制')
-  await db.transaction('rw', db.customVocabulary, db.deletedVocabulary, db.vocabularyProgress, db.reviewSchedules, db.reviewLogs, async () => {
-    await Promise.all([db.customVocabulary.clear(), db.deletedVocabulary.clear(), db.vocabularyProgress.clear(), db.reviewSchedules.clear(), db.reviewLogs.clear()])
+  if (schedules.length > 100000 || logs.length > 500000 || dailyPlans.length > 10000) throw new Error('复习记录超出数量限制')
+  await db.transaction('rw', [db.customVocabulary, db.deletedVocabulary, db.vocabularyProgress, db.reviewSchedules, db.reviewLogs, db.dailyVocabularyPlans], async () => {
+    await Promise.all([db.customVocabulary.clear(), db.deletedVocabulary.clear(), db.vocabularyProgress.clear(), db.reviewSchedules.clear(), db.reviewLogs.clear(), db.dailyVocabularyPlans.clear()])
     if (custom.length) await db.customVocabulary.bulkAdd(custom)
     if (deleted.length) await db.deletedVocabulary.bulkAdd(deleted)
     if (progress.length) await db.vocabularyProgress.bulkAdd(progress)
     if (schedules.length) await db.reviewSchedules.bulkAdd(schedules)
     if (logs.length) await db.reviewLogs.bulkAdd(logs)
+    if (dailyPlans.length) await db.dailyVocabularyPlans.bulkAdd(dailyPlans)
   })
   notifyVocabularyChanged()
 }

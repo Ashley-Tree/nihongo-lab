@@ -3,8 +3,9 @@ import { db } from '../db/database'
 const TABLE_NAMES = [
   'vocabularyProgress', 'customVocabulary', 'deletedVocabulary',
   'reviewSchedules', 'reviewLogs', 'studyProgress', 'examAttempts',
-  'unifiedReviewSchedules', 'unifiedReviewLogs',
+  'unifiedReviewSchedules', 'unifiedReviewLogs', 'dailyVocabularyPlans',
 ] as const
+const REQUIRED_TABLE_NAMES = TABLE_NAMES.filter(name => name !== 'dailyVocabularyPlans')
 export type RestoreMode = 'merge' | 'replace'
 export interface FullBackup {
   format: 'NihongoLabFullBackupV2'
@@ -45,7 +46,7 @@ export function validateFullBackup(value: unknown): asserts value is FullBackup 
 export async function restoreFullBackup(value: unknown, mode: RestoreMode): Promise<void> {
   validateFullBackup(value)
   const backup = value as FullBackup
-  if (mode === 'replace' && TABLE_NAMES.some(name => !Array.isArray(backup.tables[name]))) {
+  if (mode === 'replace' && REQUIRED_TABLE_NAMES.some(name => !Array.isArray(backup.tables[name]))) {
     throw new Error('此备份缺少当前版本的数据表，不能使用替换恢复。请选择合并恢复或导出最新版完整备份。')
   }
   const tables = TABLE_NAMES.map(name => db.table(name))

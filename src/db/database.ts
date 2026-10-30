@@ -17,6 +17,10 @@ export interface CustomVocabulary {
   exampleMeaning: string
   level: 'N5' | 'N4' | 'N3' | 'N2' | 'N1'
   type: string
+  romaji?: string
+  pitchAccent?: number | null
+  pitchPattern?: string
+  pitchSource?: string
   updatedAt: number
 }
 
@@ -93,6 +97,15 @@ export interface UnifiedReviewLog {
   nextDueAt: number
 }
 
+export interface DailyVocabularyPlan {
+  date: string
+  targetCount: number
+  level: '全部' | 'N5' | 'N4' | 'N3' | 'N2' | 'N1'
+  wordIds: number[]
+  completedIds: number[]
+  updatedAt: number
+}
+
 class NihongoDatabase extends Dexie {
   vocabularyProgress!: Table<VocabularyProgress, number>
   customVocabulary!: Table<CustomVocabulary, number>
@@ -106,6 +119,7 @@ class NihongoDatabase extends Dexie {
   // 第十七阶段新增数据表
   unifiedReviewSchedules!: Table<UnifiedReviewSchedule, string>
   unifiedReviewLogs!: Table<UnifiedReviewLog, number>
+  dailyVocabularyPlans!: Table<DailyVocabularyPlan, string>
 
   constructor() {
     super('NihongoLabDB')
@@ -154,6 +168,20 @@ class NihongoDatabase extends Dexie {
 
       unifiedReviewSchedules: 'key, kind, itemId, dueAt, lastReviewedAt',
       unifiedReviewLogs: '++id, key, kind, itemId, reviewedAt, rating',
+    })
+
+    // V6：新增每日词汇学习计划表，不清空既有学习数据。
+    this.version(6).stores({
+      vocabularyProgress: 'wordId, mastered, favorite, updatedAt',
+      customVocabulary: 'id, level, japanese, kana, updatedAt',
+      deletedVocabulary: 'id, deletedAt',
+      reviewSchedules: 'wordId, dueAt, lastReviewedAt',
+      reviewLogs: '++id, wordId, reviewedAt, rating',
+      studyProgress: 'key, kind, itemId, mastered, favorite, updatedAt',
+      examAttempts: '++id, level, finishedAt',
+      unifiedReviewSchedules: 'key, kind, itemId, dueAt, lastReviewedAt',
+      unifiedReviewLogs: '++id, key, kind, itemId, reviewedAt, rating',
+      dailyVocabularyPlans: 'date, level, updatedAt',
     })
   }
 }

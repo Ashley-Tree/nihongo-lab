@@ -1,5 +1,6 @@
 import { useState } from "react";
 import VocabularyPage from "./pages/VocabularyPage";
+import VocabularyStudyPage from "./pages/VocabularyStudyPage";
 import VocabularyServiceTest from "./dev/VocabularyServiceTest";
 import VocabularyManagerPage from "./pages/VocabularyManagerPage";
 import ReviewPage from "./pages/ReviewPage";
@@ -337,6 +338,7 @@ function AppRoutes() {
       <Route element={<Layout />}>
         <Route path="/" element={<Dashboard />} />
         <Route path="/vocabulary" element={<VocabularyPage />} />
+        <Route path="/vocabulary/study" element={<VocabularyStudyPage />} />
         {/* <Route path="/grammar" element={<StudyPages type="grammar" />} />
         <Route path="/kanji" element={<StudyPages type="kanji" />} />
         <Route path="/reading" element={<StudyPages type="reading" />} />
