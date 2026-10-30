@@ -2,10 +2,11 @@
 import vocabularyData from './vocabulary.json'
 
 export type RelatedWord = {
-  category: '连语' | '合成词'
+  category: string
   japanese: string
   kana?: string
   meaning: string
+  readingHints?: string[]
 }
 
 export type Word = {

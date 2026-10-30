@@ -86,15 +86,19 @@ export function validateVocabularyInput(value: unknown): VocabularyInput {
       if (!entry || typeof entry !== 'object' || Array.isArray(entry))
         throw new Error(`relatedWords 第 ${index + 1} 条必须是对象`);
       const r = entry as Record<string, unknown>;
-      if (r.category !== '连语' && r.category !== '合成词')
-        throw new Error(`relatedWords 第 ${index + 1} 条 category 只能是连语或合成词`);
+      if (typeof r.category !== 'string' || !r.category.trim())
+        throw new Error(`relatedWords 第 ${index + 1} 条 category 必须是非空字符串`);
       if (typeof r.japanese !== 'string' || !r.japanese.trim() ||
           typeof r.meaning !== 'string' || !r.meaning.trim())
         throw new Error(`relatedWords 第 ${index + 1} 条缺少日语或释义`);
       if (r.kana !== undefined && typeof r.kana !== 'string')
         throw new Error(`relatedWords 第 ${index + 1} 条假名格式错误`);
-      return { category: r.category, japanese: r.japanese.trim(),
-        kana: typeof r.kana === 'string' ? r.kana.trim() : '', meaning: r.meaning.trim() };
+      if (r.readingHints !== undefined &&
+          (!Array.isArray(r.readingHints) || !r.readingHints.every((hint: unknown) => typeof hint === 'string')))
+        throw new Error(`relatedWords 第 ${index + 1} 条 readingHints 必须是字符串数组`);
+      return { category: r.category.trim(), japanese: r.japanese.trim(),
+        kana: typeof r.kana === 'string' ? r.kana.trim() : '', meaning: r.meaning.trim(),
+        ...(Array.isArray(r.readingHints) ? { readingHints: (r.readingHints as string[]).map(hint => hint.trim()) } : {}) };
     });
   }
   const optionalText = ['romaji', 'pitchPattern', 'pitchSource'] as const;
