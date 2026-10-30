@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10001,
+    "japanese": "私",
+    "kana": "わたし",
+    "meaning": "我；自己",
+    "example": "私は毎日日本語を勉強します。",
+    "exampleMeaning": "我每天学习日语。",
+    "level": "N5",
+    "type": "代词"
+  },
+  {
+    "id": 10002,
+    "japanese": "人",
+    "kana": "ひと",
+    "meaning": "人；别人",
+    "example": "あの人は田中さんです。",
+    "exampleMeaning": "那个人是田中先生。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10003,
+    "japanese": "友達",
+    "kana": "ともだち",
+    "meaning": "朋友",
+    "example": "友達と駅で会いました。",
+    "exampleMeaning": "我在车站和朋友见面了。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10004,
+    "japanese": "家族",
+    "kana": "かぞく",
+    "meaning": "家人；家庭",
+    "example": "家族は四人です。",
+    "exampleMeaning": "我家有四口人。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10005,
+    "japanese": "父",
+    "kana": "ちち",
+    "meaning": "父亲（称自己的父亲）",
+    "example": "父は会社で働いています。",
+    "exampleMeaning": "我父亲在公司工作。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10006,
+    "japanese": "母",
+    "kana": "はは",
+    "meaning": "母亲（称自己的母亲）",
+    "example": "母は料理が上手です。",
+    "exampleMeaning": "我母亲很擅长做饭。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10007,
+    "japanese": "先生",
+    "kana": "せんせい",
+    "meaning": "老师；先生",
+    "example": "山田先生は日本語の先生です。",
+    "exampleMeaning": "山田老师是日语老师。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10008,
+    "japanese": "学生",
+    "kana": "がくせい",
+    "meaning": "学生",
+    "example": "私は大学の学生です。",
+    "exampleMeaning": "我是大学生。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10009,
+    "japanese": "学校",
+    "kana": "がっこう",
+    "meaning": "学校",
+    "example": "毎朝八時に学校へ行きます。",
+    "exampleMeaning": "我每天早上八点去学校。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10010,
+    "japanese": "会社",
+    "kana": "かいしゃ",
+    "meaning": "公司",
+    "example": "父は小さな会社で働いています。",
+    "exampleMeaning": "我父亲在一家小公司工作。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10011,
+    "japanese": "家",
+    "kana": "いえ",
+    "meaning": "家；房子",
+    "example": "私の家は駅の近くにあります。",
+    "exampleMeaning": "我家在车站附近。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10012,
+    "japanese": "部屋",
+    "kana": "へや",
+    "meaning": "房间",
+    "example": "部屋に机と椅子があります。",
+    "exampleMeaning": "房间里有桌子和椅子。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10013,
+    "japanese": "駅",
+    "kana": "えき",
+    "meaning": "车站",
+    "example": "駅で友達を待っています。",
+    "exampleMeaning": "我正在车站等朋友。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10014,
+    "japanese": "店",
+    "kana": "みせ",
+    "meaning": "商店；店铺",
+    "example": "この店は朝九時に開きます。",
+    "exampleMeaning": "这家店早上九点开门。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10015,
+    "japanese": "病院",
+    "kana": "びょういん",
+    "meaning": "医院",
+    "example": "母は病院へ行きました。",
+    "exampleMeaning": "母亲去医院了。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10016,
+    "japanese": "本",
+    "kana": "ほん",
+    "meaning": "书",
+    "example": "図書館で本を読みます。",
+    "exampleMeaning": "我在图书馆看书。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10017,
+    "japanese": "新聞",
+    "kana": "しんぶん",
+    "meaning": "报纸",
+    "example": "毎朝新聞を読みます。",
+    "exampleMeaning": "我每天早上读报纸。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10018,
+    "japanese": "水",
+    "kana": "みず",
+    "meaning": "水",
+    "example": "毎日たくさん水を飲みます。",
+    "exampleMeaning": "我每天喝很多水。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10019,
+    "japanese": "お茶",
+    "kana": "おちゃ",
+    "meaning": "茶",
+    "example": "昼ご飯のあとでお茶を飲みます。",
+    "exampleMeaning": "午饭后喝茶。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10020,
+    "japanese": "ご飯",
+    "kana": "ごはん",
+    "meaning": "米饭；饭",
+    "example": "毎日家でご飯を食べます。",
+    "exampleMeaning": "我每天在家吃饭。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10021,
+    "japanese": "朝",
+    "kana": "あさ",
+    "meaning": "早晨",
+    "example": "朝六時に起きます。",
+    "exampleMeaning": "我早上六点起床。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10022,
+    "japanese": "昼",
+    "kana": "ひる",
+    "meaning": "白天；中午",
+    "example": "昼に友達と昼ご飯を食べます。",
+    "exampleMeaning": "中午和朋友一起吃午饭。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10023,
+    "japanese": "夜",
+    "kana": "よる",
+    "meaning": "夜晚",
+    "example": "夜は家で勉強します。",
+    "exampleMeaning": "晚上在家学习。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10024,
+    "japanese": "今日",
+    "kana": "きょう",
+    "meaning": "今天",
+    "example": "今日は少し寒いです。",
+    "exampleMeaning": "今天有点冷。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10025,
+    "japanese": "明日",
+    "kana": "あした",
+    "meaning": "明天",
+    "example": "明日は日曜日です。",
+    "exampleMeaning": "明天是星期日。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10026,
+    "japanese": "昨日",
+    "kana": "きのう",
+    "meaning": "昨天",
+    "example": "昨日は雨でした。",
+    "exampleMeaning": "昨天下雨了。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10027,
+    "japanese": "今",
+    "kana": "いま",
+    "meaning": "现在",
+    "example": "今、母と電話しています。",
+    "exampleMeaning": "现在正在和母亲通电话。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10028,
+    "japanese": "時間",
+    "kana": "じかん",
+    "meaning": "时间；小时",
+    "example": "勉強する時間がありません。",
+    "exampleMeaning": "没有学习的时间。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10029,
+    "japanese": "毎日",
+    "kana": "まいにち",
+    "meaning": "每天",
+    "example": "毎日三十分日本語を勉強します。",
+    "exampleMeaning": "我每天学习三十分钟日语。",
+    "level": "N5",
+    "type": "副词"
+  },
+  {
+    "id": 10030,
+    "japanese": "午前",
+    "kana": "ごぜん",
+    "meaning": "上午；午前",
+    "example": "銀行は午前九時に開きます。",
+    "exampleMeaning": "银行上午九点开门。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10031,
+    "japanese": "午後",
+    "kana": "ごご",
+    "meaning": "下午；午后",
+    "example": "午後三時に家へ帰ります。",
+    "exampleMeaning": "下午三点回家。",
+    "level": "N5",
+    "type": "名词"
+  },
+  {
+    "id": 10032,
+    "japanese": "行く",
+    "kana": "いく",
+    "meaning": "去",
+    "example": "日曜日に図書館へ行きます。",
+    "exampleMeaning": "星期日去图书馆。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10033,
+    "japanese": "来る",
+    "kana": "くる",
+    "meaning": "来",
+    "example": "友達が家に来ます。",
+    "exampleMeaning": "朋友要来我家。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10034,
+    "japanese": "帰る",
+    "kana": "かえる",
+    "meaning": "回去；回家",
+    "example": "毎晩七時に家へ帰ります。",
+    "exampleMeaning": "我每天晚上七点回家。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10035,
+    "japanese": "食べる",
+    "kana": "たべる",
+    "meaning": "吃",
+    "example": "朝ご飯にパンを食べます。",
+    "exampleMeaning": "早餐吃面包。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10036,
+    "japanese": "飲む",
+    "kana": "のむ",
+    "meaning": "喝",
+    "example": "水を飲んでください。",
+    "exampleMeaning": "请喝水。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10037,
+    "japanese": "見る",
+    "kana": "みる",
+    "meaning": "看；观看",
+    "example": "夜にテレビを見ます。",
+    "exampleMeaning": "晚上看电视。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10038,
+    "japanese": "聞く",
+    "kana": "きく",
+    "meaning": "听；询问",
+    "example": "毎朝音楽を聞きます。",
+    "exampleMeaning": "我每天早上听音乐。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10039,
+    "japanese": "読む",
+    "kana": "よむ",
+    "meaning": "读；阅读",
+    "example": "電車の中で本を読みます。",
+    "exampleMeaning": "在电车里看书。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10040,
+    "japanese": "書く",
+    "kana": "かく",
+    "meaning": "写",
+    "example": "ノートに名前を書きます。",
+    "exampleMeaning": "在笔记本上写名字。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10041,
+    "japanese": "買う",
+    "kana": "かう",
+    "meaning": "买；购买",
+    "example": "駅の店で水を買いました。",
+    "exampleMeaning": "我在车站的商店买了水。",
+    "level": "N5",
+    "type": "动词"
+  },
+  {
+    "id": 10042,
+    "japanese": "大きい",
+    "kana": "おおきい",
+    "meaning": "大的",
+    "example": "あの大きい建物は学校です。",
+    "exampleMeaning": "那栋大楼是学校。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10043,
+    "japanese": "小さい",
+    "kana": "ちいさい",
+    "meaning": "小的",
+    "example": "小さい犬がいます。",
+    "exampleMeaning": "有一只小狗。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10044,
+    "japanese": "新しい",
+    "kana": "あたらしい",
+    "meaning": "新的",
+    "example": "新しい本を買いました。",
+    "exampleMeaning": "我买了一本新书。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10045,
+    "japanese": "古い",
+    "kana": "ふるい",
+    "meaning": "旧的；古老的",
+    "example": "これは古い写真です。",
+    "exampleMeaning": "这是一张旧照片。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10046,
+    "japanese": "高い",
+    "kana": "たかい",
+    "meaning": "高的；贵的",
+    "example": "このかばんは少し高いです。",
+    "exampleMeaning": "这个包有点贵。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10047,
+    "japanese": "安い",
+    "kana": "やすい",
+    "meaning": "便宜的",
+    "example": "この店の野菜は安いです。",
+    "exampleMeaning": "这家店的蔬菜很便宜。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10048,
+    "japanese": "暑い",
+    "kana": "あつい",
+    "meaning": "热的（天气）",
+    "example": "今日はとても暑いです。",
+    "exampleMeaning": "今天非常热。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10049,
+    "japanese": "寒い",
+    "kana": "さむい",
+    "meaning": "冷的（天气）",
+    "example": "冬の朝は寒いです。",
+    "exampleMeaning": "冬天的早晨很冷。",
+    "level": "N5",
+    "type": "い形容词"
+  },
+  {
+    "id": 10050,
+    "japanese": "おいしい",
+    "kana": "おいしい",
+    "meaning": "好吃的；美味的",
+    "example": "この料理はとてもおいしいです。",
+    "exampleMeaning": "这道菜非常好吃。",
+    "level": "N5",
+    "type": "い形容词"
+  }
+]
