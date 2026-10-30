@@ -1,0 +1,17 @@
+
+#root {
+  min-height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #dce8d9;
+  color: #354b39;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
