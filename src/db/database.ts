@@ -1,5 +1,6 @@
 
 import Dexie, { type Table } from 'dexie'
+import type { RelatedWord } from '../data/vocabulary'
 
 export interface VocabularyProgress {
   wordId: number
@@ -21,6 +22,7 @@ export interface CustomVocabulary {
   pitchAccent?: number | null
   pitchPattern?: string
   pitchSource?: string
+  relatedWords?: RelatedWord[]
   updatedAt: number
 }
 

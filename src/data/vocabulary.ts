@@ -1,6 +1,13 @@
 
 import vocabularyData from './vocabulary.json'
 
+export type RelatedWord = {
+  category: '连语' | '合成词'
+  japanese: string
+  kana?: string
+  meaning: string
+}
+
 export type Word = {
   id: number
   japanese: string
@@ -14,6 +21,7 @@ export type Word = {
   pitchAccent?: number | null
   pitchPattern?: string
   pitchSource?: string
+  relatedWords?: RelatedWord[]
 }
 
 export const words = vocabularyData as unknown as Word[]

@@ -147,6 +147,18 @@ export default function VocabularyStudyPage() {
                   <h2 className="max-w-xl text-2xl font-semibold leading-snug text-[#526D57]">{currentWord.meaning}</h2>
                   <p className="mt-1 text-xs text-[#899487]">{currentWord.type}</p>
                   {currentWord.example && <div className="mt-3 max-w-lg rounded-xl bg-[#F4F6F1] px-4 py-3"><p className="text-sm font-medium text-[#46574A]">{currentWord.example}</p>{currentWord.exampleMeaning && <p className="mt-1 text-xs text-[#92978E]">{currentWord.exampleMeaning}</p>}</div>}
+                  {!!currentWord.relatedWords?.length && <div className="mt-3 w-full max-w-lg text-left" onClick={event => event.stopPropagation()} onKeyDown={event => event.stopPropagation()}>
+                    <details className="rounded-xl border border-[#E4E9E0] bg-[#F8FAF6] px-3 py-2 text-xs">
+                      <summary className="cursor-pointer font-medium text-[#526D57]">相关表达（{currentWord.relatedWords.length}）</summary>
+                      <div className="mt-2 max-h-32 space-y-2 overflow-y-auto">
+                        {currentWord.relatedWords.map((related, i) => <div key={i} className="border-t border-[#E4E9E0] pt-2">
+                          <span className="mr-2 text-[#71836F]">{related.category}</span><strong>{related.japanese}</strong>
+                          {related.kana && <span className="ml-2 text-[#899487]">{related.kana}</span>}
+                          <p className="mt-1 text-[#858B82]">{related.meaning}</p>
+                        </div>)}
+                      </div>
+                    </details>
+                  </div>}
                   <p className="mt-2 text-[11px] text-[#A0A39B]">点击卡片返回单词正面</p>
                 </>
               )}

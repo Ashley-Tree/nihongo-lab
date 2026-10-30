@@ -1,4 +1,4 @@
-import { words as initialWords, type Word } from "../data/vocabulary";
+import { words as initialWords, type Word, type RelatedWord } from "../data/vocabulary";
 import {
   db,
   type CustomVocabulary,
@@ -73,7 +73,46 @@ export function validateVocabularyInput(value: unknown): VocabularyInput {
     throw new Error(`无效 JLPT 等级：${clean.level}`);
   }
 
-  return clean as unknown as VocabularyInput;
+  // 兼容旧词库：关联词是可选字段；有值时严格检查，避免静默丢失。
+  const related = typeof item.relatedWords === 'string' && item.relatedWords.trim()
+    ? (() => { try { return JSON.parse(item.relatedWords as string) as unknown; }
+        catch { throw new Error('relatedWords 不是有效的 JSON 数组'); } })()
+    : item.relatedWords;
+  let relatedWords: RelatedWord[] | undefined;
+  if (related !== undefined && related !== null) {
+    if (!Array.isArray(related)) throw new Error('relatedWords 必须是数组');
+    if (related.length > 100) throw new Error('relatedWords 最多 100 条');
+    relatedWords = related.map((entry: unknown, index: number): RelatedWord => {
+      if (!entry || typeof entry !== 'object' || Array.isArray(entry))
+        throw new Error(`relatedWords 第 ${index + 1} 条必须是对象`);
+      const r = entry as Record<string, unknown>;
+      if (r.category !== '连语' && r.category !== '合成词')
+        throw new Error(`relatedWords 第 ${index + 1} 条 category 只能是连语或合成词`);
+      if (typeof r.japanese !== 'string' || !r.japanese.trim() ||
+          typeof r.meaning !== 'string' || !r.meaning.trim())
+        throw new Error(`relatedWords 第 ${index + 1} 条缺少日语或释义`);
+      if (r.kana !== undefined && typeof r.kana !== 'string')
+        throw new Error(`relatedWords 第 ${index + 1} 条假名格式错误`);
+      return { category: r.category, japanese: r.japanese.trim(),
+        kana: typeof r.kana === 'string' ? r.kana.trim() : '', meaning: r.meaning.trim() };
+    });
+  }
+  const optionalText = ['romaji', 'pitchPattern', 'pitchSource'] as const;
+  for (const field of optionalText) {
+    if (item[field] !== undefined && item[field] !== null && typeof item[field] !== 'string')
+      throw new Error(`字段格式错误：${field}`);
+  }
+  const accent = item.pitchAccent;
+  if (accent !== undefined && accent !== null && (!Number.isInteger(accent) || (accent as number) < 0))
+    throw new Error('pitchAccent 必须是非负整数或 null');
+  return {
+    ...clean,
+    romaji: typeof item.romaji === 'string' ? item.romaji.trim() : '',
+    pitchAccent: accent === undefined ? null : accent as number | null,
+    pitchPattern: typeof item.pitchPattern === 'string' ? item.pitchPattern.trim() : '',
+    pitchSource: typeof item.pitchSource === 'string' ? item.pitchSource.trim() : '',
+    ...(relatedWords !== undefined ? { relatedWords } : {}),
+  } as VocabularyInput;
 }
 
 export async function getAllVocabulary(): Promise<VocabularyItem[]> {
@@ -326,7 +365,7 @@ const escapeCSV = (value: string | number) => {
   return /[",\r\n]/.test(s) ? `"${s.replaceAll('"', '""')}"` : s;
 };
 export function vocabularyToCSV(words: Word[]): string {
-  const headers = [...requiredFields, ...optionalFields, "pitchAccent"];
+  const headers = [...requiredFields, ...optionalFields, "romaji", "pitchAccent", "pitchPattern", "pitchSource", "relatedWords"];
   return (
     "\uFEFF" +
     [
@@ -335,6 +374,7 @@ export function vocabularyToCSV(words: Word[]): string {
         headers
           .map((h) =>
             escapeCSV(
+              h === "relatedWords" ? JSON.stringify(w.relatedWords ?? []) :
               (w as unknown as Record<string, string | number | null>)[h] ?? "",
             ),
           )

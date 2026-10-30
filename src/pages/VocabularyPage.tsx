@@ -133,6 +133,7 @@ export default function VocabularyPage() {
                         <>
                           <p className="mt-1 text-xs text-[#858B82]">{word.meaning}</p>
                           {word.pitchAccent !== undefined && word.pitchAccent !== null && <p className="mt-1 text-[11px] text-[#899487]">音调：{word.pitchAccent} · {word.pitchPattern || '音调类型待补充'}</p>}
+                          {!!word.relatedWords?.length && <p className="mt-1 text-[11px] text-[#71836F]">相关表达 {word.relatedWords.length} 条 · 进入学习卡片查看</p>}
                         </>
                       ) : <p className="mt-1 text-xs text-[#A0A39B]">点击查看释义</p>}
                     </div>
